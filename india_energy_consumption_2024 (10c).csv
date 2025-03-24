@@ -1,0 +1,3001 @@
+State,Region,Sector,Energy_Source,Month,Year,Total_Consumption_GWh,Renewable,Import_Export,Quantity_GWh
+Rajasthan,North,Residential,Nuclear,12,2024,108,No,Export,170
+Karnataka,West,Residential,Solar,10,2023,2686,No,Export,112
+Madhya Pradesh,Central,Industrial,Wind,10,2024,2664,No,Import,855
+Gujarat,East,Industrial,Solar,4,2023,2664,Yes,Import,421
+Rajasthan,South,Commercial,Solar,7,2023,4528,No,Export,795
+Delhi,West,Commercial,Nuclear,2,2024,1461,No,Export,192
+Uttar Pradesh,East,Industrial,Solar,3,2024,134,No,Export,426
+Rajasthan,Central,Agriculture,Hydro,7,2023,1583,No,Import,125
+Madhya Pradesh,North,Residential,Solar,7,2024,3847,Yes,Import,883
+Gujarat,Central,Commercial,Oil,10,2023,2724,No,Export,408
+Karnataka,South,Residential,Hydro,3,2024,2923,Yes,Export,966
+Madhya Pradesh,West,Transport,Nuclear,12,2023,3170,No,Import,788
+Madhya Pradesh,West,Industrial,Wind,1,2023,1140,No,Export,685
+Uttar Pradesh,South,Agriculture,Biomass,12,2023,2884,No,Export,664
+West Bengal,East,Transport,Oil,3,2023,4274,No,Import,446
+Gujarat,East,Transport,Hydro,5,2023,2126,No,Import,327
+Tamil Nadu,West,Transport,Wind,7,2024,3240,Yes,Import,825
+Madhya Pradesh,West,Industrial,Wind,4,2024,4837,No,Import,615
+West Bengal,North,Commercial,Hydro,11,2023,4278,No,Export,259
+Tamil Nadu,East,Industrial,Nuclear,11,2023,1258,No,Import,920
+Gujarat,South,Commercial,Coal,1,2024,3627,Yes,Export,456
+Maharashtra,East,Transport,Wind,6,2024,4791,No,Export,506
+Delhi,North,Transport,Wind,2,2024,2631,Yes,Export,352
+West Bengal,West,Agriculture,Nuclear,12,2024,3837,No,Import,436
+Andhra Pradesh,West,Commercial,Nuclear,3,2024,565,Yes,Import,827
+Maharashtra,North,Transport,Solar,4,2023,2262,No,Export,837
+Delhi,South,Residential,Nuclear,6,2023,3024,No,Export,249
+Uttar Pradesh,West,Agriculture,Wind,6,2024,982,Yes,Import,68
+Rajasthan,Central,Industrial,Hydro,7,2024,1713,No,Export,536
+Karnataka,West,Agriculture,Coal,5,2024,606,No,Export,806
+Andhra Pradesh,Central,Residential,Natural Gas,7,2024,1721,Yes,Export,212
+Uttar Pradesh,North,Commercial,Solar,2,2024,1042,No,Export,758
+Gujarat,North,Industrial,Natural Gas,1,2024,1678,Yes,Export,475
+Uttar Pradesh,West,Industrial,Hydro,12,2024,1741,Yes,Export,305
+Rajasthan,East,Commercial,Coal,10,2024,4902,Yes,Export,296
+Gujarat,Central,Agriculture,Coal,8,2024,1154,No,Export,82
+Andhra Pradesh,South,Transport,Coal,1,2023,1320,No,Import,735
+Rajasthan,West,Agriculture,Biomass,12,2024,2952,No,Import,532
+Tamil Nadu,South,Residential,Hydro,2,2024,4794,No,Export,346
+Karnataka,West,Transport,Oil,11,2023,1459,Yes,Export,746
+Andhra Pradesh,East,Agriculture,Solar,12,2023,3696,No,Import,327
+Tamil Nadu,East,Commercial,Solar,10,2023,1380,Yes,Import,212
+Delhi,East,Residential,Coal,6,2024,4773,No,Import,240
+Andhra Pradesh,East,Residential,Hydro,1,2024,2104,Yes,Export,913
+Delhi,North,Residential,Biomass,10,2024,1003,Yes,Import,572
+Gujarat,North,Transport,Coal,3,2024,1892,No,Import,66
+Tamil Nadu,Central,Industrial,Nuclear,7,2023,2852,No,Export,653
+Karnataka,South,Transport,Oil,12,2024,59,Yes,Import,429
+Rajasthan,West,Agriculture,Natural Gas,8,2024,2659,No,Export,924
+Madhya Pradesh,West,Industrial,Solar,4,2023,171,Yes,Import,289
+Uttar Pradesh,North,Agriculture,Natural Gas,12,2024,4832,No,Import,818
+Maharashtra,West,Industrial,Wind,3,2024,2610,No,Import,314
+Karnataka,North,Transport,Coal,1,2024,3087,Yes,Import,475
+Tamil Nadu,Central,Residential,Nuclear,12,2024,490,Yes,Import,746
+Madhya Pradesh,South,Commercial,Solar,9,2023,2799,Yes,Export,183
+Karnataka,Central,Residential,Natural Gas,10,2023,640,Yes,Export,813
+Tamil Nadu,East,Transport,Oil,6,2023,1418,Yes,Import,275
+West Bengal,East,Industrial,Biomass,6,2023,2039,No,Export,256
+West Bengal,East,Residential,Hydro,9,2024,1411,No,Import,87
+Delhi,Central,Transport,Solar,1,2024,3823,Yes,Import,656
+Karnataka,West,Agriculture,Oil,6,2024,2114,No,Import,661
+West Bengal,South,Commercial,Natural Gas,12,2023,2465,No,Import,863
+Tamil Nadu,East,Residential,Hydro,5,2023,3001,No,Import,262
+Delhi,East,Industrial,Natural Gas,11,2023,2818,No,Export,484
+Tamil Nadu,East,Agriculture,Hydro,6,2024,3466,No,Export,185
+Delhi,South,Transport,Biomass,11,2024,1626,No,Export,430
+Karnataka,East,Commercial,Biomass,8,2023,164,Yes,Export,980
+Madhya Pradesh,South,Industrial,Coal,5,2023,1418,Yes,Import,941
+Rajasthan,East,Transport,Coal,2,2024,188,No,Export,581
+Andhra Pradesh,Central,Transport,Solar,12,2024,4973,Yes,Import,470
+Madhya Pradesh,Central,Residential,Biomass,12,2024,4991,No,Import,873
+Gujarat,South,Residential,Nuclear,2,2023,3423,Yes,Export,263
+Tamil Nadu,Central,Industrial,Natural Gas,10,2023,1365,No,Export,529
+Gujarat,South,Transport,Natural Gas,5,2023,123,Yes,Import,912
+Madhya Pradesh,Central,Residential,Natural Gas,3,2023,3896,No,Import,116
+Delhi,Central,Commercial,Solar,10,2024,533,No,Import,180
+Andhra Pradesh,South,Commercial,Natural Gas,3,2024,4161,Yes,Export,67
+Andhra Pradesh,West,Transport,Wind,8,2024,1599,Yes,Import,346
+Maharashtra,Central,Residential,Hydro,7,2023,1409,No,Import,351
+Andhra Pradesh,East,Industrial,Natural Gas,1,2024,1946,Yes,Import,951
+Rajasthan,West,Industrial,Oil,12,2024,4274,Yes,Import,299
+Andhra Pradesh,South,Industrial,Hydro,12,2024,560,Yes,Export,93
+Madhya Pradesh,West,Commercial,Coal,5,2024,472,No,Export,126
+Maharashtra,North,Residential,Natural Gas,9,2024,2482,No,Import,721
+Madhya Pradesh,North,Residential,Oil,4,2023,1956,No,Export,543
+Madhya Pradesh,Central,Commercial,Nuclear,1,2024,4377,No,Import,228
+Uttar Pradesh,Central,Industrial,Oil,8,2024,1008,No,Export,747
+Maharashtra,East,Industrial,Biomass,5,2023,874,No,Export,926
+Madhya Pradesh,West,Transport,Biomass,2,2023,114,No,Export,792
+Uttar Pradesh,North,Agriculture,Coal,12,2024,4978,Yes,Export,910
+Uttar Pradesh,Central,Residential,Wind,1,2024,4760,Yes,Import,111
+Maharashtra,West,Residential,Solar,12,2024,3398,No,Import,666
+Gujarat,Central,Residential,Solar,12,2024,850,No,Import,465
+Delhi,Central,Agriculture,Nuclear,12,2023,327,Yes,Export,668
+Rajasthan,North,Transport,Coal,3,2024,1767,Yes,Export,782
+Delhi,North,Agriculture,Coal,9,2023,2463,No,Import,800
+Andhra Pradesh,Central,Industrial,Wind,1,2024,1288,No,Export,860
+Rajasthan,South,Industrial,Natural Gas,4,2024,4573,Yes,Export,535
+Andhra Pradesh,Central,Residential,Solar,8,2024,1536,No,Import,275
+Madhya Pradesh,Central,Commercial,Natural Gas,8,2023,4731,No,Export,296
+Tamil Nadu,East,Residential,Coal,10,2024,3348,No,Import,150
+Maharashtra,East,Commercial,Natural Gas,12,2024,4520,No,Export,904
+Rajasthan,East,Agriculture,Biomass,11,2023,3045,Yes,Import,415
+Rajasthan,South,Industrial,Nuclear,11,2024,142,No,Export,302
+Madhya Pradesh,South,Commercial,Solar,8,2023,3581,No,Export,944
+Gujarat,Central,Agriculture,Wind,10,2024,1890,No,Export,915
+Uttar Pradesh,East,Industrial,Nuclear,8,2023,3577,Yes,Export,40
+Madhya Pradesh,South,Commercial,Hydro,4,2023,1671,No,Export,180
+West Bengal,North,Residential,Biomass,8,2023,1611,Yes,Import,364
+Uttar Pradesh,Central,Residential,Wind,9,2024,1466,Yes,Export,214
+Maharashtra,West,Residential,Oil,7,2023,3014,No,Import,487
+Uttar Pradesh,Central,Agriculture,Nuclear,12,2023,4240,No,Import,941
+Gujarat,West,Residential,Coal,2,2024,1180,No,Import,300
+Uttar Pradesh,East,Transport,Hydro,9,2023,1463,No,Export,120
+Maharashtra,West,Industrial,Wind,11,2024,3647,No,Import,77
+Gujarat,East,Agriculture,Coal,8,2024,3794,No,Export,704
+Delhi,North,Residential,Biomass,5,2023,2168,No,Export,382
+Rajasthan,West,Industrial,Oil,12,2023,713,Yes,Export,205
+Rajasthan,Central,Commercial,Hydro,3,2024,2684,No,Import,135
+Andhra Pradesh,East,Residential,Solar,7,2023,2824,No,Export,696
+Delhi,Central,Industrial,Oil,2,2023,4019,Yes,Export,271
+Delhi,South,Transport,Coal,3,2023,3540,No,Export,896
+Uttar Pradesh,East,Commercial,Nuclear,12,2023,1621,No,Import,933
+Rajasthan,West,Transport,Natural Gas,9,2024,1573,Yes,Import,807
+Maharashtra,East,Industrial,Wind,4,2024,1037,No,Import,164
+Karnataka,Central,Transport,Hydro,4,2023,3288,No,Import,590
+Karnataka,North,Industrial,Coal,3,2024,3895,Yes,Export,117
+Gujarat,East,Industrial,Solar,5,2023,3743,Yes,Import,432
+Rajasthan,West,Transport,Natural Gas,3,2023,148,No,Export,44
+Rajasthan,South,Industrial,Wind,9,2023,2338,No,Import,880
+Karnataka,North,Residential,Wind,3,2023,1564,No,Export,53
+Rajasthan,South,Industrial,Coal,2,2024,4347,No,Import,664
+Uttar Pradesh,East,Agriculture,Solar,12,2023,683,No,Import,732
+West Bengal,Central,Industrial,Biomass,5,2024,4891,No,Import,999
+Tamil Nadu,Central,Agriculture,Natural Gas,6,2023,4635,Yes,Export,425
+Delhi,West,Industrial,Biomass,1,2024,628,Yes,Export,294
+Andhra Pradesh,Central,Industrial,Hydro,12,2024,4009,No,Import,456
+Gujarat,North,Transport,Coal,11,2024,322,No,Import,527
+West Bengal,Central,Residential,Natural Gas,6,2024,4931,No,Import,739
+Karnataka,West,Residential,Hydro,10,2023,4004,No,Import,36
+Delhi,East,Commercial,Oil,3,2024,3977,No,Import,236
+Rajasthan,East,Transport,Biomass,4,2023,502,No,Import,805
+Andhra Pradesh,Central,Transport,Oil,6,2024,1225,No,Export,910
+Rajasthan,South,Residential,Oil,8,2024,4961,No,Export,434
+Maharashtra,East,Transport,Natural Gas,9,2024,463,No,Export,577
+Maharashtra,Central,Residential,Wind,6,2023,1600,No,Export,377
+Andhra Pradesh,West,Transport,Hydro,7,2024,4576,Yes,Export,319
+Andhra Pradesh,Central,Industrial,Oil,5,2023,1996,No,Export,857
+Karnataka,East,Residential,Solar,12,2023,241,No,Import,114
+Andhra Pradesh,West,Residential,Nuclear,9,2023,90,Yes,Import,27
+Uttar Pradesh,Central,Agriculture,Biomass,4,2024,1909,No,Import,214
+Rajasthan,North,Transport,Biomass,10,2024,1382,No,Import,52
+West Bengal,West,Transport,Solar,11,2024,3499,Yes,Import,98
+Madhya Pradesh,North,Residential,Natural Gas,6,2024,185,No,Export,595
+Andhra Pradesh,South,Industrial,Natural Gas,5,2024,4251,Yes,Export,166
+Gujarat,West,Industrial,Natural Gas,1,2024,4664,Yes,Export,275
+Maharashtra,North,Industrial,Hydro,5,2024,1991,No,Export,143
+Uttar Pradesh,East,Transport,Coal,5,2023,1615,No,Export,473
+Delhi,East,Agriculture,Oil,9,2024,4271,No,Import,610
+Madhya Pradesh,South,Residential,Wind,1,2023,438,No,Export,757
+West Bengal,West,Commercial,Nuclear,5,2023,1608,No,Export,141
+Madhya Pradesh,West,Agriculture,Coal,7,2024,2171,Yes,Export,750
+Andhra Pradesh,West,Commercial,Coal,11,2024,1078,Yes,Import,43
+Karnataka,South,Agriculture,Solar,6,2023,3584,No,Import,92
+Maharashtra,West,Industrial,Hydro,6,2023,131,Yes,Import,938
+Maharashtra,East,Transport,Biomass,12,2024,825,No,Import,141
+Delhi,North,Commercial,Biomass,7,2023,3088,No,Import,437
+Karnataka,East,Agriculture,Solar,6,2023,4423,No,Import,875
+Rajasthan,East,Transport,Hydro,5,2023,2937,Yes,Export,213
+Tamil Nadu,North,Commercial,Solar,10,2023,1928,No,Export,808
+Uttar Pradesh,East,Residential,Biomass,5,2024,2321,No,Export,345
+Maharashtra,South,Agriculture,Coal,9,2024,1657,Yes,Import,971
+Gujarat,North,Residential,Wind,8,2023,3189,No,Import,506
+Maharashtra,East,Industrial,Oil,12,2023,655,No,Import,451
+Madhya Pradesh,Central,Residential,Natural Gas,10,2023,4785,No,Import,837
+Maharashtra,East,Residential,Hydro,4,2024,3464,Yes,Export,267
+Maharashtra,South,Agriculture,Oil,4,2024,3715,Yes,Import,301
+Tamil Nadu,West,Industrial,Nuclear,10,2023,2194,No,Import,975
+Tamil Nadu,East,Residential,Nuclear,5,2023,4320,Yes,Import,134
+West Bengal,West,Transport,Coal,3,2023,3815,Yes,Import,965
+Rajasthan,Central,Commercial,Solar,8,2024,1426,Yes,Import,672
+Gujarat,East,Residential,Solar,7,2023,3512,Yes,Export,880
+Maharashtra,North,Industrial,Biomass,5,2023,397,Yes,Import,768
+Maharashtra,West,Residential,Coal,10,2023,50,Yes,Import,184
+Uttar Pradesh,Central,Commercial,Biomass,3,2023,112,No,Export,893
+Tamil Nadu,North,Industrial,Biomass,5,2023,1833,No,Import,501
+Gujarat,North,Agriculture,Nuclear,3,2024,3864,No,Import,878
+Delhi,North,Industrial,Biomass,10,2024,275,No,Export,823
+West Bengal,North,Agriculture,Oil,5,2024,1092,No,Export,89
+Rajasthan,East,Industrial,Natural Gas,1,2023,894,No,Export,628
+Karnataka,East,Commercial,Biomass,6,2024,2730,No,Export,821
+Rajasthan,East,Commercial,Nuclear,10,2023,4169,No,Export,924
+Madhya Pradesh,Central,Industrial,Natural Gas,4,2024,1284,No,Export,314
+Maharashtra,Central,Residential,Solar,4,2024,2034,No,Export,519
+West Bengal,Central,Commercial,Hydro,8,2023,4306,No,Export,353
+Madhya Pradesh,South,Agriculture,Wind,2,2023,1328,No,Export,579
+Gujarat,Central,Agriculture,Biomass,4,2023,1644,Yes,Export,100
+Karnataka,East,Transport,Oil,2,2024,2601,Yes,Import,656
+Tamil Nadu,East,Agriculture,Natural Gas,1,2023,2002,Yes,Export,871
+West Bengal,South,Transport,Hydro,10,2024,1745,Yes,Export,178
+West Bengal,South,Industrial,Nuclear,3,2024,1004,Yes,Export,343
+Maharashtra,Central,Industrial,Hydro,12,2024,3341,No,Export,643
+Andhra Pradesh,West,Industrial,Wind,8,2023,406,No,Export,245
+West Bengal,South,Residential,Oil,6,2023,3645,No,Import,408
+Uttar Pradesh,North,Residential,Hydro,12,2023,1018,Yes,Import,597
+Karnataka,East,Transport,Oil,7,2024,291,No,Import,830
+Karnataka,North,Agriculture,Natural Gas,2,2024,3496,No,Export,486
+Uttar Pradesh,East,Agriculture,Hydro,6,2023,4284,Yes,Export,544
+Delhi,East,Industrial,Oil,8,2024,2194,No,Import,854
+Uttar Pradesh,South,Commercial,Hydro,8,2024,196,No,Export,594
+Uttar Pradesh,South,Residential,Hydro,4,2024,592,No,Export,97
+Karnataka,North,Residential,Coal,6,2023,741,Yes,Import,624
+Rajasthan,East,Industrial,Biomass,5,2024,1075,No,Export,615
+Karnataka,North,Residential,Nuclear,9,2024,4100,No,Export,970
+Andhra Pradesh,West,Industrial,Wind,8,2023,4055,No,Export,837
+Maharashtra,North,Transport,Nuclear,2,2023,3409,No,Export,787
+Madhya Pradesh,Central,Agriculture,Coal,12,2023,3001,No,Export,262
+Rajasthan,North,Commercial,Coal,7,2023,779,No,Export,367
+Tamil Nadu,Central,Agriculture,Natural Gas,7,2023,4549,Yes,Export,67
+Madhya Pradesh,Central,Agriculture,Coal,11,2023,2605,No,Import,952
+Maharashtra,Central,Transport,Biomass,12,2024,1200,Yes,Import,408
+Andhra Pradesh,West,Residential,Coal,1,2024,1785,No,Export,530
+Andhra Pradesh,North,Commercial,Hydro,1,2024,1088,No,Export,534
+Tamil Nadu,North,Residential,Nuclear,12,2024,2962,Yes,Import,928
+Rajasthan,West,Agriculture,Solar,4,2023,4890,No,Import,426
+Delhi,East,Industrial,Wind,5,2024,2590,No,Import,402
+Uttar Pradesh,South,Agriculture,Coal,4,2023,4464,Yes,Import,652
+Rajasthan,North,Residential,Nuclear,7,2023,1292,No,Import,231
+Delhi,South,Agriculture,Natural Gas,3,2024,822,Yes,Import,338
+Andhra Pradesh,West,Industrial,Coal,7,2024,1966,No,Import,381
+Karnataka,East,Transport,Biomass,8,2023,3462,Yes,Export,520
+Maharashtra,East,Residential,Coal,6,2023,2549,No,Import,162
+Tamil Nadu,East,Agriculture,Coal,6,2023,3490,No,Import,902
+Maharashtra,West,Residential,Oil,8,2023,3595,No,Import,888
+Gujarat,Central,Transport,Oil,8,2024,1263,Yes,Export,993
+Gujarat,Central,Agriculture,Coal,7,2023,2981,No,Export,489
+Rajasthan,South,Agriculture,Natural Gas,6,2024,468,No,Export,592
+Andhra Pradesh,Central,Residential,Oil,6,2023,3831,Yes,Import,941
+Andhra Pradesh,Central,Residential,Coal,10,2023,838,No,Import,866
+Uttar Pradesh,East,Industrial,Wind,11,2023,1921,Yes,Import,29
+Uttar Pradesh,East,Transport,Nuclear,6,2024,4640,No,Export,602
+Uttar Pradesh,South,Industrial,Oil,8,2023,2075,No,Export,959
+Karnataka,North,Agriculture,Oil,1,2024,2496,No,Export,237
+Madhya Pradesh,South,Residential,Biomass,5,2024,4873,No,Export,355
+West Bengal,South,Agriculture,Coal,3,2024,610,No,Export,28
+Madhya Pradesh,West,Agriculture,Coal,12,2023,2701,Yes,Export,453
+Maharashtra,West,Commercial,Coal,8,2024,3954,No,Import,686
+Madhya Pradesh,South,Commercial,Coal,11,2024,589,No,Export,377
+Karnataka,South,Agriculture,Oil,6,2023,4805,No,Export,908
+Maharashtra,South,Residential,Hydro,2,2023,3186,No,Export,628
+Madhya Pradesh,Central,Agriculture,Hydro,7,2024,3339,Yes,Export,898
+Karnataka,West,Commercial,Solar,7,2024,2660,No,Import,869
+West Bengal,South,Residential,Coal,5,2023,4962,Yes,Import,735
+Madhya Pradesh,East,Agriculture,Solar,8,2024,1994,Yes,Export,760
+Karnataka,East,Transport,Wind,5,2024,3195,No,Import,156
+Uttar Pradesh,Central,Transport,Solar,1,2024,2808,Yes,Import,702
+Andhra Pradesh,Central,Agriculture,Nuclear,9,2023,3310,Yes,Import,513
+Uttar Pradesh,North,Residential,Hydro,4,2024,4157,No,Import,439
+Andhra Pradesh,North,Agriculture,Hydro,2,2023,1945,Yes,Import,857
+Tamil Nadu,North,Agriculture,Coal,4,2023,2550,Yes,Import,449
+Tamil Nadu,Central,Commercial,Oil,9,2023,2879,Yes,Import,207
+Tamil Nadu,Central,Transport,Coal,2,2024,3923,Yes,Export,296
+West Bengal,Central,Commercial,Wind,4,2023,97,No,Import,574
+Uttar Pradesh,East,Commercial,Biomass,2,2024,2414,No,Export,378
+Andhra Pradesh,Central,Agriculture,Wind,5,2023,2306,No,Import,249
+Karnataka,East,Commercial,Nuclear,3,2024,4722,No,Import,811
+Maharashtra,North,Transport,Coal,10,2024,803,Yes,Import,296
+Karnataka,North,Commercial,Coal,2,2024,2852,Yes,Export,709
+Maharashtra,North,Transport,Wind,9,2023,4699,Yes,Import,404
+Gujarat,South,Commercial,Wind,5,2024,3702,No,Export,527
+Karnataka,South,Transport,Wind,10,2024,452,No,Import,804
+Madhya Pradesh,West,Commercial,Hydro,5,2023,2136,No,Import,784
+Madhya Pradesh,West,Commercial,Solar,1,2023,2277,Yes,Export,570
+Rajasthan,West,Residential,Solar,6,2024,3460,Yes,Import,873
+Uttar Pradesh,South,Transport,Coal,7,2023,3040,No,Import,721
+Maharashtra,South,Transport,Hydro,1,2023,4693,Yes,Import,69
+Maharashtra,West,Transport,Wind,9,2023,1199,No,Export,554
+Uttar Pradesh,West,Industrial,Coal,8,2024,112,No,Import,312
+West Bengal,Central,Commercial,Hydro,12,2023,4989,No,Import,253
+Rajasthan,West,Transport,Nuclear,8,2024,3203,No,Import,693
+West Bengal,Central,Industrial,Biomass,7,2023,1058,No,Export,216
+West Bengal,East,Residential,Hydro,5,2023,2081,No,Import,384
+West Bengal,South,Transport,Natural Gas,3,2024,1372,No,Export,292
+Uttar Pradesh,West,Transport,Coal,12,2023,2131,Yes,Import,487
+West Bengal,South,Industrial,Oil,9,2023,801,No,Import,31
+Madhya Pradesh,South,Commercial,Solar,7,2023,4194,No,Export,568
+Tamil Nadu,South,Residential,Natural Gas,11,2023,707,Yes,Export,358
+Gujarat,East,Transport,Wind,10,2024,1710,No,Export,498
+Maharashtra,North,Commercial,Biomass,10,2024,750,Yes,Export,953
+Maharashtra,West,Residential,Oil,8,2024,1130,No,Export,679
+Gujarat,North,Agriculture,Nuclear,6,2024,2206,No,Import,267
+Uttar Pradesh,North,Agriculture,Oil,12,2024,1590,Yes,Import,664
+Karnataka,North,Residential,Biomass,11,2024,3082,Yes,Export,56
+Uttar Pradesh,South,Industrial,Oil,5,2024,2033,No,Import,36
+Maharashtra,Central,Residential,Biomass,8,2023,364,No,Import,976
+Maharashtra,South,Residential,Hydro,3,2024,3131,No,Export,36
+Gujarat,South,Industrial,Coal,12,2024,4783,Yes,Export,990
+West Bengal,North,Industrial,Oil,7,2024,2364,No,Export,406
+Uttar Pradesh,South,Commercial,Oil,2,2023,2185,No,Import,960
+Andhra Pradesh,North,Commercial,Coal,3,2024,1699,Yes,Export,154
+Gujarat,Central,Industrial,Biomass,12,2024,3269,Yes,Import,596
+Madhya Pradesh,West,Agriculture,Wind,2,2024,3850,Yes,Export,708
+Maharashtra,North,Agriculture,Coal,5,2023,2528,Yes,Export,531
+Gujarat,Central,Residential,Biomass,7,2024,4117,No,Export,130
+Uttar Pradesh,West,Transport,Coal,11,2023,1825,Yes,Export,810
+Maharashtra,East,Residential,Wind,10,2023,2016,No,Import,471
+Karnataka,North,Residential,Nuclear,11,2023,1817,No,Import,686
+Gujarat,North,Transport,Natural Gas,11,2023,3865,Yes,Import,391
+Rajasthan,East,Industrial,Biomass,11,2024,291,No,Export,785
+Maharashtra,East,Agriculture,Solar,10,2023,4847,Yes,Import,682
+Uttar Pradesh,North,Residential,Solar,1,2023,2999,No,Import,912
+Tamil Nadu,East,Transport,Biomass,10,2024,4886,Yes,Import,427
+Andhra Pradesh,South,Commercial,Hydro,9,2023,4926,No,Export,336
+Delhi,West,Residential,Nuclear,1,2023,2306,No,Import,400
+West Bengal,West,Agriculture,Hydro,1,2023,4161,No,Export,306
+Delhi,West,Industrial,Natural Gas,12,2023,3418,No,Export,639
+Uttar Pradesh,South,Residential,Solar,10,2023,416,No,Import,832
+Madhya Pradesh,East,Residential,Wind,8,2023,2877,Yes,Import,784
+Madhya Pradesh,Central,Transport,Biomass,6,2024,1302,No,Export,93
+Tamil Nadu,East,Commercial,Natural Gas,6,2024,2537,No,Export,155
+West Bengal,North,Commercial,Oil,12,2024,4835,No,Export,180
+Rajasthan,West,Industrial,Oil,9,2024,3653,Yes,Import,343
+Tamil Nadu,East,Agriculture,Coal,4,2023,3571,Yes,Export,433
+Delhi,Central,Industrial,Solar,8,2023,4992,No,Export,318
+Tamil Nadu,North,Residential,Nuclear,4,2023,4567,No,Export,535
+Delhi,South,Residential,Solar,2,2024,1693,Yes,Import,670
+Maharashtra,South,Commercial,Nuclear,11,2024,1262,No,Export,890
+Madhya Pradesh,Central,Agriculture,Nuclear,8,2023,4753,No,Export,772
+Maharashtra,North,Transport,Biomass,12,2023,69,No,Export,578
+Andhra Pradesh,West,Agriculture,Nuclear,7,2024,725,No,Export,356
+West Bengal,East,Residential,Hydro,4,2024,4527,Yes,Export,311
+Rajasthan,North,Transport,Oil,9,2024,658,Yes,Import,931
+Delhi,South,Agriculture,Natural Gas,9,2024,111,Yes,Import,356
+Rajasthan,Central,Agriculture,Wind,8,2023,1315,No,Export,417
+Delhi,Central,Transport,Solar,1,2024,2335,No,Export,142
+Uttar Pradesh,East,Residential,Wind,7,2024,1204,Yes,Export,691
+Tamil Nadu,Central,Agriculture,Natural Gas,5,2023,1678,No,Export,623
+Andhra Pradesh,Central,Transport,Coal,7,2023,1676,No,Export,997
+Madhya Pradesh,North,Residential,Natural Gas,12,2023,3766,Yes,Export,115
+Delhi,West,Transport,Solar,9,2024,1492,Yes,Import,180
+Rajasthan,East,Transport,Oil,2,2024,1703,No,Export,649
+Andhra Pradesh,North,Agriculture,Wind,11,2024,2552,Yes,Export,259
+Karnataka,West,Residential,Wind,4,2024,3319,No,Import,553
+Karnataka,North,Agriculture,Biomass,4,2023,331,No,Import,737
+Maharashtra,North,Industrial,Biomass,2,2023,1074,No,Import,271
+Madhya Pradesh,Central,Industrial,Natural Gas,3,2024,4868,No,Import,851
+Uttar Pradesh,West,Residential,Natural Gas,11,2024,3453,No,Export,503
+Rajasthan,East,Transport,Coal,8,2024,1285,No,Import,253
+Tamil Nadu,East,Agriculture,Nuclear,12,2023,4232,No,Import,460
+Tamil Nadu,West,Agriculture,Solar,9,2024,4810,No,Import,912
+Rajasthan,Central,Residential,Biomass,6,2023,835,Yes,Export,806
+West Bengal,South,Residential,Solar,10,2024,3367,Yes,Export,299
+Uttar Pradesh,North,Industrial,Coal,2,2023,1717,No,Export,272
+Andhra Pradesh,Central,Commercial,Biomass,2,2023,3058,No,Import,858
+Delhi,West,Residential,Biomass,7,2024,3244,Yes,Export,854
+West Bengal,North,Commercial,Nuclear,8,2023,4839,Yes,Import,323
+Delhi,East,Residential,Solar,8,2023,3825,No,Import,94
+Delhi,South,Transport,Oil,6,2024,2496,Yes,Import,424
+West Bengal,East,Transport,Solar,10,2023,3840,No,Import,338
+Maharashtra,West,Industrial,Solar,8,2024,583,No,Export,54
+Karnataka,North,Industrial,Nuclear,1,2023,451,No,Export,824
+Delhi,West,Commercial,Biomass,9,2023,3713,Yes,Export,342
+West Bengal,North,Residential,Coal,12,2023,179,Yes,Export,474
+West Bengal,Central,Agriculture,Solar,1,2023,2389,Yes,Import,209
+Gujarat,South,Industrial,Wind,3,2024,4421,Yes,Import,210
+Maharashtra,Central,Agriculture,Oil,12,2024,3009,No,Import,338
+Madhya Pradesh,Central,Agriculture,Oil,9,2024,1908,No,Import,689
+Gujarat,West,Residential,Nuclear,11,2023,3023,Yes,Import,249
+Gujarat,South,Commercial,Hydro,5,2023,4200,Yes,Export,893
+Rajasthan,North,Residential,Coal,9,2024,3699,Yes,Export,807
+Karnataka,North,Industrial,Wind,9,2024,2836,No,Import,711
+West Bengal,East,Agriculture,Solar,6,2024,3147,No,Import,592
+Karnataka,North,Residential,Hydro,11,2024,3562,No,Export,666
+Uttar Pradesh,West,Residential,Coal,1,2023,4910,No,Export,368
+Rajasthan,Central,Residential,Nuclear,10,2024,1270,No,Import,910
+Madhya Pradesh,Central,Industrial,Hydro,7,2023,691,No,Export,730
+Karnataka,Central,Commercial,Biomass,6,2024,3364,Yes,Export,369
+Tamil Nadu,South,Residential,Natural Gas,9,2023,773,No,Import,387
+Delhi,North,Industrial,Hydro,7,2024,4947,Yes,Import,394
+Uttar Pradesh,West,Agriculture,Natural Gas,12,2024,787,No,Export,729
+Maharashtra,South,Transport,Oil,11,2023,4903,Yes,Export,474
+Madhya Pradesh,East,Industrial,Wind,12,2023,1349,No,Import,231
+Uttar Pradesh,West,Transport,Coal,4,2024,3530,Yes,Export,808
+Delhi,West,Residential,Wind,7,2023,389,No,Export,684
+Rajasthan,West,Residential,Wind,2,2024,202,Yes,Export,374
+Delhi,Central,Industrial,Solar,6,2023,1471,No,Import,81
+Gujarat,West,Transport,Nuclear,6,2024,3101,No,Export,249
+Delhi,North,Residential,Hydro,2,2024,476,Yes,Export,513
+Gujarat,West,Agriculture,Coal,4,2024,3608,No,Import,423
+Rajasthan,Central,Commercial,Oil,8,2024,1185,No,Import,136
+Andhra Pradesh,West,Commercial,Biomass,8,2024,2422,Yes,Export,496
+Gujarat,East,Residential,Nuclear,8,2024,3379,No,Import,606
+Maharashtra,East,Transport,Nuclear,8,2024,999,No,Import,536
+Delhi,Central,Residential,Coal,1,2024,1423,No,Export,257
+Delhi,North,Transport,Nuclear,2,2023,1006,Yes,Import,491
+Maharashtra,North,Agriculture,Solar,12,2023,1751,No,Export,321
+Tamil Nadu,South,Transport,Nuclear,4,2023,2991,No,Export,453
+West Bengal,Central,Residential,Oil,12,2024,2532,No,Import,292
+Andhra Pradesh,West,Agriculture,Oil,9,2024,1353,No,Export,11
+Madhya Pradesh,Central,Industrial,Solar,3,2024,420,Yes,Export,83
+Gujarat,South,Commercial,Hydro,6,2023,3030,Yes,Export,73
+Maharashtra,Central,Residential,Hydro,7,2023,2346,No,Export,782
+Rajasthan,Central,Residential,Wind,8,2023,4848,No,Export,356
+Gujarat,South,Residential,Oil,7,2023,2175,No,Import,333
+West Bengal,North,Agriculture,Solar,3,2023,3016,Yes,Import,248
+Rajasthan,West,Industrial,Biomass,6,2024,4195,No,Export,406
+Uttar Pradesh,South,Transport,Hydro,5,2023,2792,Yes,Export,346
+Delhi,East,Industrial,Nuclear,12,2024,4071,No,Import,350
+Uttar Pradesh,North,Agriculture,Coal,10,2024,2414,No,Export,288
+Gujarat,East,Residential,Coal,4,2024,812,No,Export,362
+West Bengal,North,Commercial,Natural Gas,1,2023,4112,Yes,Export,955
+Andhra Pradesh,West,Residential,Oil,7,2023,1054,No,Import,901
+Gujarat,West,Transport,Solar,8,2024,3805,No,Export,472
+Maharashtra,Central,Commercial,Biomass,2,2023,2896,No,Import,471
+Karnataka,East,Residential,Wind,7,2023,399,Yes,Export,722
+Gujarat,North,Commercial,Nuclear,6,2024,3014,No,Export,302
+Delhi,West,Industrial,Solar,5,2024,736,Yes,Import,807
+Delhi,South,Agriculture,Natural Gas,4,2024,4687,No,Import,742
+Gujarat,West,Residential,Coal,2,2024,3176,Yes,Export,416
+Rajasthan,South,Transport,Solar,10,2024,4506,Yes,Export,171
+Karnataka,North,Industrial,Nuclear,6,2023,2805,Yes,Export,512
+Maharashtra,West,Residential,Biomass,5,2024,3574,Yes,Import,457
+Gujarat,West,Industrial,Oil,2,2023,3674,Yes,Export,704
+Rajasthan,North,Transport,Biomass,10,2023,2782,No,Import,464
+Delhi,West,Residential,Hydro,7,2024,1743,Yes,Export,894
+Delhi,South,Transport,Nuclear,6,2024,2942,No,Export,274
+West Bengal,West,Commercial,Natural Gas,12,2023,3861,Yes,Export,141
+Gujarat,East,Transport,Hydro,11,2024,4230,No,Export,843
+Karnataka,Central,Commercial,Hydro,9,2023,734,No,Export,129
+Tamil Nadu,South,Residential,Hydro,11,2024,4390,Yes,Export,901
+Karnataka,East,Commercial,Solar,10,2024,2969,No,Export,228
+Delhi,North,Residential,Natural Gas,5,2023,3806,Yes,Import,426
+Delhi,South,Residential,Coal,9,2023,3333,No,Export,681
+Uttar Pradesh,Central,Agriculture,Biomass,9,2024,4741,No,Export,514
+Delhi,Central,Residential,Oil,1,2024,4076,Yes,Export,309
+Maharashtra,North,Commercial,Solar,5,2024,1206,Yes,Export,118
+Madhya Pradesh,North,Agriculture,Coal,9,2023,3111,Yes,Import,247
+Gujarat,South,Agriculture,Biomass,7,2024,4495,Yes,Import,302
+Karnataka,West,Residential,Oil,6,2024,2379,No,Export,996
+Madhya Pradesh,North,Transport,Natural Gas,6,2024,1342,No,Export,997
+Rajasthan,West,Transport,Oil,11,2024,1934,Yes,Import,588
+Tamil Nadu,East,Agriculture,Natural Gas,7,2023,1610,Yes,Import,837
+Maharashtra,Central,Residential,Nuclear,1,2023,1033,Yes,Import,196
+Karnataka,West,Transport,Oil,4,2023,2117,Yes,Export,45
+Madhya Pradesh,Central,Residential,Biomass,1,2024,1913,No,Import,570
+Tamil Nadu,West,Residential,Biomass,6,2024,2029,Yes,Import,265
+Uttar Pradesh,East,Agriculture,Natural Gas,4,2024,1786,No,Export,444
+Maharashtra,North,Agriculture,Biomass,1,2023,2502,Yes,Export,628
+Maharashtra,East,Industrial,Wind,9,2023,1968,Yes,Export,17
+Uttar Pradesh,North,Transport,Nuclear,12,2023,750,No,Import,757
+Gujarat,North,Transport,Solar,4,2023,4096,No,Import,187
+Uttar Pradesh,Central,Transport,Oil,12,2024,2123,No,Import,251
+Maharashtra,East,Commercial,Solar,6,2023,4711,No,Import,50
+Maharashtra,West,Residential,Coal,7,2023,3803,No,Export,366
+Madhya Pradesh,East,Agriculture,Solar,8,2024,444,Yes,Import,766
+Delhi,Central,Transport,Hydro,12,2023,2006,No,Export,122
+Tamil Nadu,North,Industrial,Biomass,11,2024,3098,No,Import,886
+Uttar Pradesh,Central,Transport,Solar,9,2024,3502,Yes,Import,777
+Tamil Nadu,South,Residential,Coal,9,2024,572,No,Import,175
+Uttar Pradesh,South,Residential,Coal,8,2024,1612,Yes,Export,513
+Rajasthan,West,Agriculture,Hydro,10,2024,2959,Yes,Import,863
+Maharashtra,Central,Commercial,Coal,11,2023,2899,No,Export,87
+Delhi,West,Agriculture,Natural Gas,12,2023,599,No,Export,728
+Madhya Pradesh,West,Transport,Wind,12,2024,1518,No,Export,832
+Delhi,South,Industrial,Natural Gas,3,2023,882,Yes,Export,887
+Delhi,West,Agriculture,Biomass,12,2024,4532,No,Import,205
+Delhi,South,Commercial,Biomass,2,2023,1471,No,Import,411
+Tamil Nadu,North,Agriculture,Biomass,5,2023,335,Yes,Export,842
+Uttar Pradesh,Central,Residential,Nuclear,1,2023,2795,No,Export,73
+Andhra Pradesh,West,Transport,Solar,3,2023,3815,No,Import,661
+Rajasthan,South,Transport,Wind,1,2023,4514,No,Import,895
+Karnataka,East,Transport,Solar,3,2023,1495,Yes,Export,434
+Delhi,West,Transport,Wind,4,2023,1516,Yes,Import,51
+Gujarat,North,Transport,Solar,7,2024,1826,No,Import,382
+Tamil Nadu,North,Transport,Hydro,12,2024,3705,No,Import,965
+Madhya Pradesh,East,Industrial,Oil,12,2024,964,No,Export,315
+Karnataka,South,Commercial,Natural Gas,5,2023,337,Yes,Export,218
+Andhra Pradesh,West,Transport,Coal,5,2023,4240,No,Export,476
+Gujarat,South,Commercial,Coal,1,2024,2138,No,Export,941
+Andhra Pradesh,North,Transport,Natural Gas,8,2024,4476,Yes,Export,313
+Karnataka,South,Agriculture,Hydro,4,2023,1854,No,Import,976
+Delhi,North,Transport,Wind,10,2024,1228,No,Import,594
+Gujarat,South,Residential,Natural Gas,5,2024,2601,Yes,Import,401
+Andhra Pradesh,East,Industrial,Nuclear,2,2024,4420,Yes,Export,162
+Madhya Pradesh,Central,Agriculture,Wind,12,2024,1638,No,Import,656
+Uttar Pradesh,East,Agriculture,Coal,1,2023,2006,No,Export,371
+Maharashtra,East,Residential,Nuclear,9,2024,1825,No,Export,273
+Uttar Pradesh,Central,Transport,Solar,2,2024,4912,Yes,Export,225
+Karnataka,Central,Industrial,Nuclear,6,2024,1037,Yes,Export,730
+Tamil Nadu,West,Agriculture,Wind,1,2024,1253,No,Export,725
+Maharashtra,West,Industrial,Hydro,1,2023,3380,No,Export,631
+Rajasthan,East,Agriculture,Solar,9,2024,1169,Yes,Import,552
+Madhya Pradesh,East,Transport,Wind,4,2024,246,No,Export,533
+Rajasthan,North,Agriculture,Solar,9,2024,4025,Yes,Import,648
+Gujarat,North,Agriculture,Nuclear,11,2024,575,Yes,Export,834
+Maharashtra,West,Commercial,Coal,5,2024,4777,Yes,Import,203
+Rajasthan,West,Transport,Wind,7,2023,1460,Yes,Export,661
+Rajasthan,North,Residential,Oil,1,2024,4553,No,Export,36
+Andhra Pradesh,North,Residential,Hydro,6,2024,1342,No,Import,55
+Uttar Pradesh,South,Transport,Oil,8,2023,1244,No,Export,656
+Andhra Pradesh,South,Residential,Oil,1,2024,1998,No,Export,838
+Maharashtra,North,Transport,Natural Gas,9,2023,3705,No,Import,963
+Maharashtra,South,Residential,Nuclear,3,2024,4836,No,Import,67
+Karnataka,Central,Commercial,Wind,1,2023,2267,No,Export,22
+Andhra Pradesh,West,Residential,Hydro,1,2023,4304,No,Import,958
+West Bengal,West,Agriculture,Wind,11,2024,3630,No,Import,621
+Uttar Pradesh,North,Transport,Nuclear,6,2023,1067,No,Export,970
+Maharashtra,East,Industrial,Wind,11,2024,3203,Yes,Import,58
+Karnataka,North,Industrial,Solar,6,2023,3640,No,Export,812
+Andhra Pradesh,South,Transport,Nuclear,1,2023,4257,No,Import,103
+Uttar Pradesh,East,Commercial,Wind,3,2024,4119,No,Export,616
+Andhra Pradesh,South,Residential,Natural Gas,7,2023,97,Yes,Export,666
+Rajasthan,Central,Commercial,Coal,10,2024,3713,No,Export,593
+Karnataka,South,Industrial,Wind,3,2023,4521,No,Import,460
+Uttar Pradesh,Central,Transport,Solar,3,2023,877,Yes,Export,388
+Delhi,Central,Transport,Hydro,3,2024,4772,No,Import,19
+Gujarat,South,Commercial,Natural Gas,12,2024,2139,Yes,Export,683
+Gujarat,South,Commercial,Hydro,7,2023,2106,Yes,Export,735
+Uttar Pradesh,Central,Residential,Oil,4,2024,868,No,Export,525
+Andhra Pradesh,East,Agriculture,Natural Gas,4,2024,4802,No,Import,233
+Karnataka,Central,Agriculture,Hydro,3,2023,4034,No,Export,390
+Gujarat,West,Residential,Coal,10,2023,3730,No,Export,550
+Karnataka,Central,Agriculture,Solar,11,2024,1861,Yes,Import,311
+Gujarat,East,Industrial,Oil,9,2023,4935,Yes,Export,212
+Rajasthan,West,Agriculture,Nuclear,2,2024,3164,Yes,Export,951
+Andhra Pradesh,North,Residential,Hydro,4,2024,1679,Yes,Import,598
+Rajasthan,North,Agriculture,Natural Gas,8,2024,1593,No,Import,580
+Gujarat,East,Transport,Solar,6,2024,3629,No,Import,966
+Delhi,Central,Commercial,Wind,7,2024,1954,Yes,Export,205
+Delhi,South,Industrial,Coal,7,2024,1486,Yes,Import,331
+Rajasthan,East,Transport,Solar,2,2023,3367,No,Export,427
+Delhi,West,Transport,Solar,4,2024,3570,Yes,Export,628
+Gujarat,West,Residential,Nuclear,10,2023,3109,No,Import,351
+Uttar Pradesh,North,Commercial,Solar,10,2024,4166,No,Import,398
+Rajasthan,West,Commercial,Nuclear,6,2023,1048,Yes,Export,18
+Tamil Nadu,East,Industrial,Coal,3,2023,1481,Yes,Import,541
+Andhra Pradesh,West,Residential,Coal,9,2023,4602,No,Import,158
+Delhi,East,Industrial,Wind,4,2024,3111,Yes,Export,392
+Delhi,South,Agriculture,Nuclear,10,2023,314,Yes,Import,538
+Maharashtra,North,Transport,Nuclear,2,2023,3781,Yes,Import,21
+West Bengal,West,Industrial,Hydro,6,2024,2324,No,Import,485
+Rajasthan,East,Transport,Hydro,1,2023,3925,No,Export,603
+Madhya Pradesh,Central,Residential,Wind,6,2023,3367,Yes,Import,588
+Delhi,North,Agriculture,Coal,12,2024,2096,No,Import,654
+Andhra Pradesh,South,Residential,Biomass,10,2023,3194,No,Export,965
+Tamil Nadu,East,Agriculture,Hydro,1,2023,3271,No,Export,62
+Delhi,South,Agriculture,Solar,8,2024,3190,Yes,Export,445
+Tamil Nadu,South,Transport,Coal,5,2023,4950,No,Export,215
+Gujarat,West,Residential,Biomass,6,2023,1303,No,Import,953
+Gujarat,West,Residential,Oil,2,2023,772,Yes,Export,995
+West Bengal,East,Industrial,Solar,2,2023,133,Yes,Export,924
+Uttar Pradesh,Central,Residential,Natural Gas,12,2024,4885,Yes,Import,754
+Madhya Pradesh,East,Industrial,Nuclear,9,2024,3420,Yes,Export,922
+Maharashtra,Central,Commercial,Coal,3,2024,3869,Yes,Export,63
+West Bengal,South,Commercial,Natural Gas,6,2024,3414,No,Import,589
+Karnataka,North,Commercial,Wind,10,2023,1807,No,Export,499
+Maharashtra,East,Residential,Nuclear,5,2024,4368,Yes,Export,812
+Rajasthan,East,Residential,Nuclear,12,2024,2830,No,Import,353
+Andhra Pradesh,Central,Industrial,Solar,4,2023,3337,No,Import,178
+Karnataka,South,Agriculture,Natural Gas,10,2023,2502,No,Import,918
+Karnataka,South,Industrial,Nuclear,2,2023,378,No,Import,170
+West Bengal,Central,Commercial,Hydro,8,2024,475,Yes,Import,536
+Uttar Pradesh,South,Industrial,Coal,10,2023,819,No,Import,712
+West Bengal,West,Agriculture,Hydro,7,2023,4025,No,Import,536
+Rajasthan,North,Residential,Solar,11,2023,657,No,Import,296
+Delhi,East,Industrial,Biomass,2,2024,1902,No,Import,884
+Delhi,North,Commercial,Oil,6,2024,2722,Yes,Import,421
+Uttar Pradesh,East,Commercial,Solar,8,2024,2174,Yes,Import,531
+Rajasthan,West,Residential,Coal,7,2024,1350,No,Import,578
+Uttar Pradesh,South,Industrial,Nuclear,1,2024,515,No,Export,208
+Tamil Nadu,Central,Agriculture,Natural Gas,5,2024,2014,No,Import,170
+Delhi,West,Residential,Natural Gas,2,2024,1995,Yes,Import,784
+Karnataka,North,Industrial,Wind,6,2023,2589,No,Import,398
+Madhya Pradesh,Central,Transport,Solar,7,2023,2410,No,Import,483
+Andhra Pradesh,South,Commercial,Coal,7,2023,2089,No,Import,390
+Rajasthan,West,Agriculture,Wind,3,2024,1234,Yes,Export,774
+Maharashtra,Central,Agriculture,Nuclear,7,2024,3984,Yes,Export,640
+Uttar Pradesh,West,Agriculture,Biomass,5,2023,3267,No,Export,601
+Andhra Pradesh,West,Commercial,Solar,8,2023,2832,No,Export,133
+Maharashtra,South,Industrial,Biomass,12,2024,827,No,Import,834
+Andhra Pradesh,East,Residential,Coal,8,2024,3429,No,Export,81
+Madhya Pradesh,Central,Industrial,Biomass,7,2024,2468,No,Export,991
+Maharashtra,South,Residential,Biomass,6,2024,4127,Yes,Import,177
+West Bengal,West,Agriculture,Coal,2,2024,4312,Yes,Export,293
+Gujarat,South,Industrial,Coal,6,2024,2489,Yes,Export,503
+West Bengal,East,Agriculture,Solar,12,2024,4881,Yes,Import,45
+Delhi,Central,Transport,Biomass,11,2024,2039,No,Import,833
+Gujarat,East,Agriculture,Wind,9,2023,1116,No,Export,184
+West Bengal,North,Agriculture,Oil,2,2024,994,Yes,Import,208
+Gujarat,Central,Residential,Coal,1,2024,78,No,Export,125
+Gujarat,East,Transport,Nuclear,11,2024,1947,No,Import,945
+Karnataka,West,Agriculture,Biomass,5,2023,1747,No,Export,324
+Uttar Pradesh,Central,Agriculture,Coal,11,2023,2864,Yes,Export,948
+Uttar Pradesh,Central,Transport,Wind,6,2024,3415,No,Export,229
+Karnataka,South,Transport,Natural Gas,3,2023,2538,Yes,Import,900
+Andhra Pradesh,West,Industrial,Solar,8,2023,1715,No,Import,587
+Tamil Nadu,North,Residential,Biomass,7,2023,4669,No,Export,786
+Andhra Pradesh,East,Transport,Natural Gas,2,2024,1620,Yes,Import,143
+Maharashtra,South,Transport,Coal,12,2024,1783,No,Import,640
+Maharashtra,East,Commercial,Coal,7,2024,809,No,Export,131
+Gujarat,North,Transport,Nuclear,1,2024,2207,No,Import,842
+West Bengal,North,Residential,Nuclear,9,2024,1401,No,Import,908
+West Bengal,Central,Agriculture,Biomass,7,2024,3526,Yes,Export,979
+Uttar Pradesh,North,Agriculture,Natural Gas,6,2024,1318,Yes,Export,430
+Rajasthan,East,Agriculture,Oil,2,2023,1835,No,Import,904
+Andhra Pradesh,West,Agriculture,Natural Gas,3,2024,3999,Yes,Import,501
+Delhi,West,Commercial,Coal,1,2024,2657,No,Import,608
+Madhya Pradesh,Central,Transport,Oil,10,2024,448,Yes,Export,298
+West Bengal,East,Agriculture,Biomass,5,2024,2680,Yes,Import,658
+Madhya Pradesh,East,Industrial,Coal,9,2024,2496,No,Import,62
+Gujarat,North,Agriculture,Nuclear,6,2024,1719,Yes,Import,214
+Madhya Pradesh,East,Transport,Wind,5,2024,288,No,Import,357
+Delhi,South,Agriculture,Hydro,12,2024,3586,No,Import,60
+Karnataka,North,Commercial,Oil,3,2023,3911,No,Import,848
+Delhi,South,Residential,Hydro,5,2023,3153,No,Export,931
+Madhya Pradesh,Central,Residential,Coal,8,2024,1196,Yes,Export,921
+Delhi,West,Transport,Natural Gas,12,2024,1607,No,Export,49
+Tamil Nadu,Central,Residential,Nuclear,2,2023,3788,No,Import,259
+Gujarat,West,Residential,Solar,5,2024,2207,No,Import,227
+Andhra Pradesh,Central,Industrial,Solar,6,2024,3501,No,Export,188
+Karnataka,East,Transport,Hydro,10,2023,349,No,Export,560
+West Bengal,South,Transport,Wind,8,2024,3748,No,Export,192
+Maharashtra,West,Residential,Hydro,8,2024,4103,No,Export,745
+Andhra Pradesh,North,Residential,Coal,5,2024,4909,Yes,Export,173
+Maharashtra,South,Residential,Wind,9,2023,298,Yes,Import,755
+Gujarat,North,Commercial,Solar,4,2023,2618,No,Import,386
+Karnataka,South,Agriculture,Natural Gas,12,2024,4179,Yes,Import,714
+Uttar Pradesh,South,Commercial,Nuclear,9,2023,4373,Yes,Import,506
+West Bengal,Central,Transport,Oil,11,2023,4730,Yes,Import,606
+Tamil Nadu,West,Industrial,Nuclear,7,2023,2910,No,Export,470
+Uttar Pradesh,West,Agriculture,Coal,6,2024,773,Yes,Export,764
+Gujarat,South,Industrial,Hydro,4,2023,619,No,Import,483
+Andhra Pradesh,East,Transport,Coal,2,2023,269,Yes,Export,694
+Tamil Nadu,East,Transport,Oil,8,2023,1444,No,Import,914
+Delhi,North,Industrial,Nuclear,6,2024,2884,No,Import,46
+Madhya Pradesh,North,Industrial,Oil,12,2023,2172,No,Export,608
+Tamil Nadu,Central,Industrial,Solar,3,2023,4281,Yes,Import,650
+Gujarat,South,Transport,Nuclear,7,2024,4050,No,Import,715
+Rajasthan,North,Residential,Wind,10,2023,4399,No,Import,328
+Madhya Pradesh,North,Industrial,Natural Gas,7,2023,3139,No,Export,564
+Maharashtra,South,Agriculture,Oil,6,2023,99,No,Export,421
+West Bengal,Central,Transport,Natural Gas,2,2024,564,No,Import,365
+Maharashtra,North,Commercial,Biomass,8,2024,2841,No,Import,680
+Tamil Nadu,Central,Commercial,Nuclear,1,2023,2828,No,Export,626
+Maharashtra,West,Agriculture,Nuclear,1,2023,2668,No,Export,974
+Gujarat,Central,Residential,Natural Gas,6,2023,1887,No,Export,238
+Delhi,East,Industrial,Biomass,5,2023,4721,No,Export,738
+Andhra Pradesh,East,Transport,Wind,9,2023,1215,No,Import,273
+West Bengal,Central,Industrial,Hydro,12,2023,2299,Yes,Import,939
+Maharashtra,East,Transport,Oil,7,2024,464,No,Import,496
+Maharashtra,West,Commercial,Oil,2,2023,2318,No,Export,570
+Tamil Nadu,South,Industrial,Nuclear,12,2023,1154,No,Export,361
+Andhra Pradesh,East,Agriculture,Natural Gas,7,2023,4908,Yes,Import,451
+Uttar Pradesh,East,Residential,Coal,3,2024,4708,No,Export,644
+Maharashtra,Central,Agriculture,Nuclear,1,2023,3406,No,Import,468
+Gujarat,West,Residential,Coal,11,2024,2466,Yes,Export,824
+Rajasthan,South,Industrial,Wind,8,2023,1984,No,Import,34
+West Bengal,Central,Industrial,Nuclear,12,2023,253,Yes,Import,140
+Maharashtra,Central,Residential,Oil,3,2023,118,No,Import,950
+Gujarat,West,Commercial,Natural Gas,11,2023,565,No,Import,379
+Gujarat,South,Transport,Wind,8,2023,3613,Yes,Export,445
+West Bengal,West,Agriculture,Wind,7,2023,4506,Yes,Import,233
+Uttar Pradesh,South,Agriculture,Hydro,12,2024,1514,No,Import,620
+Gujarat,West,Agriculture,Nuclear,2,2023,1702,Yes,Import,361
+Rajasthan,Central,Industrial,Coal,1,2023,756,No,Import,811
+Gujarat,Central,Agriculture,Coal,7,2023,1675,No,Export,494
+Gujarat,North,Transport,Nuclear,1,2024,4802,No,Import,206
+Gujarat,East,Transport,Biomass,6,2023,3835,Yes,Import,118
+Delhi,West,Residential,Hydro,11,2024,1395,No,Export,869
+Delhi,North,Industrial,Hydro,10,2023,393,No,Import,229
+Uttar Pradesh,East,Transport,Hydro,11,2023,3836,Yes,Import,785
+Maharashtra,West,Commercial,Coal,10,2024,585,Yes,Import,932
+Gujarat,South,Industrial,Wind,8,2024,404,Yes,Import,729
+Andhra Pradesh,East,Industrial,Natural Gas,7,2023,3592,No,Export,328
+Maharashtra,Central,Transport,Biomass,4,2024,1032,Yes,Export,91
+Uttar Pradesh,North,Commercial,Oil,1,2024,1395,Yes,Export,546
+Karnataka,East,Residential,Hydro,1,2023,3059,No,Export,707
+Maharashtra,East,Transport,Coal,4,2023,576,No,Export,441
+Maharashtra,Central,Commercial,Coal,5,2023,980,No,Export,906
+Madhya Pradesh,West,Industrial,Oil,12,2024,2806,No,Import,17
+Tamil Nadu,South,Commercial,Wind,7,2023,2332,Yes,Import,645
+Madhya Pradesh,Central,Industrial,Oil,4,2023,1996,No,Import,158
+Rajasthan,South,Transport,Nuclear,10,2024,3977,Yes,Import,107
+Delhi,West,Transport,Nuclear,12,2024,2591,No,Export,737
+Delhi,East,Agriculture,Natural Gas,1,2023,1966,No,Import,110
+Tamil Nadu,South,Agriculture,Oil,11,2024,3410,Yes,Import,739
+West Bengal,North,Agriculture,Natural Gas,10,2024,1643,No,Export,376
+West Bengal,North,Transport,Hydro,7,2024,2975,No,Import,471
+Uttar Pradesh,Central,Residential,Natural Gas,2,2023,3675,Yes,Import,934
+Tamil Nadu,West,Transport,Hydro,11,2023,1273,No,Export,423
+Maharashtra,Central,Commercial,Biomass,2,2023,2009,No,Import,268
+West Bengal,Central,Transport,Natural Gas,8,2024,1015,No,Import,912
+Gujarat,Central,Transport,Wind,12,2023,3728,No,Export,365
+Andhra Pradesh,North,Industrial,Hydro,10,2023,4362,No,Import,20
+Maharashtra,North,Industrial,Wind,10,2024,672,Yes,Import,425
+Rajasthan,Central,Industrial,Coal,10,2024,4498,Yes,Import,580
+Gujarat,North,Transport,Hydro,5,2023,4837,No,Import,259
+Gujarat,West,Residential,Coal,10,2024,4776,Yes,Import,661
+Tamil Nadu,Central,Commercial,Solar,2,2023,2422,No,Export,856
+Uttar Pradesh,North,Commercial,Wind,5,2023,2998,Yes,Import,559
+Rajasthan,South,Residential,Solar,8,2023,3349,Yes,Import,131
+West Bengal,Central,Residential,Hydro,6,2024,1218,Yes,Import,929
+Tamil Nadu,Central,Commercial,Coal,3,2024,4799,No,Export,74
+West Bengal,West,Agriculture,Hydro,8,2023,441,No,Export,667
+Tamil Nadu,East,Industrial,Solar,9,2023,3859,Yes,Export,311
+Tamil Nadu,East,Industrial,Oil,5,2023,2457,No,Import,134
+Tamil Nadu,West,Commercial,Oil,2,2023,4914,Yes,Import,321
+Uttar Pradesh,West,Residential,Hydro,2,2024,4942,No,Import,200
+Tamil Nadu,West,Agriculture,Biomass,7,2023,4310,Yes,Import,784
+Karnataka,East,Commercial,Nuclear,1,2023,4878,No,Import,882
+Andhra Pradesh,West,Industrial,Solar,10,2024,630,No,Export,459
+West Bengal,North,Transport,Hydro,12,2023,870,No,Import,817
+Maharashtra,Central,Residential,Coal,2,2023,1297,Yes,Import,703
+Madhya Pradesh,Central,Transport,Hydro,10,2023,173,No,Export,168
+Rajasthan,South,Commercial,Oil,4,2023,4489,No,Export,362
+Delhi,South,Industrial,Coal,1,2023,1924,No,Export,829
+Uttar Pradesh,Central,Agriculture,Nuclear,4,2024,573,Yes,Export,999
+Maharashtra,North,Transport,Hydro,12,2024,3173,Yes,Export,808
+Gujarat,East,Agriculture,Natural Gas,11,2024,4274,No,Import,683
+Karnataka,East,Industrial,Oil,10,2024,3248,Yes,Import,272
+Delhi,North,Transport,Natural Gas,5,2023,2835,Yes,Import,738
+Madhya Pradesh,East,Agriculture,Nuclear,9,2024,2168,Yes,Import,921
+Maharashtra,West,Agriculture,Solar,1,2024,1260,No,Import,415
+Delhi,Central,Transport,Coal,12,2024,1076,Yes,Export,702
+Maharashtra,Central,Industrial,Natural Gas,5,2024,4167,No,Import,612
+Karnataka,North,Agriculture,Biomass,2,2024,4311,No,Import,26
+Madhya Pradesh,East,Commercial,Solar,9,2024,547,Yes,Export,646
+Gujarat,South,Transport,Coal,6,2024,4579,No,Export,269
+Tamil Nadu,South,Residential,Oil,2,2024,2855,Yes,Import,966
+West Bengal,East,Residential,Oil,3,2023,4982,No,Import,899
+Gujarat,South,Industrial,Oil,8,2024,1743,No,Export,364
+Tamil Nadu,North,Commercial,Nuclear,1,2023,4808,No,Import,498
+Uttar Pradesh,North,Agriculture,Natural Gas,12,2024,774,Yes,Export,223
+Andhra Pradesh,East,Residential,Oil,3,2024,425,No,Import,248
+Rajasthan,South,Industrial,Wind,10,2024,4448,No,Export,189
+Rajasthan,North,Commercial,Oil,1,2023,2502,No,Export,428
+West Bengal,North,Commercial,Hydro,11,2023,3909,No,Export,693
+Madhya Pradesh,West,Industrial,Nuclear,11,2024,1736,Yes,Import,152
+Karnataka,West,Industrial,Coal,8,2023,4853,No,Export,326
+Madhya Pradesh,North,Agriculture,Coal,1,2024,306,Yes,Export,253
+Karnataka,East,Industrial,Coal,5,2023,4544,Yes,Import,241
+Madhya Pradesh,Central,Agriculture,Coal,4,2023,3650,No,Import,693
+Andhra Pradesh,Central,Agriculture,Hydro,7,2023,100,No,Import,798
+Uttar Pradesh,North,Transport,Solar,5,2024,644,No,Export,598
+Uttar Pradesh,North,Commercial,Biomass,8,2023,4963,Yes,Export,312
+Tamil Nadu,North,Commercial,Wind,12,2023,4781,Yes,Export,340
+Delhi,East,Commercial,Hydro,11,2024,3923,No,Import,570
+Uttar Pradesh,West,Transport,Coal,1,2023,3486,No,Import,958
+Uttar Pradesh,North,Agriculture,Hydro,5,2024,1122,Yes,Export,257
+Gujarat,North,Agriculture,Nuclear,4,2024,1526,No,Import,292
+Gujarat,South,Industrial,Biomass,3,2023,4920,Yes,Import,296
+Tamil Nadu,East,Transport,Coal,5,2024,3070,No,Export,949
+Delhi,North,Industrial,Wind,10,2023,1714,No,Export,41
+West Bengal,South,Transport,Coal,3,2023,4542,No,Import,509
+Gujarat,Central,Industrial,Biomass,8,2024,2780,Yes,Export,679
+West Bengal,North,Residential,Wind,3,2023,1445,No,Import,539
+Maharashtra,North,Commercial,Biomass,1,2023,3947,No,Import,390
+Gujarat,South,Commercial,Wind,9,2024,4674,No,Export,72
+Andhra Pradesh,East,Agriculture,Solar,9,2024,4830,No,Export,137
+Delhi,North,Residential,Natural Gas,6,2023,4095,Yes,Import,537
+Tamil Nadu,Central,Commercial,Solar,10,2024,2710,No,Import,172
+Maharashtra,North,Agriculture,Hydro,1,2024,2283,Yes,Export,967
+Delhi,Central,Residential,Hydro,8,2024,3372,No,Import,260
+Andhra Pradesh,West,Commercial,Oil,2,2024,4247,Yes,Import,658
+Delhi,West,Industrial,Wind,9,2023,4268,No,Import,839
+Andhra Pradesh,Central,Transport,Oil,8,2023,2151,Yes,Import,304
+Andhra Pradesh,East,Residential,Oil,3,2024,1356,Yes,Import,188
+West Bengal,North,Agriculture,Coal,5,2023,1687,Yes,Export,238
+Madhya Pradesh,North,Residential,Natural Gas,9,2024,1190,No,Import,892
+Maharashtra,West,Agriculture,Nuclear,1,2024,665,No,Import,403
+Delhi,Central,Residential,Nuclear,9,2023,4702,No,Export,701
+Karnataka,North,Agriculture,Coal,4,2023,4259,Yes,Export,405
+Maharashtra,North,Commercial,Coal,4,2023,1616,No,Export,81
+Madhya Pradesh,East,Industrial,Solar,4,2023,1026,No,Import,327
+Maharashtra,South,Commercial,Nuclear,10,2024,4846,Yes,Import,908
+Uttar Pradesh,West,Industrial,Wind,12,2024,1366,No,Export,604
+Karnataka,West,Commercial,Biomass,9,2023,2389,No,Export,388
+Madhya Pradesh,South,Commercial,Oil,6,2024,4406,Yes,Export,916
+West Bengal,North,Residential,Hydro,11,2023,2146,Yes,Export,145
+Delhi,East,Transport,Oil,8,2023,428,No,Export,739
+Rajasthan,East,Agriculture,Oil,12,2023,3515,Yes,Import,630
+Madhya Pradesh,West,Agriculture,Biomass,4,2024,2321,No,Export,387
+Tamil Nadu,East,Agriculture,Solar,3,2024,1096,No,Import,928
+Delhi,South,Industrial,Nuclear,1,2023,1057,No,Import,128
+Madhya Pradesh,North,Agriculture,Oil,10,2023,159,No,Export,915
+Uttar Pradesh,South,Agriculture,Natural Gas,7,2023,2821,Yes,Export,539
+Rajasthan,Central,Residential,Coal,4,2023,3933,No,Export,853
+Uttar Pradesh,West,Commercial,Natural Gas,8,2024,2650,Yes,Export,944
+Rajasthan,East,Agriculture,Natural Gas,3,2024,3293,No,Export,675
+Tamil Nadu,Central,Transport,Nuclear,1,2023,1055,No,Import,532
+Delhi,East,Agriculture,Wind,5,2023,4843,No,Export,659
+West Bengal,North,Industrial,Solar,2,2024,355,No,Export,396
+Uttar Pradesh,North,Industrial,Oil,3,2023,1008,No,Import,583
+Uttar Pradesh,North,Industrial,Oil,6,2024,1003,Yes,Export,592
+Andhra Pradesh,East,Agriculture,Oil,3,2024,2718,No,Export,582
+Rajasthan,Central,Residential,Coal,3,2023,3588,Yes,Export,653
+Gujarat,North,Transport,Biomass,12,2024,2727,No,Import,582
+Delhi,Central,Agriculture,Wind,6,2024,1680,Yes,Export,913
+Rajasthan,East,Residential,Biomass,5,2024,1841,No,Export,879
+Andhra Pradesh,Central,Residential,Hydro,10,2024,2653,Yes,Export,278
+Maharashtra,East,Agriculture,Solar,9,2023,2021,No,Export,533
+Rajasthan,East,Agriculture,Wind,1,2024,116,No,Import,556
+West Bengal,West,Residential,Wind,3,2024,884,No,Export,495
+Delhi,East,Residential,Oil,3,2024,255,Yes,Import,447
+Andhra Pradesh,East,Residential,Biomass,11,2023,2883,No,Export,572
+Maharashtra,South,Agriculture,Coal,6,2023,4300,Yes,Export,564
+Karnataka,North,Residential,Hydro,8,2023,1764,No,Export,749
+Andhra Pradesh,West,Industrial,Oil,3,2024,1582,Yes,Import,120
+Karnataka,West,Agriculture,Oil,3,2023,3195,No,Export,331
+Delhi,West,Industrial,Oil,6,2023,3170,Yes,Export,536
+Uttar Pradesh,South,Commercial,Biomass,8,2023,757,No,Import,186
+Andhra Pradesh,East,Agriculture,Wind,6,2024,228,No,Export,683
+Tamil Nadu,North,Commercial,Solar,12,2023,162,Yes,Export,560
+Karnataka,Central,Residential,Wind,10,2023,806,No,Export,547
+West Bengal,East,Residential,Nuclear,3,2023,946,No,Export,633
+Tamil Nadu,South,Transport,Solar,4,2024,2918,Yes,Import,974
+Madhya Pradesh,East,Residential,Oil,1,2024,208,No,Import,953
+Madhya Pradesh,East,Commercial,Solar,8,2023,835,No,Import,482
+Maharashtra,South,Residential,Wind,4,2023,1853,Yes,Export,572
+Uttar Pradesh,West,Agriculture,Coal,6,2023,1889,No,Export,888
+Delhi,West,Residential,Oil,11,2024,3218,Yes,Export,397
+Andhra Pradesh,North,Transport,Solar,3,2024,2348,Yes,Export,107
+Gujarat,North,Residential,Nuclear,11,2023,4128,No,Import,420
+West Bengal,West,Commercial,Biomass,12,2024,1592,No,Export,384
+Karnataka,Central,Commercial,Coal,11,2023,4258,No,Import,179
+Delhi,East,Residential,Coal,6,2024,4404,No,Export,65
+Tamil Nadu,Central,Commercial,Coal,12,2023,2204,No,Export,742
+Madhya Pradesh,East,Commercial,Solar,11,2024,624,No,Import,334
+West Bengal,West,Transport,Coal,9,2023,3088,Yes,Export,667
+Gujarat,North,Agriculture,Wind,9,2024,1431,No,Import,966
+Andhra Pradesh,North,Transport,Coal,10,2023,1272,No,Import,269
+Maharashtra,Central,Industrial,Nuclear,3,2023,2524,Yes,Export,650
+Gujarat,North,Transport,Oil,3,2023,1551,No,Import,571
+West Bengal,West,Residential,Oil,4,2023,908,Yes,Import,349
+Gujarat,Central,Agriculture,Hydro,12,2024,3624,No,Export,847
+West Bengal,East,Residential,Nuclear,7,2023,3779,No,Import,413
+West Bengal,North,Industrial,Solar,3,2024,3015,No,Import,541
+Rajasthan,South,Agriculture,Coal,10,2024,3241,Yes,Export,183
+Karnataka,North,Commercial,Coal,8,2023,1646,No,Import,804
+Madhya Pradesh,East,Transport,Wind,11,2023,1611,Yes,Export,547
+Rajasthan,Central,Residential,Biomass,8,2023,2572,No,Import,169
+Andhra Pradesh,East,Industrial,Coal,6,2023,2649,No,Export,19
+Rajasthan,South,Commercial,Natural Gas,4,2024,2441,No,Export,603
+Uttar Pradesh,West,Transport,Nuclear,11,2024,2725,No,Export,265
+Uttar Pradesh,North,Commercial,Solar,12,2024,2233,No,Export,626
+Madhya Pradesh,Central,Transport,Oil,11,2024,326,Yes,Export,661
+Gujarat,West,Agriculture,Hydro,5,2023,3932,Yes,Import,723
+Karnataka,East,Commercial,Coal,12,2024,3654,No,Export,353
+Madhya Pradesh,Central,Commercial,Hydro,2,2023,2128,No,Export,545
+West Bengal,West,Commercial,Coal,6,2023,4392,Yes,Import,382
+Tamil Nadu,Central,Agriculture,Solar,3,2024,4556,No,Export,444
+Karnataka,South,Industrial,Biomass,6,2024,4127,No,Import,943
+Karnataka,South,Transport,Nuclear,12,2024,4218,Yes,Import,55
+West Bengal,North,Commercial,Oil,5,2024,1170,No,Export,738
+West Bengal,North,Agriculture,Solar,2,2024,4818,No,Import,913
+Maharashtra,South,Industrial,Hydro,12,2024,2573,Yes,Import,64
+Madhya Pradesh,Central,Transport,Coal,5,2023,3420,Yes,Import,87
+West Bengal,South,Agriculture,Hydro,5,2023,4432,No,Export,500
+Uttar Pradesh,North,Transport,Nuclear,9,2023,1958,No,Import,680
+Andhra Pradesh,South,Commercial,Natural Gas,11,2024,3570,No,Export,865
+Tamil Nadu,South,Industrial,Oil,8,2023,4357,Yes,Export,281
+Madhya Pradesh,Central,Agriculture,Solar,12,2023,4546,No,Import,669
+Delhi,West,Industrial,Hydro,12,2023,4800,No,Export,559
+Uttar Pradesh,North,Commercial,Hydro,7,2023,3155,No,Import,120
+Gujarat,Central,Industrial,Nuclear,12,2023,547,No,Import,24
+West Bengal,South,Industrial,Natural Gas,3,2023,3637,Yes,Export,87
+Delhi,South,Residential,Coal,10,2024,4243,No,Export,510
+West Bengal,West,Industrial,Natural Gas,4,2024,2463,Yes,Export,597
+Karnataka,North,Transport,Hydro,6,2024,3850,Yes,Import,427
+Uttar Pradesh,North,Agriculture,Nuclear,3,2023,512,No,Import,849
+Karnataka,East,Residential,Coal,11,2024,2810,No,Import,284
+Maharashtra,North,Agriculture,Natural Gas,9,2024,3507,No,Export,503
+Karnataka,West,Agriculture,Oil,8,2023,322,No,Import,206
+Maharashtra,East,Commercial,Natural Gas,6,2024,1200,Yes,Import,385
+Maharashtra,East,Commercial,Oil,4,2023,3439,Yes,Import,740
+Delhi,South,Residential,Natural Gas,7,2024,68,Yes,Import,72
+West Bengal,South,Commercial,Biomass,11,2023,1666,No,Export,370
+Gujarat,North,Commercial,Coal,3,2023,3228,No,Import,982
+Karnataka,East,Commercial,Natural Gas,10,2024,4131,Yes,Export,553
+Uttar Pradesh,South,Agriculture,Biomass,8,2023,461,No,Import,754
+Maharashtra,West,Residential,Solar,1,2024,791,Yes,Import,119
+West Bengal,South,Agriculture,Nuclear,3,2023,2721,No,Import,686
+Tamil Nadu,South,Transport,Natural Gas,11,2024,2829,No,Export,203
+Madhya Pradesh,East,Agriculture,Oil,5,2024,2674,Yes,Export,528
+Delhi,East,Transport,Coal,5,2023,564,No,Export,953
+Gujarat,Central,Industrial,Oil,10,2024,256,No,Import,660
+Rajasthan,West,Industrial,Biomass,2,2024,997,No,Import,468
+Delhi,East,Transport,Biomass,10,2024,2491,No,Export,864
+Tamil Nadu,North,Transport,Solar,8,2023,1878,Yes,Import,808
+Madhya Pradesh,West,Agriculture,Oil,5,2023,3648,No,Import,949
+Tamil Nadu,West,Transport,Wind,7,2024,2217,No,Export,310
+Karnataka,East,Residential,Nuclear,7,2024,1706,Yes,Import,977
+Maharashtra,West,Industrial,Oil,5,2023,651,Yes,Import,577
+Gujarat,East,Industrial,Wind,8,2023,761,No,Import,681
+Andhra Pradesh,South,Transport,Coal,9,2024,1253,Yes,Export,505
+Maharashtra,Central,Commercial,Nuclear,4,2023,1441,No,Import,158
+Andhra Pradesh,South,Commercial,Oil,4,2023,2746,No,Export,808
+Madhya Pradesh,East,Transport,Solar,8,2024,3322,No,Import,778
+West Bengal,East,Residential,Coal,1,2023,4975,No,Export,470
+Rajasthan,South,Commercial,Nuclear,4,2023,3181,Yes,Export,148
+Uttar Pradesh,North,Transport,Oil,6,2023,3780,Yes,Export,870
+Maharashtra,North,Residential,Oil,4,2024,2716,No,Export,845
+Gujarat,North,Residential,Nuclear,6,2023,599,No,Import,301
+Tamil Nadu,East,Agriculture,Wind,5,2024,4791,No,Export,344
+Gujarat,West,Residential,Coal,9,2023,4032,No,Import,708
+Madhya Pradesh,East,Commercial,Solar,10,2023,1294,Yes,Import,844
+Andhra Pradesh,West,Commercial,Solar,9,2024,3936,Yes,Export,193
+Tamil Nadu,South,Transport,Coal,4,2024,4062,No,Import,316
+Uttar Pradesh,Central,Transport,Coal,4,2024,2599,No,Import,934
+Uttar Pradesh,West,Residential,Biomass,12,2024,3254,Yes,Import,990
+Maharashtra,North,Industrial,Hydro,8,2023,895,Yes,Import,907
+Madhya Pradesh,East,Agriculture,Oil,10,2024,4595,Yes,Export,271
+West Bengal,South,Industrial,Wind,4,2024,93,Yes,Import,936
+Madhya Pradesh,North,Residential,Coal,2,2024,708,No,Import,319
+Andhra Pradesh,South,Residential,Coal,2,2023,4873,No,Import,353
+Gujarat,Central,Industrial,Hydro,1,2023,3980,No,Import,433
+Uttar Pradesh,East,Agriculture,Hydro,5,2024,2917,No,Import,666
+Gujarat,East,Industrial,Nuclear,6,2024,3697,No,Export,782
+Gujarat,Central,Transport,Natural Gas,9,2024,2832,No,Import,523
+Gujarat,East,Commercial,Solar,5,2024,1741,Yes,Export,835
+Uttar Pradesh,West,Transport,Wind,6,2023,2275,No,Import,533
+Delhi,South,Commercial,Nuclear,6,2024,3116,Yes,Export,270
+Karnataka,North,Residential,Coal,3,2023,1997,Yes,Import,371
+Andhra Pradesh,Central,Agriculture,Oil,12,2024,1415,Yes,Import,965
+Delhi,West,Industrial,Hydro,4,2024,3180,No,Export,178
+Andhra Pradesh,North,Agriculture,Biomass,1,2023,4583,Yes,Export,669
+Tamil Nadu,North,Industrial,Solar,4,2024,4571,Yes,Export,209
+Madhya Pradesh,Central,Transport,Nuclear,1,2024,1017,No,Import,394
+Madhya Pradesh,West,Transport,Biomass,5,2024,1454,No,Export,321
+Rajasthan,North,Industrial,Solar,11,2024,535,No,Export,591
+Madhya Pradesh,North,Agriculture,Natural Gas,11,2023,1805,No,Export,321
+Uttar Pradesh,West,Industrial,Natural Gas,8,2024,3680,Yes,Import,575
+West Bengal,East,Residential,Biomass,8,2024,3018,Yes,Import,404
+Maharashtra,North,Transport,Hydro,5,2023,1629,No,Import,780
+Rajasthan,South,Residential,Nuclear,10,2024,2845,No,Export,360
+Maharashtra,West,Transport,Nuclear,2,2023,100,No,Import,37
+Andhra Pradesh,North,Transport,Natural Gas,12,2024,1709,No,Import,888
+Maharashtra,Central,Commercial,Solar,6,2024,4350,No,Import,884
+Maharashtra,South,Residential,Biomass,1,2024,2837,No,Import,641
+Rajasthan,North,Residential,Hydro,7,2023,4678,Yes,Export,142
+Tamil Nadu,South,Commercial,Coal,11,2023,2205,Yes,Import,389
+Gujarat,South,Agriculture,Nuclear,4,2024,4396,No,Export,611
+Madhya Pradesh,East,Residential,Oil,5,2023,4280,Yes,Export,537
+Madhya Pradesh,South,Industrial,Coal,6,2024,3211,Yes,Export,296
+Uttar Pradesh,East,Commercial,Hydro,11,2023,1664,Yes,Export,293
+Rajasthan,West,Residential,Natural Gas,1,2024,2786,Yes,Export,912
+Uttar Pradesh,East,Agriculture,Oil,9,2023,456,Yes,Export,751
+West Bengal,Central,Residential,Nuclear,10,2024,3429,Yes,Import,658
+West Bengal,North,Transport,Nuclear,4,2023,4247,No,Export,816
+Uttar Pradesh,West,Industrial,Biomass,8,2023,1434,No,Import,236
+Rajasthan,West,Commercial,Oil,5,2023,3745,No,Export,436
+Uttar Pradesh,Central,Transport,Coal,11,2023,4549,No,Import,36
+Madhya Pradesh,East,Agriculture,Natural Gas,8,2024,4959,Yes,Export,341
+Delhi,North,Transport,Biomass,1,2024,2952,Yes,Import,126
+Karnataka,East,Transport,Wind,8,2023,1679,Yes,Import,98
+Maharashtra,South,Agriculture,Coal,11,2024,3312,No,Export,628
+Karnataka,East,Transport,Coal,11,2023,1076,No,Export,742
+Rajasthan,West,Commercial,Wind,4,2024,3039,Yes,Export,744
+Karnataka,North,Residential,Hydro,2,2023,2274,Yes,Export,131
+West Bengal,East,Transport,Oil,11,2024,2970,No,Import,903
+Andhra Pradesh,North,Commercial,Oil,6,2024,4365,No,Import,875
+Maharashtra,North,Residential,Hydro,2,2023,4318,No,Export,42
+Gujarat,South,Residential,Nuclear,5,2023,2833,Yes,Export,612
+Rajasthan,South,Transport,Solar,2,2023,1463,Yes,Import,705
+Maharashtra,West,Commercial,Biomass,3,2023,4647,No,Export,897
+Karnataka,Central,Transport,Solar,11,2023,3698,No,Import,779
+West Bengal,North,Agriculture,Nuclear,6,2024,2858,No,Export,407
+Tamil Nadu,Central,Residential,Oil,1,2023,3381,No,Export,534
+Delhi,West,Transport,Solar,6,2024,2228,No,Import,33
+Gujarat,North,Residential,Coal,3,2023,847,No,Import,334
+Delhi,North,Commercial,Coal,7,2024,2896,Yes,Export,43
+Maharashtra,Central,Industrial,Wind,2,2024,979,Yes,Import,256
+West Bengal,East,Transport,Wind,6,2023,4868,No,Export,864
+West Bengal,South,Transport,Nuclear,8,2023,3141,Yes,Import,28
+Karnataka,East,Residential,Nuclear,1,2024,2312,No,Export,39
+Madhya Pradesh,Central,Commercial,Natural Gas,11,2024,1383,No,Export,58
+Karnataka,South,Agriculture,Nuclear,11,2023,1324,No,Export,948
+Madhya Pradesh,East,Commercial,Coal,9,2024,4633,No,Import,921
+Madhya Pradesh,South,Transport,Solar,5,2024,3530,No,Import,189
+Gujarat,North,Agriculture,Biomass,5,2024,3392,No,Import,379
+Karnataka,East,Commercial,Natural Gas,12,2024,1267,No,Import,893
+Tamil Nadu,South,Industrial,Natural Gas,5,2024,1514,No,Export,747
+Uttar Pradesh,South,Residential,Oil,6,2024,4458,No,Import,954
+Uttar Pradesh,South,Commercial,Natural Gas,2,2023,4224,Yes,Import,404
+Karnataka,East,Commercial,Nuclear,6,2023,4820,No,Import,599
+Karnataka,West,Industrial,Nuclear,11,2023,63,No,Export,505
+Delhi,East,Transport,Coal,4,2023,2343,No,Import,440
+Gujarat,Central,Residential,Biomass,8,2024,2095,Yes,Import,216
+Karnataka,East,Commercial,Coal,11,2023,1087,No,Export,44
+Delhi,South,Agriculture,Biomass,9,2024,4178,No,Export,771
+Madhya Pradesh,North,Commercial,Coal,9,2024,1509,No,Export,592
+West Bengal,East,Residential,Solar,8,2023,306,No,Export,422
+West Bengal,East,Commercial,Oil,3,2023,4179,No,Export,373
+Madhya Pradesh,South,Industrial,Nuclear,10,2024,4123,Yes,Export,319
+Rajasthan,North,Commercial,Hydro,11,2023,1333,No,Export,991
+Delhi,North,Commercial,Hydro,11,2023,3537,Yes,Import,288
+Delhi,Central,Agriculture,Oil,4,2024,2234,No,Export,161
+Madhya Pradesh,East,Industrial,Nuclear,1,2024,408,No,Export,236
+Tamil Nadu,North,Industrial,Natural Gas,9,2024,3841,No,Export,252
+Andhra Pradesh,North,Commercial,Nuclear,5,2024,4899,No,Export,19
+Maharashtra,West,Agriculture,Nuclear,6,2024,3237,No,Export,838
+Madhya Pradesh,West,Commercial,Oil,3,2024,4549,Yes,Import,401
+Karnataka,North,Commercial,Nuclear,11,2023,1275,Yes,Import,57
+Karnataka,Central,Residential,Natural Gas,10,2023,2347,No,Import,633
+Gujarat,North,Residential,Biomass,8,2023,327,No,Import,213
+Madhya Pradesh,South,Agriculture,Oil,7,2024,4257,No,Import,998
+Gujarat,East,Transport,Solar,1,2024,2036,Yes,Import,903
+Madhya Pradesh,Central,Residential,Hydro,10,2023,3594,Yes,Import,166
+Delhi,South,Transport,Oil,12,2023,2843,Yes,Export,864
+Maharashtra,Central,Industrial,Wind,5,2023,441,Yes,Export,35
+Delhi,South,Residential,Hydro,10,2024,1018,No,Export,430
+Andhra Pradesh,East,Residential,Hydro,9,2023,2240,Yes,Export,829
+West Bengal,East,Agriculture,Natural Gas,12,2023,2278,No,Export,687
+Uttar Pradesh,West,Transport,Coal,11,2023,2676,Yes,Export,770
+Madhya Pradesh,South,Residential,Nuclear,12,2024,2895,Yes,Import,783
+Andhra Pradesh,West,Residential,Nuclear,6,2023,4414,No,Export,273
+West Bengal,South,Agriculture,Nuclear,8,2023,3357,Yes,Export,538
+Rajasthan,West,Agriculture,Coal,10,2024,2650,Yes,Export,597
+Maharashtra,East,Transport,Natural Gas,1,2024,2730,Yes,Import,967
+Gujarat,Central,Industrial,Oil,10,2024,4420,Yes,Import,479
+Gujarat,West,Industrial,Solar,11,2024,4888,No,Import,263
+Delhi,South,Commercial,Solar,7,2024,135,Yes,Export,727
+Karnataka,South,Residential,Natural Gas,3,2023,3184,No,Export,555
+West Bengal,East,Transport,Wind,9,2023,4549,No,Export,156
+Rajasthan,South,Residential,Solar,6,2024,2289,No,Import,335
+Andhra Pradesh,North,Transport,Natural Gas,5,2024,3414,Yes,Import,347
+Maharashtra,Central,Transport,Oil,8,2024,2095,No,Export,749
+West Bengal,West,Transport,Solar,8,2024,1104,Yes,Import,127
+Rajasthan,Central,Residential,Nuclear,12,2023,3451,No,Export,174
+Uttar Pradesh,East,Agriculture,Biomass,12,2023,3779,No,Import,559
+Madhya Pradesh,West,Residential,Natural Gas,3,2024,2719,Yes,Import,920
+Gujarat,West,Transport,Hydro,2,2024,325,No,Import,879
+Andhra Pradesh,North,Commercial,Solar,2,2024,4796,No,Export,817
+Gujarat,East,Industrial,Solar,5,2024,4140,No,Import,658
+Andhra Pradesh,South,Transport,Coal,10,2023,1155,Yes,Export,830
+Delhi,North,Commercial,Wind,12,2024,4731,No,Export,767
+Karnataka,North,Agriculture,Biomass,7,2024,2982,No,Export,207
+Andhra Pradesh,Central,Transport,Oil,8,2023,178,Yes,Import,383
+Gujarat,Central,Commercial,Coal,10,2024,4401,No,Import,587
+Delhi,Central,Transport,Nuclear,8,2023,4376,Yes,Import,601
+Andhra Pradesh,North,Residential,Hydro,12,2024,3618,Yes,Export,573
+Uttar Pradesh,South,Commercial,Wind,8,2024,2452,No,Import,138
+Karnataka,West,Residential,Coal,10,2023,1697,No,Import,423
+Andhra Pradesh,Central,Residential,Natural Gas,12,2024,3606,No,Export,389
+Delhi,South,Commercial,Solar,11,2023,3941,No,Export,889
+West Bengal,East,Industrial,Solar,3,2023,2243,Yes,Export,10
+Tamil Nadu,Central,Commercial,Wind,11,2023,2097,Yes,Import,176
+Rajasthan,West,Industrial,Solar,2,2024,3154,No,Import,25
+Tamil Nadu,East,Transport,Natural Gas,4,2024,4405,Yes,Export,666
+Tamil Nadu,East,Transport,Coal,1,2023,2184,No,Import,121
+Maharashtra,West,Commercial,Coal,3,2024,892,No,Export,377
+Uttar Pradesh,Central,Transport,Solar,11,2024,2021,Yes,Import,111
+West Bengal,North,Agriculture,Solar,9,2024,4410,Yes,Export,603
+Madhya Pradesh,West,Residential,Nuclear,7,2023,3953,No,Import,415
+Andhra Pradesh,West,Residential,Hydro,7,2023,3663,No,Export,991
+Rajasthan,West,Industrial,Oil,1,2024,441,No,Export,516
+Karnataka,East,Transport,Wind,7,2023,2329,No,Export,620
+West Bengal,South,Industrial,Coal,10,2024,950,No,Import,680
+Gujarat,North,Residential,Wind,7,2024,4733,Yes,Import,49
+Madhya Pradesh,Central,Residential,Nuclear,4,2024,2544,Yes,Import,676
+Maharashtra,Central,Transport,Coal,7,2023,1202,No,Export,557
+Maharashtra,South,Agriculture,Nuclear,8,2023,1344,Yes,Export,390
+West Bengal,West,Agriculture,Nuclear,3,2024,515,Yes,Export,768
+Delhi,North,Transport,Biomass,10,2023,2225,No,Export,525
+Tamil Nadu,Central,Transport,Solar,2,2024,3295,No,Export,506
+Gujarat,Central,Industrial,Natural Gas,7,2023,537,Yes,Export,895
+Maharashtra,West,Transport,Biomass,5,2023,2988,No,Export,974
+Rajasthan,South,Agriculture,Oil,5,2023,2676,No,Export,290
+Maharashtra,North,Transport,Wind,5,2024,999,Yes,Export,360
+Karnataka,South,Industrial,Natural Gas,7,2024,4551,No,Import,343
+Andhra Pradesh,South,Industrial,Wind,9,2024,1099,Yes,Export,935
+Maharashtra,North,Industrial,Solar,11,2023,4125,No,Import,952
+Karnataka,North,Industrial,Natural Gas,8,2024,4509,Yes,Export,770
+West Bengal,Central,Commercial,Biomass,6,2024,1440,No,Import,533
+West Bengal,Central,Transport,Wind,7,2024,1133,Yes,Export,292
+Madhya Pradesh,North,Residential,Biomass,9,2024,4696,No,Import,950
+Maharashtra,East,Transport,Solar,11,2023,1708,Yes,Export,737
+Rajasthan,Central,Commercial,Natural Gas,6,2023,4437,No,Export,328
+Maharashtra,East,Industrial,Natural Gas,1,2024,1867,No,Export,832
+Rajasthan,North,Commercial,Coal,4,2023,240,Yes,Import,423
+Uttar Pradesh,Central,Agriculture,Nuclear,8,2023,510,No,Export,603
+Madhya Pradesh,South,Agriculture,Nuclear,7,2023,2571,Yes,Import,23
+Uttar Pradesh,North,Transport,Biomass,3,2023,3526,No,Import,65
+Maharashtra,West,Transport,Natural Gas,10,2023,2755,Yes,Import,412
+Madhya Pradesh,East,Residential,Wind,3,2024,4416,No,Import,351
+Uttar Pradesh,North,Residential,Biomass,11,2023,1207,No,Import,803
+Tamil Nadu,North,Agriculture,Biomass,3,2024,4316,Yes,Export,208
+Maharashtra,Central,Industrial,Hydro,12,2024,77,Yes,Import,869
+Uttar Pradesh,Central,Commercial,Oil,1,2024,4281,No,Import,687
+Tamil Nadu,Central,Residential,Natural Gas,10,2023,3022,No,Import,974
+Tamil Nadu,West,Residential,Nuclear,1,2023,3074,No,Import,301
+West Bengal,Central,Industrial,Natural Gas,6,2023,1314,Yes,Export,667
+Maharashtra,North,Industrial,Solar,1,2023,905,No,Export,450
+Tamil Nadu,Central,Transport,Biomass,5,2024,4075,Yes,Export,87
+West Bengal,South,Commercial,Hydro,4,2024,1301,Yes,Import,121
+Uttar Pradesh,Central,Industrial,Hydro,5,2024,4654,No,Import,544
+Karnataka,West,Residential,Nuclear,7,2023,3920,Yes,Import,384
+Maharashtra,South,Residential,Nuclear,6,2024,1376,No,Export,125
+Madhya Pradesh,North,Agriculture,Nuclear,12,2024,1075,No,Import,151
+Rajasthan,North,Industrial,Solar,9,2024,411,No,Export,206
+Rajasthan,East,Transport,Hydro,6,2023,1268,No,Import,799
+Uttar Pradesh,South,Commercial,Wind,9,2024,655,No,Import,549
+Delhi,East,Transport,Solar,4,2024,1720,No,Export,308
+Delhi,South,Residential,Coal,1,2023,4861,No,Import,85
+Uttar Pradesh,South,Transport,Oil,1,2024,2347,No,Export,539
+Tamil Nadu,West,Residential,Oil,10,2023,2244,Yes,Import,109
+Maharashtra,East,Residential,Biomass,7,2024,4493,Yes,Export,488
+Rajasthan,West,Residential,Oil,3,2023,1327,Yes,Import,982
+Rajasthan,South,Residential,Nuclear,2,2023,448,No,Import,477
+Tamil Nadu,North,Residential,Hydro,6,2023,2222,No,Import,645
+Rajasthan,South,Agriculture,Oil,6,2024,2860,Yes,Import,886
+Madhya Pradesh,West,Transport,Biomass,7,2024,2702,Yes,Import,301
+Maharashtra,East,Agriculture,Oil,5,2023,2989,No,Export,134
+Andhra Pradesh,East,Agriculture,Natural Gas,8,2023,871,No,Export,528
+Rajasthan,West,Industrial,Solar,7,2023,994,No,Import,32
+Uttar Pradesh,East,Industrial,Coal,2,2023,3528,Yes,Export,171
+Madhya Pradesh,Central,Industrial,Natural Gas,1,2023,2829,Yes,Export,638
+Rajasthan,North,Commercial,Solar,9,2023,4479,Yes,Export,515
+Madhya Pradesh,North,Industrial,Solar,5,2023,4500,Yes,Export,891
+West Bengal,North,Transport,Wind,12,2023,1246,Yes,Import,873
+Andhra Pradesh,East,Agriculture,Oil,11,2023,1262,No,Export,30
+Gujarat,East,Transport,Biomass,5,2023,873,Yes,Export,773
+Uttar Pradesh,South,Industrial,Wind,12,2023,1946,Yes,Import,847
+Uttar Pradesh,South,Commercial,Solar,10,2023,4313,Yes,Import,473
+Maharashtra,North,Commercial,Oil,4,2024,2465,No,Import,492
+Madhya Pradesh,Central,Agriculture,Coal,2,2023,585,No,Import,511
+Tamil Nadu,South,Transport,Hydro,5,2024,3060,No,Import,952
+Uttar Pradesh,South,Residential,Hydro,2,2024,2677,Yes,Import,318
+Madhya Pradesh,East,Transport,Oil,12,2024,3827,Yes,Import,605
+Madhya Pradesh,Central,Industrial,Natural Gas,7,2023,999,Yes,Import,883
+Karnataka,North,Residential,Biomass,11,2024,3558,Yes,Export,562
+Karnataka,South,Commercial,Nuclear,9,2023,4352,No,Import,212
+Gujarat,Central,Agriculture,Nuclear,9,2024,593,No,Export,425
+West Bengal,Central,Agriculture,Hydro,11,2023,3950,No,Import,649
+Gujarat,North,Commercial,Solar,6,2023,3803,No,Import,151
+Rajasthan,Central,Industrial,Solar,1,2024,4274,No,Export,865
+Tamil Nadu,Central,Commercial,Wind,6,2024,2132,Yes,Import,624
+Rajasthan,Central,Industrial,Oil,5,2023,2916,No,Import,116
+Delhi,South,Residential,Biomass,4,2024,2296,Yes,Export,538
+Rajasthan,North,Commercial,Oil,12,2023,1886,No,Export,546
+Maharashtra,Central,Industrial,Oil,6,2023,126,Yes,Export,585
+Rajasthan,Central,Residential,Wind,6,2023,418,Yes,Export,978
+Gujarat,South,Commercial,Nuclear,6,2024,4671,No,Export,863
+Uttar Pradesh,North,Agriculture,Oil,2,2023,398,No,Export,896
+Uttar Pradesh,East,Commercial,Hydro,7,2023,4651,Yes,Import,758
+Karnataka,South,Transport,Natural Gas,4,2023,4788,Yes,Import,697
+Tamil Nadu,North,Commercial,Oil,12,2023,4383,Yes,Import,300
+Tamil Nadu,Central,Transport,Solar,9,2024,1505,No,Import,814
+Maharashtra,North,Residential,Oil,10,2024,2235,No,Import,320
+Gujarat,North,Commercial,Hydro,2,2024,3861,No,Export,922
+Karnataka,North,Residential,Coal,5,2024,3322,Yes,Export,677
+Delhi,East,Residential,Hydro,4,2023,3732,No,Import,394
+Tamil Nadu,North,Industrial,Coal,9,2023,1896,Yes,Export,62
+Uttar Pradesh,East,Residential,Wind,4,2023,1904,Yes,Import,594
+Rajasthan,Central,Residential,Wind,8,2023,3035,Yes,Export,192
+Rajasthan,East,Commercial,Nuclear,8,2023,4500,No,Import,378
+Karnataka,Central,Commercial,Hydro,6,2023,2675,Yes,Import,710
+Gujarat,Central,Agriculture,Hydro,6,2024,2944,Yes,Import,22
+Gujarat,East,Industrial,Coal,11,2023,608,No,Export,568
+West Bengal,South,Residential,Wind,8,2023,2946,Yes,Export,969
+Andhra Pradesh,West,Industrial,Coal,12,2023,1967,No,Import,169
+Tamil Nadu,North,Transport,Wind,12,2024,1304,No,Export,293
+Gujarat,West,Residential,Coal,10,2023,1731,No,Import,574
+Uttar Pradesh,North,Industrial,Wind,9,2023,1864,Yes,Import,296
+Karnataka,North,Agriculture,Coal,5,2023,712,Yes,Export,17
+Delhi,Central,Agriculture,Natural Gas,11,2024,4166,No,Import,81
+West Bengal,North,Residential,Wind,1,2023,3375,No,Import,901
+Madhya Pradesh,North,Transport,Biomass,1,2023,1291,Yes,Import,107
+Maharashtra,East,Agriculture,Coal,2,2024,3193,Yes,Export,96
+Delhi,West,Agriculture,Hydro,10,2023,3087,Yes,Import,851
+Madhya Pradesh,East,Transport,Nuclear,10,2024,211,No,Import,110
+Rajasthan,North,Industrial,Biomass,5,2023,4275,No,Import,290
+Maharashtra,Central,Agriculture,Biomass,4,2024,2000,Yes,Import,892
+Tamil Nadu,East,Commercial,Coal,1,2023,4370,No,Export,298
+Uttar Pradesh,East,Agriculture,Nuclear,4,2023,1831,No,Import,758
+Maharashtra,South,Industrial,Hydro,4,2024,4725,No,Import,205
+Andhra Pradesh,North,Industrial,Biomass,10,2023,1527,Yes,Export,400
+Madhya Pradesh,Central,Residential,Hydro,4,2023,3080,Yes,Export,618
+Tamil Nadu,East,Commercial,Wind,1,2024,4036,Yes,Export,459
+Andhra Pradesh,East,Industrial,Oil,9,2023,156,No,Export,377
+Rajasthan,Central,Transport,Natural Gas,3,2024,2718,No,Export,439
+Andhra Pradesh,North,Commercial,Oil,4,2023,4985,No,Export,105
+West Bengal,South,Commercial,Oil,5,2024,1214,Yes,Import,270
+West Bengal,East,Transport,Nuclear,7,2023,1207,Yes,Import,521
+Karnataka,South,Agriculture,Natural Gas,6,2023,2296,Yes,Export,130
+Delhi,West,Transport,Solar,5,2024,716,No,Import,375
+Delhi,North,Transport,Wind,8,2023,2176,Yes,Export,794
+Tamil Nadu,West,Agriculture,Nuclear,1,2024,2991,Yes,Import,341
+Rajasthan,West,Agriculture,Coal,7,2024,561,No,Export,61
+Gujarat,West,Agriculture,Natural Gas,12,2024,299,Yes,Export,405
+West Bengal,North,Agriculture,Coal,6,2023,938,No,Import,327
+Tamil Nadu,North,Agriculture,Hydro,11,2023,1073,Yes,Export,684
+Gujarat,Central,Transport,Oil,5,2023,4744,No,Import,711
+Delhi,South,Residential,Biomass,7,2024,4898,No,Export,286
+Karnataka,South,Residential,Natural Gas,3,2024,649,No,Export,606
+Andhra Pradesh,Central,Industrial,Solar,1,2024,3072,No,Import,203
+West Bengal,Central,Residential,Coal,9,2023,2580,No,Export,702
+Tamil Nadu,West,Residential,Nuclear,2,2024,2933,No,Import,30
+Maharashtra,Central,Transport,Natural Gas,10,2023,2114,No,Import,408
+Gujarat,East,Agriculture,Natural Gas,3,2023,1808,No,Import,724
+Andhra Pradesh,South,Agriculture,Biomass,8,2023,3619,Yes,Import,211
+West Bengal,Central,Transport,Biomass,12,2023,1292,Yes,Import,475
+Delhi,East,Residential,Nuclear,10,2023,4379,Yes,Export,160
+Rajasthan,East,Transport,Biomass,9,2023,2345,No,Export,905
+Gujarat,East,Industrial,Coal,3,2023,1975,No,Import,168
+Delhi,East,Agriculture,Nuclear,6,2023,2112,No,Export,319
+West Bengal,West,Commercial,Oil,7,2024,3445,Yes,Import,960
+Gujarat,East,Industrial,Nuclear,1,2023,490,No,Export,513
+Andhra Pradesh,West,Industrial,Hydro,7,2023,2793,Yes,Import,35
+West Bengal,West,Transport,Solar,4,2024,56,No,Export,830
+Madhya Pradesh,East,Residential,Natural Gas,5,2024,1636,Yes,Import,75
+Tamil Nadu,South,Agriculture,Hydro,8,2024,875,No,Export,944
+Andhra Pradesh,East,Commercial,Solar,4,2024,3874,Yes,Import,272
+Gujarat,East,Industrial,Nuclear,4,2023,1318,Yes,Import,481
+Rajasthan,East,Commercial,Natural Gas,8,2024,3486,No,Export,176
+Delhi,South,Residential,Biomass,5,2024,3488,No,Import,809
+Maharashtra,North,Residential,Solar,6,2024,1360,Yes,Import,163
+Delhi,North,Commercial,Nuclear,12,2024,4083,No,Export,352
+Gujarat,West,Agriculture,Nuclear,11,2023,1677,Yes,Export,727
+Delhi,West,Residential,Hydro,5,2024,1086,No,Import,422
+Tamil Nadu,South,Commercial,Hydro,1,2024,527,No,Import,674
+West Bengal,Central,Industrial,Biomass,7,2024,2728,Yes,Import,193
+Maharashtra,North,Commercial,Oil,6,2024,764,No,Import,680
+Uttar Pradesh,West,Commercial,Wind,2,2023,1726,Yes,Export,203
+Gujarat,North,Transport,Coal,11,2024,2212,No,Import,11
+Karnataka,South,Residential,Wind,7,2024,558,No,Import,224
+Uttar Pradesh,South,Agriculture,Wind,6,2024,431,No,Export,696
+Delhi,Central,Agriculture,Natural Gas,5,2023,1230,Yes,Export,596
+Gujarat,Central,Transport,Oil,8,2024,1895,Yes,Import,806
+Madhya Pradesh,South,Agriculture,Natural Gas,5,2024,4420,Yes,Export,648
+Karnataka,West,Commercial,Biomass,11,2023,1768,No,Export,492
+Maharashtra,North,Transport,Natural Gas,2,2024,1150,No,Export,570
+Rajasthan,East,Industrial,Solar,6,2023,1910,No,Import,978
+Madhya Pradesh,Central,Residential,Biomass,12,2023,2141,No,Import,41
+Uttar Pradesh,East,Residential,Biomass,1,2024,767,Yes,Import,679
+West Bengal,West,Residential,Nuclear,5,2024,367,Yes,Export,24
+Tamil Nadu,Central,Commercial,Nuclear,6,2023,4679,Yes,Import,327
+Rajasthan,East,Industrial,Nuclear,7,2023,1826,Yes,Import,855
+Madhya Pradesh,West,Transport,Coal,2,2024,2334,Yes,Import,252
+West Bengal,North,Transport,Solar,1,2023,1294,No,Export,26
+West Bengal,West,Residential,Solar,6,2023,1383,Yes,Import,543
+Gujarat,Central,Industrial,Nuclear,3,2024,3719,Yes,Import,765
+Madhya Pradesh,South,Industrial,Wind,5,2023,1250,No,Import,935
+Maharashtra,North,Industrial,Coal,12,2023,1844,Yes,Import,90
+Delhi,East,Agriculture,Wind,11,2023,2751,No,Export,665
+Karnataka,Central,Agriculture,Hydro,2,2023,1504,Yes,Import,445
+Karnataka,South,Residential,Solar,1,2023,1983,No,Import,17
+Uttar Pradesh,West,Industrial,Solar,1,2023,796,No,Export,969
+Uttar Pradesh,South,Industrial,Wind,11,2024,890,Yes,Export,688
+Karnataka,Central,Transport,Coal,4,2023,2545,No,Export,296
+Maharashtra,Central,Transport,Solar,10,2024,1138,No,Export,789
+Tamil Nadu,South,Residential,Wind,2,2024,842,No,Export,810
+Andhra Pradesh,West,Industrial,Biomass,1,2024,1317,Yes,Import,195
+Delhi,South,Residential,Biomass,6,2024,1600,Yes,Export,533
+Tamil Nadu,Central,Transport,Natural Gas,4,2024,2740,No,Export,802
+Gujarat,Central,Transport,Coal,10,2024,342,No,Export,431
+Andhra Pradesh,East,Agriculture,Wind,12,2024,4072,Yes,Import,825
+Andhra Pradesh,East,Residential,Natural Gas,7,2024,1454,Yes,Import,475
+Madhya Pradesh,North,Residential,Biomass,11,2023,1698,Yes,Import,92
+Maharashtra,Central,Industrial,Coal,6,2024,2866,Yes,Export,576
+Maharashtra,East,Industrial,Oil,5,2024,3960,Yes,Import,652
+Andhra Pradesh,South,Agriculture,Natural Gas,10,2024,2968,Yes,Export,646
+Madhya Pradesh,West,Commercial,Oil,12,2023,1447,Yes,Export,492
+Delhi,South,Commercial,Nuclear,12,2024,1743,Yes,Import,334
+Andhra Pradesh,West,Commercial,Coal,12,2023,1087,No,Import,428
+Rajasthan,East,Residential,Hydro,12,2024,3902,Yes,Import,60
+Uttar Pradesh,North,Residential,Nuclear,2,2024,1612,Yes,Export,36
+Uttar Pradesh,South,Transport,Natural Gas,5,2023,1162,Yes,Import,686
+Tamil Nadu,South,Residential,Wind,9,2024,1341,No,Import,990
+Gujarat,South,Residential,Nuclear,9,2023,1211,No,Import,921
+Uttar Pradesh,West,Residential,Nuclear,2,2023,1079,No,Import,997
+West Bengal,East,Agriculture,Natural Gas,7,2024,4387,Yes,Import,802
+Tamil Nadu,South,Residential,Wind,10,2024,4307,No,Export,554
+Uttar Pradesh,South,Industrial,Wind,4,2023,2789,No,Export,71
+Gujarat,North,Industrial,Biomass,3,2023,1028,Yes,Import,666
+Maharashtra,North,Transport,Hydro,11,2024,567,No,Export,180
+Maharashtra,East,Agriculture,Wind,1,2024,832,No,Export,295
+Delhi,East,Industrial,Solar,3,2024,2881,No,Export,818
+Andhra Pradesh,Central,Agriculture,Solar,11,2023,4230,No,Import,126
+Rajasthan,North,Agriculture,Hydro,9,2024,187,No,Export,13
+Maharashtra,Central,Transport,Coal,9,2023,803,Yes,Import,75
+Madhya Pradesh,West,Agriculture,Natural Gas,7,2024,3003,No,Export,69
+Uttar Pradesh,Central,Residential,Coal,3,2023,4858,Yes,Import,914
+Madhya Pradesh,South,Agriculture,Solar,3,2023,2505,No,Export,511
+Gujarat,Central,Transport,Wind,4,2024,2884,Yes,Export,808
+Maharashtra,East,Transport,Hydro,7,2023,629,No,Import,866
+Rajasthan,West,Transport,Coal,7,2023,3305,Yes,Import,238
+Gujarat,South,Industrial,Coal,12,2023,3316,Yes,Export,109
+West Bengal,Central,Residential,Oil,12,2023,4699,Yes,Import,128
+West Bengal,West,Industrial,Natural Gas,2,2023,445,Yes,Import,78
+Madhya Pradesh,West,Commercial,Nuclear,12,2024,1987,No,Import,673
+Andhra Pradesh,South,Residential,Solar,5,2024,4955,Yes,Import,801
+Tamil Nadu,Central,Agriculture,Wind,7,2023,2639,No,Export,230
+Andhra Pradesh,West,Transport,Hydro,7,2024,3084,Yes,Import,950
+Delhi,West,Commercial,Coal,6,2023,219,Yes,Export,232
+Andhra Pradesh,North,Residential,Natural Gas,10,2023,2387,Yes,Export,686
+Delhi,West,Industrial,Nuclear,10,2024,3289,Yes,Import,963
+Delhi,North,Transport,Solar,12,2023,3465,No,Import,513
+Rajasthan,Central,Industrial,Solar,8,2023,3618,No,Import,220
+Maharashtra,Central,Residential,Natural Gas,3,2023,3266,Yes,Import,800
+Rajasthan,Central,Residential,Oil,1,2024,3534,No,Export,940
+Delhi,East,Commercial,Hydro,3,2024,4885,Yes,Export,584
+Gujarat,Central,Agriculture,Coal,11,2023,1891,Yes,Import,895
+West Bengal,West,Industrial,Hydro,2,2023,3810,No,Export,891
+Delhi,South,Commercial,Natural Gas,2,2023,4602,Yes,Import,271
+Rajasthan,North,Transport,Natural Gas,2,2023,3076,No,Export,527
+Gujarat,East,Agriculture,Hydro,5,2023,4015,No,Export,257
+Rajasthan,Central,Commercial,Biomass,1,2024,1651,No,Export,750
+Andhra Pradesh,Central,Industrial,Nuclear,10,2024,1196,No,Import,807
+Uttar Pradesh,South,Residential,Solar,4,2024,4376,Yes,Import,266
+Madhya Pradesh,South,Transport,Biomass,10,2024,2734,Yes,Export,72
+Tamil Nadu,East,Industrial,Wind,5,2023,161,Yes,Import,401
+Rajasthan,North,Agriculture,Solar,2,2023,642,Yes,Import,549
+Tamil Nadu,Central,Agriculture,Solar,5,2024,2489,No,Export,866
+Karnataka,East,Residential,Nuclear,10,2024,1288,No,Import,426
+Rajasthan,West,Residential,Wind,4,2023,2844,No,Import,62
+Uttar Pradesh,West,Transport,Coal,8,2024,2464,No,Export,773
+Tamil Nadu,East,Transport,Wind,1,2023,2179,Yes,Export,47
+Delhi,Central,Residential,Coal,12,2023,2903,No,Export,317
+Rajasthan,East,Residential,Oil,5,2023,2919,No,Export,855
+Maharashtra,Central,Agriculture,Oil,11,2024,3648,No,Import,660
+Madhya Pradesh,South,Residential,Wind,12,2024,3853,Yes,Import,907
+Uttar Pradesh,East,Commercial,Hydro,10,2024,1576,No,Export,62
+Tamil Nadu,Central,Industrial,Natural Gas,1,2024,2019,Yes,Export,615
+Uttar Pradesh,East,Residential,Wind,10,2024,1001,No,Import,615
+Gujarat,East,Transport,Biomass,10,2023,1552,No,Import,461
+Madhya Pradesh,Central,Commercial,Biomass,4,2024,4517,Yes,Import,470
+Delhi,Central,Transport,Nuclear,8,2023,3386,No,Export,784
+Rajasthan,North,Commercial,Natural Gas,1,2023,159,No,Export,495
+Rajasthan,East,Residential,Natural Gas,11,2023,4036,Yes,Export,844
+Rajasthan,West,Industrial,Coal,2,2024,2404,No,Export,146
+Madhya Pradesh,East,Transport,Solar,1,2024,275,No,Import,983
+Maharashtra,East,Commercial,Nuclear,11,2024,3061,No,Export,381
+Karnataka,Central,Agriculture,Biomass,7,2024,4176,No,Export,968
+West Bengal,East,Residential,Biomass,2,2024,663,No,Import,265
+Andhra Pradesh,East,Industrial,Oil,1,2024,148,No,Export,404
+Tamil Nadu,West,Residential,Coal,12,2024,860,Yes,Import,46
+Maharashtra,Central,Agriculture,Biomass,6,2024,3387,Yes,Export,663
+Delhi,East,Industrial,Biomass,6,2023,2749,No,Import,156
+Tamil Nadu,South,Agriculture,Coal,10,2024,4959,No,Import,17
+Rajasthan,North,Residential,Biomass,2,2023,1069,No,Import,260
+Uttar Pradesh,West,Commercial,Solar,1,2023,3075,No,Export,656
+Delhi,East,Residential,Hydro,10,2023,3578,No,Export,580
+Tamil Nadu,South,Residential,Nuclear,3,2023,3936,Yes,Export,644
+Rajasthan,East,Residential,Solar,10,2024,3029,No,Export,456
+Tamil Nadu,East,Transport,Solar,5,2024,3390,Yes,Export,272
+Uttar Pradesh,Central,Agriculture,Hydro,6,2023,846,No,Export,641
+Rajasthan,Central,Agriculture,Oil,3,2023,2007,No,Import,448
+Karnataka,Central,Agriculture,Natural Gas,9,2023,3116,No,Export,268
+Maharashtra,South,Transport,Nuclear,11,2024,3070,Yes,Export,332
+Gujarat,East,Commercial,Oil,5,2023,2730,No,Import,539
+Andhra Pradesh,North,Residential,Oil,2,2023,4491,No,Import,310
+Madhya Pradesh,West,Commercial,Solar,10,2024,4869,No,Export,874
+Andhra Pradesh,Central,Transport,Biomass,6,2023,2998,Yes,Import,494
+Delhi,Central,Agriculture,Oil,12,2024,3781,No,Export,101
+Andhra Pradesh,East,Residential,Hydro,8,2024,1151,No,Import,173
+Rajasthan,East,Industrial,Natural Gas,11,2023,1087,No,Export,665
+Karnataka,South,Industrial,Nuclear,6,2023,4281,No,Import,344
+Gujarat,South,Commercial,Wind,4,2023,841,Yes,Import,934
+Maharashtra,Central,Agriculture,Coal,6,2024,4224,Yes,Export,324
+Maharashtra,East,Industrial,Biomass,8,2024,1828,No,Export,923
+Uttar Pradesh,North,Commercial,Hydro,8,2024,4850,Yes,Import,954
+Madhya Pradesh,West,Transport,Coal,10,2023,1031,No,Import,247
+Tamil Nadu,East,Commercial,Natural Gas,2,2023,1315,Yes,Import,695
+Karnataka,East,Commercial,Natural Gas,8,2023,793,No,Import,92
+Tamil Nadu,South,Commercial,Wind,6,2023,2481,Yes,Export,678
+Gujarat,West,Residential,Oil,2,2023,424,No,Import,975
+Andhra Pradesh,Central,Commercial,Solar,1,2023,1803,Yes,Import,118
+Maharashtra,East,Commercial,Solar,6,2024,3947,Yes,Export,187
+Gujarat,Central,Residential,Nuclear,7,2024,2586,Yes,Export,259
+Andhra Pradesh,East,Residential,Hydro,10,2024,2041,Yes,Export,774
+Maharashtra,Central,Transport,Hydro,5,2023,2978,No,Export,576
+Andhra Pradesh,West,Agriculture,Oil,10,2024,3496,Yes,Export,676
+Madhya Pradesh,South,Industrial,Natural Gas,8,2024,641,No,Export,912
+Karnataka,West,Industrial,Nuclear,11,2024,4678,No,Import,100
+Delhi,North,Commercial,Oil,12,2023,2619,No,Import,348
+Gujarat,South,Transport,Coal,9,2023,2922,No,Import,647
+Gujarat,West,Commercial,Solar,4,2024,1226,No,Export,858
+West Bengal,North,Industrial,Solar,7,2023,1385,No,Export,178
+Rajasthan,East,Residential,Natural Gas,8,2023,4743,No,Import,148
+Madhya Pradesh,East,Agriculture,Hydro,6,2023,162,Yes,Import,526
+Madhya Pradesh,Central,Transport,Natural Gas,2,2023,3822,No,Export,587
+Tamil Nadu,South,Residential,Oil,7,2024,1895,No,Export,632
+Andhra Pradesh,East,Agriculture,Hydro,9,2023,2037,No,Import,193
+Rajasthan,South,Transport,Nuclear,5,2024,4879,No,Import,789
+Karnataka,East,Transport,Oil,2,2024,2035,No,Import,179
+Karnataka,Central,Industrial,Wind,4,2023,3342,Yes,Import,371
+Madhya Pradesh,West,Residential,Coal,3,2023,3292,No,Import,253
+Karnataka,Central,Transport,Biomass,4,2023,302,No,Export,852
+West Bengal,North,Transport,Wind,10,2024,173,Yes,Import,147
+Gujarat,East,Agriculture,Oil,7,2024,1286,No,Import,37
+Uttar Pradesh,North,Industrial,Wind,10,2024,673,No,Export,528
+Delhi,North,Commercial,Hydro,8,2024,3206,No,Import,407
+Tamil Nadu,South,Industrial,Hydro,1,2024,3186,No,Export,342
+Andhra Pradesh,East,Commercial,Hydro,8,2024,3439,Yes,Export,974
+Delhi,North,Residential,Wind,5,2024,3467,No,Import,326
+Andhra Pradesh,West,Residential,Natural Gas,12,2023,1705,No,Import,572
+Maharashtra,North,Transport,Coal,7,2024,1316,Yes,Export,435
+Delhi,West,Residential,Natural Gas,11,2024,2995,Yes,Export,145
+Uttar Pradesh,South,Transport,Hydro,11,2024,1210,No,Export,699
+Madhya Pradesh,North,Industrial,Oil,1,2024,2344,Yes,Import,650
+West Bengal,Central,Residential,Oil,2,2023,490,No,Import,718
+Gujarat,South,Industrial,Solar,1,2024,2142,Yes,Import,276
+Gujarat,West,Industrial,Natural Gas,5,2024,2755,No,Import,116
+West Bengal,South,Residential,Coal,6,2023,3809,No,Import,569
+Rajasthan,North,Industrial,Oil,10,2023,603,Yes,Export,147
+Maharashtra,East,Residential,Solar,9,2024,4954,No,Import,920
+Andhra Pradesh,East,Residential,Coal,8,2024,1162,No,Import,624
+Uttar Pradesh,West,Residential,Hydro,7,2024,2827,No,Export,56
+Karnataka,West,Commercial,Natural Gas,12,2024,1883,No,Import,998
+Delhi,East,Industrial,Biomass,5,2024,1364,No,Import,674
+Maharashtra,West,Agriculture,Nuclear,3,2024,3543,No,Import,377
+Delhi,South,Residential,Hydro,9,2023,3188,No,Export,15
+Uttar Pradesh,Central,Industrial,Oil,5,2023,3162,No,Export,532
+Tamil Nadu,Central,Transport,Wind,3,2024,148,Yes,Import,538
+Tamil Nadu,South,Residential,Biomass,3,2024,3975,No,Import,664
+Maharashtra,Central,Residential,Wind,3,2024,1529,No,Import,281
+Madhya Pradesh,North,Agriculture,Coal,6,2023,4446,Yes,Export,833
+Uttar Pradesh,South,Commercial,Wind,1,2024,1272,Yes,Export,75
+Uttar Pradesh,West,Commercial,Biomass,11,2023,4633,Yes,Import,429
+West Bengal,South,Residential,Biomass,4,2023,1054,Yes,Import,348
+Madhya Pradesh,East,Industrial,Hydro,8,2024,526,Yes,Import,943
+Andhra Pradesh,West,Transport,Solar,3,2023,1185,Yes,Import,507
+Andhra Pradesh,East,Transport,Hydro,5,2024,2906,No,Export,478
+Karnataka,West,Industrial,Coal,2,2023,1755,Yes,Export,340
+Gujarat,Central,Residential,Oil,2,2024,567,Yes,Import,777
+Tamil Nadu,South,Transport,Wind,11,2024,1270,Yes,Export,648
+Andhra Pradesh,North,Commercial,Solar,7,2023,2556,Yes,Export,140
+Madhya Pradesh,West,Industrial,Natural Gas,10,2023,4375,Yes,Import,539
+Uttar Pradesh,West,Agriculture,Nuclear,3,2023,1241,No,Import,728
+Andhra Pradesh,East,Residential,Biomass,5,2024,3930,No,Import,610
+Uttar Pradesh,Central,Industrial,Solar,3,2023,3293,No,Import,447
+Andhra Pradesh,East,Transport,Oil,6,2023,2027,No,Export,252
+Tamil Nadu,East,Residential,Natural Gas,10,2024,2292,Yes,Import,472
+Delhi,Central,Commercial,Solar,3,2024,3140,Yes,Import,359
+Andhra Pradesh,North,Residential,Hydro,8,2023,1937,Yes,Import,26
+Madhya Pradesh,East,Residential,Natural Gas,2,2023,4609,No,Import,475
+Andhra Pradesh,East,Commercial,Nuclear,3,2023,1023,Yes,Export,744
+Gujarat,West,Commercial,Oil,8,2024,115,No,Import,891
+Tamil Nadu,Central,Residential,Biomass,8,2024,2956,Yes,Import,372
+Madhya Pradesh,South,Commercial,Oil,1,2023,620,Yes,Export,219
+West Bengal,North,Industrial,Coal,8,2024,3942,No,Import,620
+Madhya Pradesh,North,Commercial,Coal,10,2023,357,No,Import,534
+Gujarat,Central,Commercial,Solar,2,2023,3458,No,Import,840
+Delhi,West,Residential,Natural Gas,12,2024,3792,No,Export,791
+Tamil Nadu,West,Industrial,Solar,7,2023,832,No,Import,708
+West Bengal,Central,Agriculture,Wind,6,2023,4266,No,Import,429
+Gujarat,West,Agriculture,Nuclear,2,2024,815,No,Import,795
+Gujarat,North,Transport,Biomass,5,2023,3525,Yes,Export,142
+Maharashtra,North,Commercial,Solar,7,2023,822,No,Import,23
+Tamil Nadu,South,Commercial,Wind,8,2024,3907,No,Import,802
+Madhya Pradesh,Central,Industrial,Natural Gas,3,2023,3235,Yes,Import,53
+Uttar Pradesh,East,Agriculture,Nuclear,1,2023,589,No,Export,386
+Delhi,East,Transport,Biomass,7,2024,2099,No,Export,304
+Uttar Pradesh,South,Industrial,Coal,5,2024,3333,No,Import,405
+Madhya Pradesh,South,Commercial,Wind,5,2024,4725,Yes,Import,113
+Madhya Pradesh,West,Agriculture,Natural Gas,7,2023,1713,No,Export,454
+Tamil Nadu,South,Transport,Nuclear,1,2024,1097,No,Import,71
+Madhya Pradesh,South,Residential,Wind,8,2023,3886,No,Export,574
+Maharashtra,East,Agriculture,Solar,12,2024,3489,Yes,Export,830
+West Bengal,West,Transport,Hydro,10,2023,555,No,Export,421
+Madhya Pradesh,South,Industrial,Coal,5,2023,3297,Yes,Import,940
+Uttar Pradesh,South,Residential,Solar,8,2024,3550,No,Export,639
+Madhya Pradesh,West,Transport,Solar,10,2023,1960,Yes,Export,330
+Maharashtra,Central,Transport,Natural Gas,10,2023,782,No,Import,140
+Andhra Pradesh,West,Commercial,Natural Gas,5,2024,3563,No,Import,820
+Andhra Pradesh,East,Agriculture,Nuclear,12,2023,1621,Yes,Import,827
+Gujarat,Central,Commercial,Natural Gas,7,2023,4659,Yes,Export,208
+Delhi,North,Residential,Wind,10,2023,2992,Yes,Export,914
+Karnataka,West,Transport,Coal,3,2024,4506,Yes,Import,45
+West Bengal,East,Commercial,Solar,2,2024,2371,Yes,Export,800
+Rajasthan,Central,Agriculture,Nuclear,6,2024,3385,No,Import,225
+Gujarat,West,Residential,Oil,5,2024,4672,No,Import,595
+Delhi,South,Industrial,Oil,9,2024,4424,No,Import,315
+Andhra Pradesh,West,Commercial,Coal,10,2024,2803,No,Import,576
+Uttar Pradesh,North,Residential,Natural Gas,4,2024,1422,Yes,Import,902
+Rajasthan,West,Industrial,Natural Gas,11,2024,1494,Yes,Export,21
+Delhi,Central,Commercial,Wind,3,2023,3426,Yes,Export,92
+Delhi,Central,Residential,Natural Gas,9,2023,339,No,Import,41
+Gujarat,West,Residential,Oil,8,2023,2115,No,Export,417
+Rajasthan,Central,Commercial,Solar,6,2023,113,Yes,Export,95
+Tamil Nadu,South,Residential,Oil,1,2024,3995,Yes,Import,972
+Karnataka,West,Transport,Biomass,10,2023,379,No,Export,753
+Tamil Nadu,South,Commercial,Solar,12,2023,4908,No,Export,420
+Rajasthan,South,Residential,Solar,11,2023,2013,No,Import,966
+Tamil Nadu,East,Industrial,Natural Gas,1,2023,3138,Yes,Export,796
+Maharashtra,West,Industrial,Coal,12,2023,2540,No,Export,722
+Andhra Pradesh,Central,Transport,Natural Gas,6,2024,190,No,Export,572
+Maharashtra,South,Commercial,Coal,3,2024,4589,No,Export,841
+Madhya Pradesh,East,Residential,Coal,3,2023,2523,No,Export,265
+Tamil Nadu,West,Residential,Oil,6,2023,3953,No,Import,250
+Madhya Pradesh,West,Industrial,Coal,3,2023,499,Yes,Import,726
+Uttar Pradesh,North,Transport,Nuclear,11,2023,1875,Yes,Import,907
+West Bengal,North,Industrial,Hydro,10,2024,4496,No,Import,941
+Uttar Pradesh,South,Industrial,Natural Gas,6,2023,4744,No,Import,998
+Rajasthan,North,Transport,Nuclear,5,2024,4856,No,Export,905
+Delhi,South,Commercial,Solar,4,2023,919,No,Export,916
+Andhra Pradesh,Central,Residential,Nuclear,8,2024,3614,Yes,Import,717
+Tamil Nadu,South,Commercial,Wind,2,2024,3709,No,Import,461
+Gujarat,North,Agriculture,Biomass,12,2024,3652,Yes,Import,765
+West Bengal,Central,Agriculture,Coal,11,2023,442,No,Export,841
+Karnataka,North,Agriculture,Natural Gas,7,2023,891,No,Export,10
+Karnataka,South,Transport,Wind,4,2024,2498,No,Export,610
+Karnataka,East,Industrial,Natural Gas,2,2023,2841,Yes,Export,291
+Tamil Nadu,West,Commercial,Oil,7,2023,3003,No,Export,660
+Karnataka,North,Residential,Biomass,1,2024,1408,No,Export,608
+Maharashtra,South,Agriculture,Wind,4,2023,1040,Yes,Import,523
+West Bengal,Central,Commercial,Natural Gas,9,2024,1088,No,Export,988
+Maharashtra,North,Agriculture,Solar,4,2023,77,No,Import,870
+Delhi,North,Agriculture,Coal,12,2023,437,No,Import,689
+West Bengal,West,Residential,Wind,3,2024,882,No,Export,128
+Maharashtra,South,Transport,Solar,10,2024,299,Yes,Export,909
+West Bengal,East,Industrial,Coal,10,2024,2077,No,Export,514
+Delhi,Central,Transport,Hydro,2,2024,1578,No,Export,89
+Madhya Pradesh,South,Commercial,Solar,3,2023,4243,Yes,Export,632
+Tamil Nadu,Central,Transport,Nuclear,1,2023,1888,Yes,Export,686
+Tamil Nadu,North,Commercial,Natural Gas,10,2023,1410,Yes,Export,903
+Karnataka,West,Commercial,Oil,8,2024,3159,Yes,Export,966
+Uttar Pradesh,West,Industrial,Coal,1,2023,1373,No,Import,228
+Karnataka,East,Residential,Wind,3,2023,2276,No,Import,526
+Rajasthan,West,Industrial,Biomass,3,2023,3730,No,Export,920
+Maharashtra,North,Transport,Wind,2,2024,941,Yes,Import,736
+West Bengal,East,Commercial,Nuclear,5,2024,1355,No,Export,716
+Uttar Pradesh,South,Agriculture,Natural Gas,10,2023,4598,No,Import,475
+Delhi,West,Agriculture,Nuclear,3,2023,4242,No,Import,803
+Rajasthan,East,Commercial,Wind,3,2024,311,No,Export,527
+Delhi,North,Industrial,Oil,8,2024,2390,No,Export,900
+Tamil Nadu,Central,Residential,Natural Gas,4,2024,1843,No,Export,821
+Tamil Nadu,Central,Industrial,Biomass,4,2024,2346,Yes,Import,511
+Karnataka,North,Commercial,Coal,3,2023,2342,No,Import,67
+Maharashtra,North,Commercial,Natural Gas,11,2024,2220,No,Export,346
+Uttar Pradesh,Central,Residential,Solar,1,2023,374,No,Import,519
+Andhra Pradesh,East,Transport,Natural Gas,8,2024,1035,No,Export,823
+Rajasthan,Central,Transport,Nuclear,1,2023,4832,Yes,Import,623
+Rajasthan,North,Residential,Nuclear,7,2023,3902,No,Export,435
+Karnataka,West,Transport,Nuclear,5,2024,1789,No,Import,569
+Tamil Nadu,South,Agriculture,Biomass,4,2023,1910,No,Export,379
+Karnataka,West,Transport,Natural Gas,4,2023,3187,Yes,Export,420
+West Bengal,West,Transport,Oil,8,2023,3948,No,Export,797
+Uttar Pradesh,North,Transport,Oil,11,2024,885,No,Import,975
+Maharashtra,Central,Agriculture,Natural Gas,11,2024,4204,No,Export,892
+Madhya Pradesh,East,Transport,Oil,6,2024,2828,Yes,Import,684
+Gujarat,West,Agriculture,Hydro,12,2023,1446,Yes,Export,853
+Gujarat,Central,Residential,Biomass,1,2023,1726,No,Export,441
+Karnataka,East,Industrial,Coal,10,2023,4381,Yes,Export,972
+West Bengal,West,Residential,Coal,8,2023,4363,No,Import,205
+Uttar Pradesh,East,Industrial,Coal,2,2024,1887,No,Import,386
+Andhra Pradesh,Central,Residential,Coal,6,2023,3771,No,Import,957
+Gujarat,South,Industrial,Coal,9,2023,3722,No,Export,374
+Uttar Pradesh,Central,Industrial,Oil,1,2023,3072,Yes,Import,845
+Maharashtra,North,Commercial,Wind,6,2024,4734,No,Export,653
+Delhi,East,Industrial,Nuclear,8,2023,1721,No,Export,944
+West Bengal,South,Industrial,Biomass,10,2024,966,No,Export,414
+Tamil Nadu,East,Commercial,Wind,2,2024,967,No,Export,501
+Uttar Pradesh,East,Transport,Biomass,5,2023,1183,No,Export,75
+Maharashtra,West,Transport,Hydro,6,2023,1886,Yes,Import,921
+Andhra Pradesh,North,Commercial,Natural Gas,5,2023,2188,No,Import,400
+Madhya Pradesh,East,Agriculture,Solar,3,2023,4057,No,Export,92
+Tamil Nadu,Central,Industrial,Nuclear,4,2024,1955,No,Export,490
+Madhya Pradesh,Central,Industrial,Hydro,7,2024,4039,No,Import,786
+Andhra Pradesh,West,Commercial,Wind,4,2024,3535,Yes,Export,238
+Maharashtra,North,Commercial,Solar,9,2024,4847,No,Export,794
+Gujarat,North,Agriculture,Natural Gas,11,2024,2170,No,Export,740
+Madhya Pradesh,Central,Transport,Hydro,12,2024,2782,Yes,Export,234
+Tamil Nadu,South,Residential,Natural Gas,10,2024,2819,No,Import,122
+Karnataka,West,Transport,Natural Gas,2,2024,1371,Yes,Export,661
+Rajasthan,West,Industrial,Oil,5,2024,3766,No,Import,194
+Uttar Pradesh,Central,Commercial,Biomass,8,2024,3404,Yes,Import,521
+Gujarat,Central,Agriculture,Solar,5,2023,1578,No,Import,182
+Madhya Pradesh,South,Transport,Biomass,10,2023,4793,Yes,Import,897
+Delhi,South,Agriculture,Natural Gas,12,2023,809,No,Export,532
+Uttar Pradesh,North,Transport,Oil,8,2024,3462,No,Export,918
+Karnataka,West,Industrial,Hydro,8,2023,1407,Yes,Export,680
+Andhra Pradesh,West,Residential,Natural Gas,9,2024,2240,No,Import,214
+Rajasthan,Central,Agriculture,Wind,10,2024,3531,Yes,Import,751
+Maharashtra,North,Agriculture,Natural Gas,6,2023,998,No,Import,547
+Karnataka,West,Residential,Biomass,12,2024,2129,No,Export,328
+Karnataka,North,Agriculture,Solar,4,2023,1816,No,Export,168
+Andhra Pradesh,North,Agriculture,Hydro,12,2024,77,No,Export,287
+West Bengal,Central,Transport,Biomass,11,2024,2520,Yes,Import,911
+Andhra Pradesh,North,Transport,Natural Gas,3,2023,2588,Yes,Import,157
+West Bengal,South,Residential,Wind,12,2023,209,No,Export,990
+West Bengal,South,Industrial,Nuclear,5,2023,2942,Yes,Import,787
+Gujarat,East,Agriculture,Oil,6,2023,4163,No,Import,92
+Gujarat,Central,Industrial,Wind,3,2023,3772,Yes,Export,428
+Tamil Nadu,East,Residential,Natural Gas,2,2023,3781,No,Import,547
+Madhya Pradesh,South,Residential,Wind,7,2024,2521,Yes,Import,592
+Madhya Pradesh,East,Transport,Oil,11,2024,4900,No,Export,558
+Maharashtra,Central,Agriculture,Nuclear,5,2024,1620,Yes,Import,401
+Madhya Pradesh,Central,Commercial,Wind,9,2024,886,Yes,Import,142
+Gujarat,North,Residential,Nuclear,3,2023,3988,No,Import,949
+Tamil Nadu,West,Agriculture,Natural Gas,8,2024,2336,Yes,Import,647
+Tamil Nadu,North,Industrial,Nuclear,6,2024,3455,No,Export,636
+West Bengal,Central,Transport,Biomass,4,2023,2720,No,Export,613
+Andhra Pradesh,South,Industrial,Biomass,12,2024,4162,Yes,Import,251
+Maharashtra,South,Residential,Nuclear,12,2023,4797,No,Export,460
+West Bengal,North,Residential,Hydro,9,2023,4405,No,Export,209
+Andhra Pradesh,Central,Industrial,Solar,5,2023,1677,No,Export,728
+Madhya Pradesh,South,Residential,Hydro,10,2024,1916,No,Import,126
+West Bengal,Central,Agriculture,Nuclear,6,2023,254,No,Import,228
+Uttar Pradesh,South,Residential,Solar,9,2024,3629,Yes,Export,314
+Madhya Pradesh,Central,Transport,Biomass,7,2024,3224,Yes,Export,252
+Andhra Pradesh,East,Agriculture,Solar,12,2024,841,No,Export,301
+Maharashtra,Central,Commercial,Nuclear,5,2023,4142,No,Export,985
+Andhra Pradesh,Central,Residential,Biomass,2,2023,3797,Yes,Import,803
+West Bengal,North,Residential,Solar,4,2023,1155,No,Export,310
+West Bengal,East,Transport,Solar,2,2024,1140,No,Import,838
+Karnataka,West,Transport,Hydro,3,2024,1657,Yes,Import,693
+Maharashtra,North,Industrial,Solar,10,2023,1889,Yes,Import,397
+Delhi,West,Industrial,Natural Gas,12,2024,3447,No,Import,597
+Madhya Pradesh,South,Industrial,Nuclear,3,2023,116,Yes,Import,218
+Tamil Nadu,West,Transport,Coal,4,2023,4829,Yes,Import,323
+Maharashtra,Central,Industrial,Coal,6,2024,1328,Yes,Import,626
+Tamil Nadu,West,Industrial,Coal,12,2024,4208,No,Export,35
+Maharashtra,North,Commercial,Nuclear,3,2023,863,No,Import,872
+Maharashtra,North,Industrial,Coal,10,2024,452,Yes,Export,88
+Andhra Pradesh,West,Residential,Hydro,1,2023,2052,Yes,Export,137
+Maharashtra,North,Transport,Nuclear,1,2023,4216,No,Export,422
+Karnataka,North,Agriculture,Natural Gas,9,2024,2975,No,Export,146
+Delhi,West,Commercial,Biomass,9,2023,3043,No,Export,343
+West Bengal,East,Transport,Natural Gas,5,2024,1136,No,Import,557
+Rajasthan,East,Transport,Nuclear,9,2023,4390,No,Import,397
+Tamil Nadu,South,Residential,Nuclear,11,2024,2616,Yes,Export,580
+West Bengal,North,Industrial,Solar,7,2024,4538,No,Export,239
+Rajasthan,West,Residential,Solar,9,2023,821,No,Export,430
+Delhi,North,Industrial,Solar,12,2024,3722,No,Import,133
+Delhi,Central,Industrial,Oil,7,2024,3298,No,Export,97
+Tamil Nadu,North,Transport,Oil,9,2023,1719,Yes,Import,858
+Tamil Nadu,North,Industrial,Wind,2,2024,1606,Yes,Import,150
+Delhi,East,Commercial,Oil,11,2023,3008,No,Export,925
+Rajasthan,West,Commercial,Hydro,11,2024,1201,No,Import,794
+Maharashtra,North,Commercial,Nuclear,8,2023,1267,No,Import,60
+Madhya Pradesh,East,Transport,Natural Gas,7,2023,2281,No,Import,996
+Uttar Pradesh,South,Residential,Nuclear,6,2023,4392,Yes,Export,576
+West Bengal,East,Agriculture,Solar,5,2023,3994,Yes,Export,938
+Andhra Pradesh,East,Industrial,Nuclear,4,2024,2092,No,Export,414
+West Bengal,East,Agriculture,Biomass,7,2023,755,Yes,Export,346
+Andhra Pradesh,North,Residential,Oil,3,2024,2719,No,Export,671
+Rajasthan,North,Residential,Nuclear,8,2023,2163,Yes,Export,674
+Andhra Pradesh,South,Transport,Natural Gas,2,2024,3027,No,Export,972
+Tamil Nadu,Central,Commercial,Coal,1,2023,4399,No,Export,740
+Madhya Pradesh,Central,Commercial,Biomass,11,2024,4428,No,Import,740
+Madhya Pradesh,Central,Residential,Biomass,2,2024,472,Yes,Export,375
+Tamil Nadu,South,Transport,Nuclear,9,2023,2071,No,Import,917
+Karnataka,Central,Transport,Wind,5,2023,3843,No,Import,920
+Rajasthan,Central,Industrial,Solar,11,2023,4181,No,Export,989
+Karnataka,East,Commercial,Hydro,8,2024,580,Yes,Import,863
+Karnataka,North,Residential,Hydro,3,2024,140,Yes,Import,267
+West Bengal,North,Agriculture,Coal,7,2024,3422,Yes,Export,397
+Delhi,East,Commercial,Hydro,2,2024,1992,Yes,Import,54
+West Bengal,East,Industrial,Hydro,8,2023,3855,No,Export,278
+Delhi,East,Transport,Solar,7,2023,1290,No,Import,320
+Uttar Pradesh,North,Residential,Oil,12,2023,1808,Yes,Import,681
+Andhra Pradesh,Central,Commercial,Solar,5,2023,147,Yes,Export,287
+Delhi,East,Agriculture,Wind,12,2024,1529,Yes,Import,866
+Tamil Nadu,South,Industrial,Natural Gas,11,2024,4676,No,Import,484
+West Bengal,East,Industrial,Coal,4,2023,1882,No,Export,576
+Rajasthan,West,Commercial,Hydro,1,2024,2635,No,Export,154
+Andhra Pradesh,East,Agriculture,Wind,5,2023,3697,No,Import,975
+Uttar Pradesh,North,Industrial,Coal,12,2024,129,No,Import,244
+Delhi,East,Residential,Biomass,9,2024,4759,Yes,Export,700
+Uttar Pradesh,West,Industrial,Hydro,10,2024,2273,Yes,Import,729
+Rajasthan,South,Agriculture,Hydro,4,2024,2619,No,Export,145
+Karnataka,Central,Transport,Solar,9,2024,1822,No,Export,454
+Madhya Pradesh,East,Transport,Nuclear,12,2024,4568,Yes,Export,362
+Rajasthan,West,Commercial,Coal,2,2023,1173,Yes,Import,403
+Gujarat,West,Agriculture,Hydro,4,2024,3861,Yes,Import,284
+Rajasthan,South,Industrial,Oil,9,2023,3524,No,Import,393
+Uttar Pradesh,North,Industrial,Coal,4,2023,2673,No,Export,919
+Tamil Nadu,East,Transport,Natural Gas,5,2023,1453,No,Import,332
+West Bengal,West,Transport,Oil,11,2023,2628,Yes,Export,192
+Tamil Nadu,South,Residential,Wind,8,2023,381,Yes,Import,582
+Uttar Pradesh,Central,Transport,Oil,1,2023,4798,Yes,Export,449
+West Bengal,West,Residential,Wind,1,2024,3658,No,Export,72
+Gujarat,South,Industrial,Nuclear,9,2024,789,No,Import,882
+Madhya Pradesh,North,Residential,Hydro,9,2024,4656,No,Export,736
+Andhra Pradesh,North,Residential,Oil,4,2023,91,Yes,Import,881
+Uttar Pradesh,West,Commercial,Natural Gas,2,2023,3928,No,Import,660
+Delhi,West,Transport,Solar,9,2023,1999,No,Import,952
+Uttar Pradesh,East,Residential,Hydro,4,2024,3510,No,Import,655
+Uttar Pradesh,South,Industrial,Coal,6,2024,2178,No,Import,43
+West Bengal,West,Agriculture,Biomass,12,2024,4547,No,Export,714
+Maharashtra,East,Residential,Wind,1,2023,2204,No,Import,876
+Rajasthan,East,Transport,Coal,12,2023,1287,Yes,Export,994
+Maharashtra,West,Commercial,Nuclear,9,2023,1816,Yes,Import,841
+Gujarat,North,Industrial,Wind,5,2024,1891,Yes,Export,486
+Delhi,South,Commercial,Solar,3,2023,555,No,Export,96
+Madhya Pradesh,South,Agriculture,Wind,4,2023,1891,No,Import,219
+Karnataka,North,Residential,Biomass,1,2023,4865,Yes,Export,471
+Gujarat,West,Residential,Oil,9,2023,1444,No,Import,90
+Karnataka,South,Transport,Natural Gas,8,2024,306,No,Import,331
+Karnataka,West,Residential,Oil,4,2024,1770,No,Import,424
+Madhya Pradesh,West,Industrial,Hydro,2,2023,1121,No,Export,860
+Tamil Nadu,East,Agriculture,Biomass,9,2023,1672,No,Export,199
+Maharashtra,North,Commercial,Natural Gas,4,2024,2116,Yes,Export,959
+Uttar Pradesh,West,Agriculture,Biomass,9,2024,1119,Yes,Export,869
+Andhra Pradesh,Central,Residential,Hydro,10,2023,500,No,Import,242
+Karnataka,North,Commercial,Wind,3,2024,947,Yes,Import,401
+Delhi,South,Transport,Nuclear,7,2024,4886,Yes,Export,947
+Gujarat,East,Agriculture,Hydro,7,2023,3778,No,Export,178
+Tamil Nadu,South,Commercial,Hydro,10,2024,131,No,Import,452
+Karnataka,South,Commercial,Natural Gas,4,2024,786,No,Export,772
+Tamil Nadu,North,Commercial,Solar,2,2024,4224,Yes,Import,177
+Tamil Nadu,South,Industrial,Oil,11,2024,3994,No,Export,240
+Karnataka,West,Agriculture,Wind,9,2023,2257,Yes,Export,159
+West Bengal,South,Commercial,Hydro,4,2024,3998,Yes,Export,673
+Rajasthan,East,Agriculture,Nuclear,8,2024,2052,No,Import,559
+Delhi,East,Commercial,Coal,2,2023,1741,Yes,Import,395
+Uttar Pradesh,Central,Transport,Wind,8,2024,1229,Yes,Export,390
+Uttar Pradesh,East,Transport,Solar,11,2023,2985,No,Export,818
+Delhi,South,Transport,Biomass,10,2023,2565,Yes,Export,284
+West Bengal,East,Residential,Hydro,5,2024,4998,No,Export,626
+Uttar Pradesh,North,Commercial,Nuclear,7,2024,511,No,Export,907
+Tamil Nadu,East,Residential,Wind,7,2024,2951,No,Export,869
+Madhya Pradesh,West,Agriculture,Nuclear,12,2024,166,Yes,Export,873
+Gujarat,North,Residential,Nuclear,9,2024,1704,No,Export,71
+Maharashtra,Central,Agriculture,Oil,3,2023,4611,Yes,Import,476
+Uttar Pradesh,West,Agriculture,Natural Gas,10,2024,1848,No,Import,537
+Delhi,South,Agriculture,Biomass,4,2023,709,Yes,Import,871
+Madhya Pradesh,South,Residential,Solar,10,2024,3287,Yes,Import,159
+Karnataka,South,Commercial,Oil,4,2023,2172,No,Export,151
+Rajasthan,West,Residential,Wind,10,2024,3869,Yes,Import,125
+Delhi,West,Commercial,Hydro,5,2024,3393,Yes,Import,833
+Tamil Nadu,West,Commercial,Solar,6,2024,2600,Yes,Export,74
+Rajasthan,North,Agriculture,Hydro,3,2024,4940,No,Import,438
+Gujarat,North,Residential,Coal,4,2024,1636,Yes,Import,319
+Gujarat,South,Commercial,Nuclear,3,2023,4732,No,Import,715
+West Bengal,East,Transport,Coal,2,2024,2797,Yes,Import,863
+Andhra Pradesh,South,Commercial,Natural Gas,10,2024,684,No,Import,439
+West Bengal,Central,Transport,Nuclear,12,2024,2932,No,Export,170
+Madhya Pradesh,North,Residential,Biomass,9,2023,2861,No,Export,984
+Rajasthan,West,Residential,Solar,1,2024,4503,No,Export,315
+Andhra Pradesh,North,Residential,Hydro,2,2023,4065,Yes,Import,370
+Karnataka,West,Commercial,Oil,8,2024,2789,Yes,Import,287
+Tamil Nadu,Central,Industrial,Natural Gas,7,2023,1934,Yes,Import,305
+Rajasthan,Central,Commercial,Biomass,12,2024,1568,No,Export,560
+West Bengal,North,Commercial,Hydro,1,2024,671,No,Import,882
+Maharashtra,West,Agriculture,Solar,5,2023,4627,No,Import,178
+Andhra Pradesh,Central,Agriculture,Wind,10,2024,1587,Yes,Import,468
+Andhra Pradesh,South,Commercial,Natural Gas,6,2023,2387,No,Import,589
+Tamil Nadu,South,Transport,Coal,5,2024,2044,No,Export,16
+Uttar Pradesh,West,Agriculture,Coal,4,2024,2120,No,Export,606
+Gujarat,North,Commercial,Oil,1,2023,4951,No,Import,720
+Gujarat,Central,Industrial,Hydro,7,2024,4980,Yes,Export,141
+Maharashtra,North,Transport,Hydro,9,2023,2415,Yes,Export,597
+Madhya Pradesh,South,Residential,Hydro,6,2023,2895,No,Export,771
+Madhya Pradesh,Central,Commercial,Natural Gas,3,2024,3088,Yes,Import,356
+Karnataka,North,Commercial,Solar,10,2024,904,Yes,Export,964
+Rajasthan,East,Transport,Wind,4,2024,2778,Yes,Export,730
+Delhi,West,Agriculture,Coal,10,2023,965,Yes,Import,605
+Uttar Pradesh,West,Agriculture,Biomass,5,2023,4988,No,Export,744
+West Bengal,East,Agriculture,Nuclear,12,2024,181,Yes,Export,262
+Delhi,South,Residential,Natural Gas,12,2023,1166,No,Export,419
+Delhi,Central,Transport,Natural Gas,1,2023,3643,No,Import,552
+Andhra Pradesh,West,Transport,Solar,5,2023,910,No,Import,364
+Maharashtra,East,Agriculture,Coal,1,2023,343,No,Export,722
+Gujarat,East,Agriculture,Oil,9,2024,2738,Yes,Import,974
+Karnataka,South,Industrial,Wind,7,2024,1049,No,Import,573
+Madhya Pradesh,South,Industrial,Solar,3,2024,2346,No,Import,377
+Maharashtra,North,Commercial,Biomass,9,2023,3735,No,Export,593
+Andhra Pradesh,West,Commercial,Coal,2,2023,336,No,Export,520
+West Bengal,North,Transport,Solar,12,2023,499,No,Import,542
+Karnataka,East,Transport,Coal,7,2023,2388,No,Export,537
+Andhra Pradesh,Central,Residential,Coal,9,2024,3290,No,Import,956
+Gujarat,Central,Residential,Oil,6,2023,2753,Yes,Import,537
+Gujarat,South,Industrial,Natural Gas,10,2023,3166,Yes,Export,411
+Gujarat,Central,Commercial,Wind,5,2024,4621,No,Import,184
+Maharashtra,Central,Industrial,Natural Gas,12,2024,302,No,Import,833
+Maharashtra,Central,Industrial,Nuclear,7,2024,1469,Yes,Import,933
+Madhya Pradesh,East,Commercial,Wind,6,2023,2386,No,Import,859
+Madhya Pradesh,Central,Residential,Coal,5,2023,1285,No,Export,87
+West Bengal,Central,Commercial,Solar,2,2023,1049,No,Import,449
+Karnataka,Central,Agriculture,Biomass,8,2023,3810,No,Export,761
+Tamil Nadu,North,Agriculture,Oil,7,2023,4166,No,Import,558
+Tamil Nadu,East,Agriculture,Wind,6,2023,4461,No,Export,241
+Andhra Pradesh,South,Transport,Nuclear,5,2024,2661,No,Import,409
+Gujarat,North,Residential,Coal,5,2023,1496,No,Import,222
+Karnataka,West,Residential,Biomass,9,2024,2220,Yes,Export,202
+Delhi,East,Transport,Wind,1,2024,2971,No,Export,581
+Maharashtra,East,Industrial,Natural Gas,9,2024,3733,Yes,Import,710
+Rajasthan,West,Agriculture,Natural Gas,6,2023,2311,Yes,Import,276
+Uttar Pradesh,West,Agriculture,Wind,4,2023,1995,No,Import,135
+West Bengal,West,Industrial,Wind,10,2024,4984,No,Import,724
+Gujarat,South,Commercial,Wind,7,2023,1903,No,Import,843
+Gujarat,Central,Commercial,Biomass,9,2023,649,Yes,Export,391
+Gujarat,East,Residential,Natural Gas,5,2024,4937,No,Export,553
+Maharashtra,Central,Transport,Solar,5,2023,4185,No,Import,511
+Maharashtra,Central,Residential,Nuclear,8,2023,3453,No,Export,412
+Uttar Pradesh,West,Commercial,Nuclear,7,2023,3040,Yes,Export,833
+Delhi,South,Industrial,Oil,8,2023,4793,No,Import,270
+Karnataka,North,Residential,Coal,11,2024,4327,No,Export,396
+Gujarat,South,Agriculture,Hydro,12,2024,4410,Yes,Import,421
+Tamil Nadu,Central,Agriculture,Solar,10,2023,2868,Yes,Export,355
+Madhya Pradesh,South,Industrial,Natural Gas,2,2023,912,No,Export,992
+Tamil Nadu,West,Commercial,Coal,9,2023,4577,No,Export,103
+Andhra Pradesh,North,Agriculture,Oil,3,2024,4105,No,Export,337
+Tamil Nadu,West,Agriculture,Coal,6,2023,1269,No,Export,109
+Andhra Pradesh,North,Transport,Wind,6,2023,3845,Yes,Import,806
+Rajasthan,Central,Residential,Hydro,2,2024,4654,Yes,Export,470
+Madhya Pradesh,North,Commercial,Natural Gas,12,2023,4592,Yes,Import,324
+Tamil Nadu,North,Residential,Hydro,7,2024,577,Yes,Export,34
+Rajasthan,North,Commercial,Solar,9,2023,2972,No,Export,927
+West Bengal,South,Agriculture,Hydro,12,2024,3254,Yes,Export,503
+Karnataka,South,Transport,Coal,10,2023,1212,No,Import,362
+Rajasthan,Central,Residential,Hydro,11,2023,4814,No,Export,878
+Karnataka,North,Agriculture,Hydro,1,2024,3614,No,Export,126
+Tamil Nadu,East,Commercial,Nuclear,8,2024,896,No,Import,208
+Delhi,Central,Residential,Natural Gas,2,2024,2167,No,Import,288
+Rajasthan,North,Residential,Natural Gas,1,2024,3136,No,Import,591
+Madhya Pradesh,North,Agriculture,Coal,8,2024,1820,Yes,Export,856
+Tamil Nadu,South,Residential,Biomass,2,2023,3333,Yes,Export,88
+Gujarat,Central,Transport,Hydro,6,2024,1875,No,Export,433
+Maharashtra,North,Transport,Hydro,6,2024,3373,Yes,Export,363
+Rajasthan,North,Agriculture,Wind,5,2024,495,No,Import,535
+Madhya Pradesh,Central,Commercial,Natural Gas,8,2024,1075,No,Import,550
+West Bengal,East,Agriculture,Hydro,3,2023,1821,No,Export,665
+Gujarat,Central,Transport,Natural Gas,10,2023,1409,Yes,Import,486
+West Bengal,Central,Industrial,Hydro,4,2023,68,No,Import,864
+Tamil Nadu,East,Industrial,Nuclear,7,2023,610,Yes,Import,19
+Maharashtra,Central,Residential,Coal,7,2023,521,No,Export,568
+Rajasthan,North,Residential,Natural Gas,12,2024,77,Yes,Import,512
+Rajasthan,Central,Industrial,Solar,8,2023,609,No,Export,269
+Delhi,East,Transport,Coal,2,2023,2705,Yes,Export,533
+Delhi,West,Residential,Wind,11,2024,3286,Yes,Export,819
+Tamil Nadu,Central,Agriculture,Coal,12,2024,4603,No,Import,747
+Tamil Nadu,South,Agriculture,Hydro,2,2023,994,Yes,Import,781
+Maharashtra,North,Transport,Wind,4,2023,3998,No,Import,605
+Delhi,North,Residential,Coal,10,2024,3706,Yes,Import,869
+Madhya Pradesh,South,Agriculture,Oil,9,2023,3113,Yes,Export,869
+Madhya Pradesh,South,Residential,Wind,10,2024,2029,No,Export,15
+Maharashtra,Central,Residential,Oil,12,2024,2766,Yes,Export,919
+Madhya Pradesh,South,Agriculture,Solar,9,2023,4971,Yes,Import,768
+Andhra Pradesh,West,Industrial,Coal,4,2023,865,No,Import,44
+Karnataka,East,Agriculture,Natural Gas,9,2023,2376,Yes,Import,184
+Maharashtra,South,Transport,Natural Gas,3,2024,2380,Yes,Export,451
+Maharashtra,South,Commercial,Biomass,12,2024,1052,Yes,Export,586
+Uttar Pradesh,West,Agriculture,Hydro,5,2023,1592,No,Import,156
+Gujarat,North,Residential,Oil,10,2023,4254,No,Export,578
+Gujarat,North,Residential,Wind,9,2023,1279,Yes,Export,202
+Andhra Pradesh,Central,Agriculture,Biomass,6,2024,3355,No,Import,22
+Delhi,West,Commercial,Biomass,3,2024,2579,Yes,Import,913
+Tamil Nadu,East,Agriculture,Nuclear,10,2024,1480,No,Export,539
+Tamil Nadu,East,Commercial,Oil,9,2023,3962,Yes,Import,255
+West Bengal,West,Commercial,Wind,6,2024,1582,No,Export,684
+Andhra Pradesh,East,Transport,Biomass,4,2024,1942,No,Import,864
+Maharashtra,North,Residential,Nuclear,4,2023,3174,No,Export,123
+Andhra Pradesh,East,Residential,Biomass,8,2024,1471,No,Import,803
+Andhra Pradesh,East,Commercial,Hydro,7,2023,440,Yes,Import,242
+Andhra Pradesh,West,Residential,Solar,1,2024,2868,Yes,Import,687
+Gujarat,West,Industrial,Oil,6,2023,1919,Yes,Export,989
+Andhra Pradesh,East,Commercial,Nuclear,8,2023,3010,Yes,Export,331
+Karnataka,South,Residential,Solar,3,2024,1245,Yes,Import,547
+Tamil Nadu,West,Industrial,Wind,9,2023,2655,Yes,Export,135
+West Bengal,Central,Transport,Hydro,10,2024,907,No,Export,322
+Karnataka,Central,Residential,Nuclear,2,2023,3277,Yes,Import,520
+West Bengal,North,Industrial,Wind,6,2023,1566,Yes,Import,493
+Uttar Pradesh,East,Agriculture,Biomass,12,2023,1203,Yes,Import,290
+West Bengal,South,Agriculture,Natural Gas,1,2024,892,No,Export,807
+Tamil Nadu,North,Industrial,Coal,12,2023,1732,Yes,Import,987
+Tamil Nadu,East,Commercial,Wind,11,2023,344,No,Export,912
+Andhra Pradesh,West,Commercial,Solar,2,2024,694,No,Export,292
+Rajasthan,Central,Residential,Hydro,5,2023,3683,No,Export,660
+Uttar Pradesh,South,Agriculture,Hydro,1,2023,2185,Yes,Import,622
+Maharashtra,Central,Commercial,Wind,8,2023,160,Yes,Import,401
+Madhya Pradesh,West,Commercial,Biomass,1,2023,633,No,Export,532
+West Bengal,East,Agriculture,Coal,9,2024,3275,Yes,Export,391
+Rajasthan,West,Transport,Oil,10,2023,1536,Yes,Import,225
+Andhra Pradesh,West,Commercial,Solar,11,2023,4914,Yes,Import,551
+Gujarat,Central,Industrial,Wind,3,2024,1698,No,Import,615
+Maharashtra,South,Residential,Wind,12,2023,2431,No,Import,125
+Delhi,West,Commercial,Natural Gas,2,2023,155,No,Import,518
+Rajasthan,Central,Commercial,Hydro,1,2024,3603,No,Import,509
+Gujarat,South,Transport,Solar,9,2024,1744,No,Import,280
+Uttar Pradesh,East,Industrial,Coal,4,2024,1783,No,Import,449
+Andhra Pradesh,East,Residential,Hydro,12,2024,431,No,Import,300
+Maharashtra,North,Commercial,Wind,1,2023,2786,No,Export,48
+Maharashtra,Central,Residential,Hydro,1,2024,4406,No,Import,33
+Maharashtra,South,Agriculture,Hydro,7,2023,1366,Yes,Import,785
+Uttar Pradesh,West,Commercial,Nuclear,2,2024,2752,Yes,Export,52
+West Bengal,East,Commercial,Hydro,7,2023,4965,No,Import,179
+Delhi,South,Agriculture,Biomass,12,2024,4124,No,Import,349
+Uttar Pradesh,Central,Transport,Hydro,7,2024,4854,No,Export,178
+Madhya Pradesh,North,Commercial,Oil,10,2023,956,No,Import,824
+Delhi,East,Residential,Biomass,9,2024,712,No,Export,547
+Tamil Nadu,South,Industrial,Solar,7,2024,512,No,Export,701
+Andhra Pradesh,South,Residential,Hydro,1,2024,2952,No,Import,481
+Uttar Pradesh,South,Transport,Coal,12,2023,4730,Yes,Export,671
+Gujarat,Central,Industrial,Biomass,8,2024,992,No,Export,654
+Delhi,Central,Residential,Biomass,8,2024,207,No,Export,152
+Madhya Pradesh,Central,Residential,Wind,4,2023,3359,No,Export,685
+Tamil Nadu,West,Agriculture,Solar,8,2023,1376,Yes,Import,110
+West Bengal,South,Transport,Hydro,4,2024,2767,Yes,Export,584
+Gujarat,East,Agriculture,Natural Gas,8,2023,2718,No,Export,614
+Delhi,Central,Industrial,Coal,5,2023,2618,No,Import,728
+Andhra Pradesh,Central,Agriculture,Wind,4,2023,3442,No,Export,484
+Gujarat,South,Transport,Solar,6,2024,2156,Yes,Import,954
+Tamil Nadu,Central,Commercial,Oil,2,2024,4849,No,Export,320
+Gujarat,West,Commercial,Biomass,12,2023,697,No,Import,593
+Karnataka,West,Industrial,Coal,2,2024,3372,Yes,Export,69
+Rajasthan,Central,Commercial,Oil,2,2023,2988,No,Import,962
+West Bengal,South,Agriculture,Hydro,9,2024,2533,No,Export,38
+Tamil Nadu,South,Industrial,Natural Gas,10,2023,4291,No,Import,540
+Gujarat,South,Transport,Nuclear,3,2024,2956,No,Import,82
+Rajasthan,North,Industrial,Nuclear,10,2023,3075,No,Import,403
+Rajasthan,Central,Industrial,Solar,4,2024,1425,No,Import,878
+Gujarat,South,Residential,Natural Gas,10,2024,1873,Yes,Import,403
+Andhra Pradesh,West,Residential,Coal,12,2023,294,No,Export,767
+Karnataka,East,Industrial,Wind,8,2024,2398,Yes,Export,490
+Uttar Pradesh,East,Commercial,Coal,4,2024,917,Yes,Import,482
+Karnataka,South,Residential,Natural Gas,11,2024,2911,Yes,Import,322
+Gujarat,East,Transport,Oil,10,2024,529,Yes,Export,447
+West Bengal,East,Agriculture,Biomass,10,2024,2512,No,Export,961
+Uttar Pradesh,North,Residential,Nuclear,7,2024,1985,No,Import,333
+Tamil Nadu,West,Industrial,Solar,5,2024,3423,Yes,Export,974
+Karnataka,West,Commercial,Hydro,9,2024,3071,No,Import,96
+Gujarat,North,Agriculture,Coal,4,2023,3242,No,Import,368
+Karnataka,North,Residential,Nuclear,3,2024,137,No,Import,704
+Uttar Pradesh,East,Commercial,Wind,2,2023,1290,No,Export,206
+Madhya Pradesh,Central,Commercial,Solar,1,2024,622,Yes,Import,765
+Delhi,East,Commercial,Hydro,11,2023,863,No,Export,849
+Karnataka,North,Industrial,Coal,6,2024,228,No,Export,986
+Tamil Nadu,West,Transport,Wind,10,2023,1775,No,Export,394
+Tamil Nadu,East,Commercial,Hydro,2,2023,212,No,Export,127
+Maharashtra,Central,Agriculture,Biomass,8,2024,2690,No,Import,507
+Karnataka,East,Residential,Nuclear,6,2023,1055,No,Import,917
+Delhi,South,Agriculture,Biomass,12,2024,2398,No,Export,940
+Andhra Pradesh,East,Industrial,Nuclear,12,2024,2471,No,Import,893
+Rajasthan,North,Industrial,Wind,5,2023,2805,Yes,Export,471
+Delhi,West,Agriculture,Oil,2,2024,4348,Yes,Import,505
+Rajasthan,West,Transport,Biomass,7,2023,4192,Yes,Import,603
+Rajasthan,North,Industrial,Nuclear,2,2023,4608,No,Import,979
+Madhya Pradesh,South,Industrial,Solar,5,2024,3791,No,Import,256
+Maharashtra,North,Agriculture,Wind,2,2024,4553,Yes,Import,984
+Delhi,East,Industrial,Nuclear,11,2024,1267,No,Import,243
+Delhi,North,Transport,Coal,10,2024,2524,No,Export,426
+Madhya Pradesh,North,Transport,Nuclear,11,2024,979,No,Import,476
+Karnataka,South,Transport,Biomass,11,2023,366,Yes,Import,491
+Karnataka,East,Residential,Solar,2,2023,1552,No,Import,374
+Karnataka,Central,Transport,Hydro,7,2024,470,No,Export,162
+West Bengal,Central,Transport,Oil,9,2024,4408,No,Import,281
+Rajasthan,West,Residential,Hydro,5,2024,1499,No,Import,401
+West Bengal,North,Commercial,Nuclear,7,2023,477,No,Import,556
+Maharashtra,West,Industrial,Hydro,4,2023,446,Yes,Export,734
+Madhya Pradesh,South,Transport,Nuclear,2,2023,845,No,Import,732
+Delhi,Central,Industrial,Solar,3,2024,156,Yes,Export,439
+Rajasthan,North,Agriculture,Hydro,2,2024,4099,Yes,Export,660
+West Bengal,South,Industrial,Biomass,5,2023,147,Yes,Import,198
+West Bengal,South,Residential,Biomass,6,2024,1953,Yes,Import,821
+Gujarat,North,Industrial,Coal,7,2024,3620,Yes,Export,916
+West Bengal,South,Industrial,Nuclear,3,2023,3351,No,Export,261
+Andhra Pradesh,North,Industrial,Hydro,4,2023,92,No,Import,404
+Delhi,North,Commercial,Biomass,8,2024,1627,No,Import,671
+Andhra Pradesh,East,Commercial,Natural Gas,4,2023,4240,No,Export,862
+Delhi,West,Agriculture,Solar,7,2024,4333,Yes,Export,228
+Madhya Pradesh,South,Residential,Oil,12,2023,434,Yes,Export,603
+Delhi,South,Industrial,Solar,6,2023,4964,No,Export,199
+Andhra Pradesh,East,Industrial,Natural Gas,7,2024,3521,No,Import,243
+Delhi,East,Industrial,Natural Gas,1,2024,3627,No,Export,697
+Madhya Pradesh,East,Industrial,Coal,3,2023,3288,No,Import,241
+Madhya Pradesh,Central,Commercial,Solar,6,2024,1746,No,Export,367
+Maharashtra,Central,Agriculture,Solar,3,2023,2184,No,Export,487
+Delhi,Central,Transport,Hydro,7,2024,3942,No,Import,584
+Gujarat,North,Residential,Nuclear,9,2023,2586,Yes,Import,956
+Karnataka,South,Industrial,Wind,3,2023,4371,No,Import,438
+Tamil Nadu,West,Agriculture,Oil,1,2023,2442,No,Import,246
+Madhya Pradesh,North,Transport,Solar,10,2024,4663,No,Export,42
+Uttar Pradesh,South,Agriculture,Oil,6,2023,3865,Yes,Import,222
+Karnataka,South,Commercial,Oil,12,2023,345,No,Import,581
+Rajasthan,East,Transport,Oil,1,2023,463,Yes,Import,388
+Delhi,East,Agriculture,Solar,1,2023,2045,No,Export,11
+Andhra Pradesh,North,Commercial,Wind,8,2024,53,Yes,Export,918
+Tamil Nadu,East,Agriculture,Solar,9,2024,227,Yes,Import,459
+Uttar Pradesh,South,Agriculture,Hydro,2,2023,795,No,Export,578
+Karnataka,East,Transport,Hydro,9,2023,4404,Yes,Export,436
+Delhi,Central,Commercial,Wind,5,2024,701,Yes,Import,822
+Maharashtra,East,Industrial,Biomass,8,2023,3939,Yes,Export,808
+Rajasthan,South,Residential,Solar,7,2024,3321,Yes,Import,659
+Tamil Nadu,North,Transport,Biomass,7,2023,2532,No,Import,288
+Gujarat,West,Commercial,Oil,4,2024,339,No,Import,223
+Maharashtra,East,Agriculture,Solar,2,2023,852,No,Export,760
+Uttar Pradesh,South,Commercial,Nuclear,5,2024,2580,No,Import,294
+Tamil Nadu,West,Residential,Solar,11,2024,283,No,Export,552
+Maharashtra,West,Residential,Hydro,11,2024,457,No,Export,727
+Rajasthan,Central,Industrial,Coal,3,2023,743,No,Export,979
+Gujarat,West,Industrial,Natural Gas,9,2024,1219,No,Export,283
+Maharashtra,South,Residential,Coal,6,2024,4707,No,Import,20
+West Bengal,South,Transport,Coal,1,2023,2527,No,Import,880
+Gujarat,East,Transport,Coal,3,2023,481,Yes,Export,56
+Uttar Pradesh,East,Agriculture,Natural Gas,12,2023,2594,Yes,Import,524
+Rajasthan,East,Industrial,Biomass,4,2023,1032,No,Export,651
+Delhi,West,Agriculture,Natural Gas,9,2024,3210,No,Export,447
+Andhra Pradesh,West,Industrial,Biomass,11,2023,3094,Yes,Import,593
+Andhra Pradesh,Central,Residential,Natural Gas,6,2023,3974,Yes,Export,680
+Andhra Pradesh,East,Transport,Natural Gas,4,2023,3362,No,Import,913
+Tamil Nadu,North,Transport,Solar,1,2023,4923,No,Export,436
+Uttar Pradesh,Central,Residential,Biomass,8,2023,4368,Yes,Export,441
+Rajasthan,North,Agriculture,Solar,11,2023,1738,Yes,Export,139
+Gujarat,West,Agriculture,Nuclear,2,2023,517,No,Export,31
+Tamil Nadu,Central,Commercial,Solar,11,2024,2666,No,Import,901
+Uttar Pradesh,Central,Industrial,Coal,11,2024,1395,Yes,Export,398
+Delhi,South,Agriculture,Wind,8,2024,2472,No,Export,144
+West Bengal,West,Residential,Wind,6,2024,4557,No,Import,541
+Rajasthan,West,Agriculture,Hydro,8,2024,4771,No,Export,229
+Andhra Pradesh,Central,Transport,Hydro,6,2023,1061,No,Export,342
+Maharashtra,West,Industrial,Oil,5,2023,1727,No,Export,139
+Rajasthan,Central,Commercial,Solar,5,2023,3747,Yes,Export,41
+Madhya Pradesh,South,Industrial,Natural Gas,10,2023,4947,Yes,Export,611
+Uttar Pradesh,Central,Transport,Natural Gas,10,2024,4116,Yes,Export,780
+Karnataka,West,Transport,Wind,11,2024,1942,Yes,Import,434
+Delhi,West,Transport,Coal,8,2023,2919,Yes,Export,307
+West Bengal,Central,Transport,Biomass,7,2023,4400,Yes,Import,513
+Delhi,Central,Residential,Coal,8,2024,1536,No,Export,854
+Rajasthan,Central,Commercial,Oil,12,2024,3389,No,Import,770
+Karnataka,East,Transport,Coal,8,2024,1466,No,Import,990
+Madhya Pradesh,West,Transport,Solar,7,2023,4907,No,Import,694
+Gujarat,West,Agriculture,Solar,2,2023,2896,Yes,Import,366
+Maharashtra,East,Commercial,Nuclear,11,2024,1407,Yes,Export,992
+Karnataka,Central,Industrial,Oil,9,2024,4110,Yes,Export,464
+Uttar Pradesh,South,Commercial,Coal,7,2023,4710,No,Export,410
+Andhra Pradesh,Central,Commercial,Natural Gas,12,2023,1441,Yes,Import,997
+Madhya Pradesh,Central,Commercial,Natural Gas,11,2023,1628,No,Import,905
+Maharashtra,East,Transport,Oil,6,2023,3799,No,Import,568
+West Bengal,West,Transport,Coal,9,2024,3675,Yes,Import,999
+Andhra Pradesh,Central,Residential,Solar,1,2024,2553,Yes,Import,718
+Rajasthan,West,Industrial,Solar,11,2024,3187,No,Import,929
+Karnataka,North,Agriculture,Nuclear,2,2023,2959,No,Import,464
+Maharashtra,West,Commercial,Nuclear,1,2023,2714,No,Export,900
+Tamil Nadu,South,Industrial,Hydro,10,2023,449,Yes,Import,43
+Gujarat,South,Industrial,Oil,12,2024,4432,No,Export,775
+Gujarat,Central,Residential,Wind,3,2024,4007,Yes,Export,257
+Madhya Pradesh,West,Agriculture,Coal,11,2024,2283,No,Import,955
+West Bengal,Central,Commercial,Oil,5,2023,1589,No,Import,51
+Madhya Pradesh,East,Agriculture,Natural Gas,1,2023,286,No,Import,810
+Tamil Nadu,South,Residential,Coal,4,2024,4960,No,Import,132
+Uttar Pradesh,Central,Transport,Nuclear,8,2023,977,No,Export,36
+West Bengal,East,Industrial,Nuclear,6,2024,4559,Yes,Import,471
+Delhi,Central,Commercial,Hydro,1,2024,469,Yes,Export,580
+Uttar Pradesh,West,Transport,Wind,12,2024,4174,Yes,Import,156
+West Bengal,West,Residential,Hydro,1,2024,2445,No,Export,505
+West Bengal,West,Agriculture,Natural Gas,3,2023,710,No,Export,636
+Tamil Nadu,West,Industrial,Wind,10,2023,2673,Yes,Export,495
+Rajasthan,North,Commercial,Biomass,8,2023,4000,No,Export,469
+Tamil Nadu,East,Transport,Coal,11,2023,499,Yes,Export,908
+West Bengal,East,Transport,Hydro,11,2023,429,Yes,Import,720
+Maharashtra,West,Industrial,Nuclear,8,2023,1300,Yes,Import,137
+Uttar Pradesh,North,Agriculture,Hydro,3,2024,2509,No,Import,385
+Tamil Nadu,West,Residential,Biomass,7,2023,3048,No,Export,674
+Rajasthan,North,Agriculture,Hydro,12,2023,4501,No,Import,890
+Karnataka,West,Agriculture,Coal,3,2023,2351,No,Export,792
+Madhya Pradesh,South,Agriculture,Biomass,4,2024,776,Yes,Export,860
+West Bengal,South,Industrial,Oil,9,2023,1517,No,Import,965
+Delhi,Central,Industrial,Oil,4,2024,2778,Yes,Export,92
+Karnataka,West,Residential,Oil,3,2023,3202,No,Import,544
+Gujarat,East,Agriculture,Nuclear,5,2023,3570,No,Export,532
+Andhra Pradesh,Central,Industrial,Nuclear,7,2023,4955,No,Import,708
+Rajasthan,South,Residential,Oil,5,2024,3404,No,Export,990
+Delhi,West,Residential,Oil,4,2024,465,No,Import,637
+Andhra Pradesh,Central,Agriculture,Oil,8,2023,649,Yes,Import,683
+Rajasthan,West,Commercial,Solar,4,2023,3124,No,Export,112
+Maharashtra,South,Agriculture,Oil,2,2023,4224,Yes,Export,764
+Madhya Pradesh,Central,Commercial,Biomass,10,2024,1617,Yes,Export,528
+Karnataka,South,Residential,Solar,6,2024,1144,No,Import,371
+Uttar Pradesh,North,Industrial,Solar,2,2023,2993,No,Import,693
+Rajasthan,South,Transport,Coal,3,2024,4203,Yes,Export,265
+Uttar Pradesh,West,Residential,Hydro,1,2024,1497,No,Import,256
+Madhya Pradesh,East,Industrial,Nuclear,5,2024,1542,No,Import,996
+West Bengal,South,Residential,Nuclear,9,2024,2721,No,Export,201
+Gujarat,East,Agriculture,Hydro,2,2023,1508,No,Import,635
+Karnataka,North,Commercial,Nuclear,12,2023,1258,No,Import,544
+Madhya Pradesh,Central,Residential,Hydro,7,2024,4984,Yes,Import,879
+Madhya Pradesh,Central,Industrial,Biomass,5,2024,2262,No,Export,323
+Maharashtra,East,Agriculture,Coal,2,2024,1404,No,Import,285
+Andhra Pradesh,Central,Transport,Oil,8,2023,262,No,Export,932
+Gujarat,South,Agriculture,Coal,11,2023,3944,No,Import,382
+Karnataka,East,Commercial,Natural Gas,6,2024,4652,Yes,Import,453
+West Bengal,West,Agriculture,Coal,4,2024,3013,Yes,Import,657
+West Bengal,South,Transport,Hydro,4,2024,2898,Yes,Import,878
+Tamil Nadu,South,Industrial,Natural Gas,2,2024,3092,No,Import,204
+Madhya Pradesh,South,Residential,Hydro,3,2023,3084,Yes,Export,267
+Rajasthan,West,Commercial,Oil,7,2023,1782,Yes,Import,799
+Maharashtra,North,Transport,Wind,3,2023,3131,No,Import,591
+Gujarat,Central,Commercial,Natural Gas,5,2023,1320,No,Import,880
+West Bengal,East,Agriculture,Oil,10,2023,4918,No,Import,369
+Karnataka,North,Commercial,Oil,6,2023,1579,No,Export,557
+Tamil Nadu,East,Transport,Nuclear,6,2024,1131,Yes,Import,117
+Karnataka,Central,Residential,Nuclear,4,2024,3581,Yes,Import,33
+Maharashtra,West,Residential,Wind,6,2023,1201,No,Import,661
+Rajasthan,South,Commercial,Wind,3,2023,1772,No,Import,474
+Tamil Nadu,South,Industrial,Coal,7,2023,766,No,Export,31
+Tamil Nadu,West,Commercial,Oil,7,2024,4249,Yes,Export,511
+Andhra Pradesh,North,Agriculture,Wind,4,2024,2240,Yes,Import,860
+Gujarat,North,Residential,Hydro,2,2024,254,No,Import,850
+Tamil Nadu,East,Residential,Oil,11,2024,3879,No,Import,725
+Andhra Pradesh,West,Residential,Solar,7,2023,3159,No,Import,901
+Andhra Pradesh,North,Industrial,Hydro,3,2024,4144,No,Import,745
+Maharashtra,West,Industrial,Natural Gas,1,2023,1382,No,Export,510
+Uttar Pradesh,Central,Transport,Wind,2,2024,2098,No,Export,744
+Karnataka,South,Commercial,Nuclear,10,2024,1899,No,Import,602
+Rajasthan,South,Commercial,Hydro,9,2024,4892,No,Import,416
+Delhi,South,Agriculture,Nuclear,12,2024,1287,No,Import,339
+Karnataka,West,Residential,Hydro,8,2023,2068,No,Export,712
+Tamil Nadu,West,Industrial,Nuclear,6,2023,567,No,Import,295
+Rajasthan,East,Agriculture,Biomass,6,2023,1488,Yes,Import,156
+West Bengal,South,Agriculture,Hydro,1,2023,4136,No,Export,803
+Uttar Pradesh,East,Industrial,Natural Gas,2,2023,2102,No,Export,995
+West Bengal,South,Commercial,Nuclear,4,2023,4418,Yes,Import,393
+West Bengal,East,Residential,Solar,3,2023,4567,No,Import,20
+Gujarat,East,Commercial,Natural Gas,1,2024,2362,Yes,Import,285
+Karnataka,Central,Agriculture,Coal,8,2023,2309,No,Import,895
+Delhi,East,Residential,Hydro,7,2024,3199,No,Export,577
+Maharashtra,West,Transport,Solar,4,2023,831,Yes,Export,694
+Delhi,East,Agriculture,Coal,12,2024,2763,No,Import,973
+West Bengal,South,Commercial,Hydro,12,2023,1294,No,Export,312
+Tamil Nadu,East,Commercial,Solar,9,2024,2466,No,Import,213
+Uttar Pradesh,North,Commercial,Solar,11,2023,1025,No,Export,354
+Madhya Pradesh,South,Industrial,Natural Gas,4,2023,3541,No,Import,769
+Delhi,North,Agriculture,Biomass,1,2023,3475,No,Import,835
+West Bengal,South,Residential,Solar,10,2023,466,No,Export,275
+Uttar Pradesh,West,Commercial,Biomass,1,2024,264,Yes,Export,31
+Rajasthan,West,Commercial,Wind,1,2023,4028,No,Export,848
+Karnataka,West,Industrial,Natural Gas,1,2023,1185,Yes,Export,545
+Andhra Pradesh,North,Residential,Oil,4,2024,3825,No,Export,715
+Gujarat,Central,Agriculture,Nuclear,1,2023,1632,No,Import,105
+Uttar Pradesh,South,Transport,Natural Gas,2,2024,4573,Yes,Import,990
+Tamil Nadu,West,Industrial,Coal,4,2024,782,No,Export,454
+Tamil Nadu,South,Agriculture,Nuclear,7,2023,2796,Yes,Import,272
+Uttar Pradesh,North,Transport,Nuclear,2,2023,2313,No,Import,593
+Tamil Nadu,Central,Commercial,Oil,8,2024,4558,No,Import,764
+Karnataka,North,Commercial,Biomass,7,2023,3854,No,Import,392
+Tamil Nadu,South,Residential,Oil,9,2024,2477,No,Export,559
+Delhi,Central,Transport,Oil,6,2023,281,No,Import,926
+Andhra Pradesh,Central,Commercial,Nuclear,4,2023,4980,No,Import,401
+Tamil Nadu,North,Commercial,Solar,6,2024,4403,No,Import,898
+Andhra Pradesh,West,Residential,Biomass,4,2023,452,Yes,Import,610
+West Bengal,South,Agriculture,Nuclear,7,2023,4915,No,Export,549
+Maharashtra,East,Commercial,Biomass,9,2023,114,No,Import,101
+Karnataka,East,Industrial,Wind,3,2024,2287,No,Import,575
+Maharashtra,North,Industrial,Biomass,3,2023,999,Yes,Import,168
+West Bengal,South,Agriculture,Hydro,2,2024,222,Yes,Export,893
+Karnataka,South,Transport,Solar,1,2023,2725,No,Export,237
+Uttar Pradesh,North,Residential,Coal,1,2024,1300,Yes,Import,482
+Uttar Pradesh,South,Industrial,Hydro,3,2023,3098,No,Import,381
+Andhra Pradesh,West,Industrial,Hydro,7,2023,4055,No,Export,385
+West Bengal,North,Agriculture,Oil,11,2024,687,No,Import,562
+Andhra Pradesh,West,Transport,Oil,9,2023,998,Yes,Export,46
+Gujarat,South,Transport,Hydro,2,2024,2310,No,Import,646
+Tamil Nadu,North,Agriculture,Nuclear,7,2023,1744,No,Import,943
+Madhya Pradesh,South,Industrial,Biomass,1,2024,4897,No,Export,700
+Gujarat,North,Residential,Biomass,2,2023,4807,No,Import,853
+Tamil Nadu,South,Industrial,Natural Gas,6,2024,192,Yes,Import,46
+Karnataka,West,Transport,Nuclear,11,2023,4631,No,Import,110
+Andhra Pradesh,West,Industrial,Solar,5,2024,1510,No,Export,552
+Karnataka,South,Residential,Nuclear,8,2024,3937,Yes,Export,199
+Karnataka,North,Commercial,Nuclear,12,2023,342,Yes,Import,521
+Tamil Nadu,East,Industrial,Nuclear,11,2024,1693,Yes,Import,667
+West Bengal,West,Agriculture,Solar,2,2024,2768,Yes,Import,99
+Tamil Nadu,West,Commercial,Natural Gas,1,2023,887,Yes,Import,15
+Rajasthan,East,Agriculture,Solar,7,2023,1087,No,Export,914
+Uttar Pradesh,South,Agriculture,Wind,6,2023,321,No,Export,148
+Uttar Pradesh,North,Agriculture,Natural Gas,8,2023,2008,No,Export,104
+Gujarat,South,Industrial,Wind,11,2023,2419,No,Import,640
+Uttar Pradesh,Central,Transport,Wind,8,2023,855,No,Import,887
+Tamil Nadu,West,Commercial,Wind,2,2024,3224,No,Export,641
+Delhi,Central,Residential,Biomass,8,2024,932,No,Import,395
+Andhra Pradesh,West,Transport,Hydro,6,2024,881,No,Import,132
+Tamil Nadu,West,Industrial,Hydro,9,2023,3221,No,Export,294
+Tamil Nadu,Central,Agriculture,Wind,12,2023,2241,No,Import,375
+Madhya Pradesh,Central,Residential,Wind,7,2024,2090,Yes,Export,898
+Andhra Pradesh,South,Commercial,Coal,2,2024,1644,No,Import,700
+Rajasthan,Central,Transport,Oil,8,2023,1676,No,Import,499
+Uttar Pradesh,South,Transport,Hydro,9,2024,3634,No,Import,334
+Andhra Pradesh,South,Residential,Oil,7,2023,323,Yes,Import,416
+Uttar Pradesh,South,Industrial,Oil,4,2023,639,No,Import,528
+Gujarat,West,Commercial,Coal,9,2024,2750,Yes,Export,905
+Andhra Pradesh,West,Residential,Oil,4,2023,632,Yes,Export,833
+Uttar Pradesh,Central,Agriculture,Natural Gas,12,2023,3683,Yes,Import,648
+Rajasthan,West,Commercial,Coal,4,2023,2040,No,Import,86
+Maharashtra,Central,Transport,Oil,9,2023,1308,No,Export,243
+Karnataka,West,Residential,Oil,8,2024,2916,Yes,Export,839
+Karnataka,North,Transport,Nuclear,4,2023,3788,No,Import,595
+Rajasthan,North,Transport,Oil,8,2023,621,Yes,Export,493
+Madhya Pradesh,Central,Transport,Biomass,8,2024,594,Yes,Export,473
+Maharashtra,West,Industrial,Natural Gas,7,2023,4272,No,Export,280
+Gujarat,West,Transport,Solar,10,2023,4878,Yes,Import,830
+Rajasthan,South,Agriculture,Hydro,6,2024,4562,No,Export,948
+Karnataka,East,Agriculture,Wind,8,2024,687,Yes,Export,476
+Karnataka,Central,Commercial,Oil,7,2023,90,Yes,Export,478
+Karnataka,East,Transport,Natural Gas,5,2023,4932,No,Export,641
+West Bengal,East,Transport,Wind,12,2024,4442,No,Import,556
+Rajasthan,Central,Residential,Solar,4,2023,1670,Yes,Export,728
+Tamil Nadu,West,Industrial,Natural Gas,12,2023,3722,No,Export,279
+Gujarat,Central,Commercial,Hydro,2,2023,4187,No,Export,614
+Karnataka,East,Transport,Natural Gas,11,2024,4178,No,Import,974
+Uttar Pradesh,West,Residential,Wind,8,2023,1349,Yes,Import,387
+Rajasthan,North,Industrial,Wind,9,2024,4761,No,Import,186
+West Bengal,Central,Commercial,Nuclear,4,2024,209,No,Export,283
+Rajasthan,Central,Commercial,Oil,4,2024,2002,Yes,Export,700
+Gujarat,West,Transport,Coal,5,2024,1781,No,Export,650
+West Bengal,North,Commercial,Natural Gas,2,2023,2496,No,Import,646
+Gujarat,North,Residential,Wind,7,2024,3212,No,Export,36
+Rajasthan,West,Commercial,Biomass,5,2023,1782,No,Export,585
+Tamil Nadu,South,Agriculture,Hydro,6,2024,630,No,Import,69
+Gujarat,Central,Residential,Biomass,4,2024,269,No,Export,740
+West Bengal,Central,Industrial,Solar,8,2023,4524,No,Export,226
+West Bengal,East,Industrial,Natural Gas,8,2024,1799,No,Import,690
+Gujarat,West,Transport,Nuclear,12,2024,1520,No,Import,670
+Delhi,East,Transport,Hydro,5,2023,4378,Yes,Import,279
+Rajasthan,East,Agriculture,Nuclear,12,2024,1444,Yes,Import,125
+Delhi,North,Industrial,Coal,6,2024,971,No,Import,254
+Madhya Pradesh,Central,Industrial,Wind,3,2024,2823,Yes,Export,669
+Rajasthan,East,Industrial,Oil,1,2023,4512,No,Import,613
+Gujarat,North,Industrial,Hydro,9,2024,4626,No,Export,94
+Maharashtra,West,Commercial,Solar,9,2023,3484,No,Export,608
+Gujarat,East,Residential,Oil,3,2023,3632,No,Import,916
+Delhi,Central,Residential,Natural Gas,4,2023,1168,No,Import,641
+Tamil Nadu,East,Agriculture,Coal,7,2024,1915,Yes,Export,459
+Gujarat,West,Commercial,Coal,2,2024,4361,No,Export,861
+Gujarat,East,Industrial,Nuclear,12,2024,774,Yes,Export,545
+Tamil Nadu,Central,Industrial,Coal,3,2024,761,No,Import,896
+Gujarat,North,Transport,Hydro,6,2023,1875,Yes,Export,98
+Karnataka,Central,Transport,Nuclear,11,2023,3976,Yes,Import,558
+Maharashtra,North,Agriculture,Oil,8,2024,440,No,Export,863
+Uttar Pradesh,South,Industrial,Coal,1,2024,1120,Yes,Export,904
+Maharashtra,Central,Agriculture,Natural Gas,4,2023,4537,No,Export,516
+Gujarat,Central,Commercial,Oil,1,2024,2815,No,Import,417
+Karnataka,West,Residential,Solar,2,2024,4530,Yes,Import,280
+Rajasthan,East,Industrial,Natural Gas,8,2024,2478,Yes,Export,533
+Gujarat,North,Commercial,Biomass,6,2024,4544,No,Export,503
+Delhi,North,Industrial,Hydro,9,2024,2197,No,Export,616
+Karnataka,West,Transport,Solar,2,2024,3622,No,Import,457
+Tamil Nadu,West,Agriculture,Solar,3,2023,4528,Yes,Import,552
+Karnataka,East,Transport,Nuclear,9,2023,2804,No,Import,958
+Tamil Nadu,East,Residential,Wind,9,2023,3313,No,Import,359
+Madhya Pradesh,Central,Transport,Nuclear,6,2023,3875,No,Import,754
+Uttar Pradesh,South,Industrial,Hydro,3,2024,3466,Yes,Export,861
+Andhra Pradesh,East,Transport,Hydro,5,2024,2107,No,Export,337
+Karnataka,West,Industrial,Nuclear,2,2023,2361,Yes,Export,821
+West Bengal,East,Residential,Wind,7,2023,2929,Yes,Import,295
+Delhi,North,Transport,Natural Gas,10,2023,3692,No,Export,44
+Gujarat,South,Agriculture,Nuclear,11,2023,2659,No,Import,542
+Delhi,Central,Agriculture,Hydro,8,2023,1480,No,Import,632
+Maharashtra,North,Agriculture,Wind,6,2024,1963,No,Export,497
+Andhra Pradesh,North,Transport,Hydro,8,2024,807,No,Export,840
+Maharashtra,South,Transport,Wind,2,2023,2184,No,Import,869
+Madhya Pradesh,Central,Transport,Wind,3,2023,1962,No,Import,496
+Andhra Pradesh,West,Industrial,Oil,7,2024,1789,No,Export,154
+Andhra Pradesh,Central,Residential,Nuclear,10,2024,3267,Yes,Import,533
+Maharashtra,East,Agriculture,Nuclear,12,2024,4806,Yes,Import,765
+Tamil Nadu,North,Industrial,Nuclear,1,2023,1184,No,Import,155
+Maharashtra,East,Agriculture,Wind,7,2024,3762,No,Export,760
+Delhi,West,Industrial,Wind,6,2023,814,Yes,Import,512
+Tamil Nadu,East,Transport,Hydro,8,2023,2775,No,Import,613
+Delhi,Central,Agriculture,Solar,7,2024,3418,No,Import,837
+Madhya Pradesh,East,Transport,Nuclear,4,2024,3547,No,Import,844
+Gujarat,West,Agriculture,Oil,3,2024,1722,Yes,Import,636
+Rajasthan,West,Commercial,Biomass,3,2023,3455,Yes,Import,536
+Tamil Nadu,West,Industrial,Hydro,4,2024,632,No,Import,281
+Madhya Pradesh,Central,Commercial,Hydro,9,2024,4816,No,Export,543
+West Bengal,West,Industrial,Coal,9,2023,4683,Yes,Export,639
+Madhya Pradesh,North,Residential,Nuclear,2,2024,1871,Yes,Export,890
+Maharashtra,West,Agriculture,Natural Gas,5,2024,1235,No,Import,104
+Maharashtra,East,Residential,Hydro,1,2023,4575,Yes,Export,456
+Rajasthan,East,Residential,Coal,4,2023,1687,No,Export,424
+Madhya Pradesh,East,Industrial,Biomass,2,2023,2230,No,Import,266
+Uttar Pradesh,Central,Commercial,Oil,8,2023,238,Yes,Export,852
+Gujarat,East,Transport,Biomass,4,2023,1796,Yes,Import,271
+Maharashtra,Central,Industrial,Natural Gas,5,2024,3876,No,Import,96
+Rajasthan,Central,Transport,Nuclear,11,2024,2670,Yes,Import,914
+Gujarat,West,Residential,Wind,4,2023,3995,No,Export,445
+Madhya Pradesh,North,Transport,Coal,5,2024,2376,No,Import,985
+Madhya Pradesh,West,Commercial,Wind,5,2024,1234,No,Export,839
+Andhra Pradesh,West,Industrial,Biomass,5,2023,2843,Yes,Import,579
+Rajasthan,Central,Commercial,Biomass,11,2023,2996,Yes,Import,751
+Maharashtra,Central,Commercial,Solar,3,2023,2550,No,Export,117
+Uttar Pradesh,East,Industrial,Solar,7,2024,4996,No,Import,28
+Madhya Pradesh,East,Commercial,Oil,3,2023,219,Yes,Export,374
+Uttar Pradesh,West,Agriculture,Natural Gas,2,2024,4975,No,Import,662
+Madhya Pradesh,South,Agriculture,Solar,3,2024,2795,No,Import,388
+Maharashtra,South,Agriculture,Solar,11,2024,1130,No,Import,169
+Gujarat,East,Transport,Natural Gas,3,2024,1313,Yes,Import,109
+Karnataka,South,Commercial,Hydro,8,2023,4914,No,Import,274
+Gujarat,East,Industrial,Solar,4,2024,4503,No,Import,759
+Madhya Pradesh,Central,Industrial,Hydro,3,2023,2298,No,Import,759
+Delhi,West,Transport,Hydro,10,2024,3958,No,Import,58
+Karnataka,North,Industrial,Nuclear,5,2023,1375,Yes,Export,686
+Karnataka,West,Agriculture,Hydro,4,2023,3227,Yes,Export,808
+Uttar Pradesh,East,Commercial,Hydro,9,2023,3923,Yes,Export,424
+Rajasthan,East,Industrial,Solar,8,2024,2198,No,Import,68
+Uttar Pradesh,West,Industrial,Hydro,11,2024,1738,No,Export,192
+Uttar Pradesh,East,Residential,Wind,7,2024,3035,Yes,Export,668
+Delhi,South,Residential,Natural Gas,8,2023,2126,Yes,Import,456
+Gujarat,South,Residential,Solar,5,2024,1579,Yes,Export,907
+Gujarat,East,Commercial,Natural Gas,4,2024,1511,Yes,Import,310
+West Bengal,East,Agriculture,Coal,7,2024,1452,No,Export,617
+Madhya Pradesh,South,Agriculture,Solar,1,2023,122,Yes,Export,564
+Delhi,East,Agriculture,Hydro,6,2024,4399,Yes,Export,363
+West Bengal,East,Commercial,Wind,8,2024,4084,No,Export,778
+Maharashtra,West,Commercial,Natural Gas,7,2023,4661,No,Export,222
+Madhya Pradesh,North,Residential,Solar,2,2023,2846,No,Import,198
+Madhya Pradesh,South,Industrial,Wind,7,2023,4566,Yes,Export,652
+Andhra Pradesh,West,Transport,Natural Gas,6,2023,2543,Yes,Import,356
+Andhra Pradesh,North,Transport,Coal,5,2023,4281,No,Export,821
+Tamil Nadu,East,Industrial,Biomass,4,2023,3626,Yes,Import,912
+Tamil Nadu,East,Residential,Oil,1,2024,82,Yes,Export,810
+Uttar Pradesh,West,Industrial,Oil,2,2024,2744,No,Export,146
+Maharashtra,East,Industrial,Coal,7,2023,4423,No,Export,39
+Karnataka,Central,Transport,Biomass,10,2024,4895,Yes,Export,155
+Karnataka,West,Residential,Nuclear,3,2023,3648,Yes,Export,833
+Andhra Pradesh,North,Commercial,Biomass,5,2024,2442,No,Import,995
+Andhra Pradesh,West,Transport,Nuclear,8,2023,4162,Yes,Export,477
+Andhra Pradesh,South,Commercial,Solar,8,2023,2921,No,Export,626
+Delhi,West,Residential,Nuclear,6,2024,2727,No,Import,512
+Rajasthan,East,Industrial,Oil,5,2024,1451,No,Export,808
+Tamil Nadu,East,Agriculture,Oil,2,2024,867,No,Export,977
+Delhi,Central,Agriculture,Wind,9,2024,1710,Yes,Export,200
+Gujarat,Central,Residential,Nuclear,1,2024,4612,Yes,Export,480
+Karnataka,Central,Agriculture,Wind,11,2024,4773,No,Export,699
+Madhya Pradesh,North,Commercial,Oil,2,2024,2488,No,Import,354
+Tamil Nadu,Central,Agriculture,Natural Gas,1,2024,3033,No,Export,760
+West Bengal,North,Residential,Natural Gas,12,2023,1260,No,Import,10
+Gujarat,Central,Residential,Biomass,4,2024,649,No,Export,119
+Tamil Nadu,North,Commercial,Biomass,4,2024,1896,No,Export,859
+Delhi,West,Agriculture,Biomass,5,2023,1905,No,Import,796
+Maharashtra,West,Agriculture,Nuclear,5,2023,1937,No,Export,892
+Madhya Pradesh,East,Industrial,Biomass,8,2023,729,No,Export,903
+Tamil Nadu,North,Transport,Nuclear,11,2023,3302,Yes,Import,755
+Rajasthan,South,Residential,Nuclear,11,2024,1885,No,Export,73
+Andhra Pradesh,East,Industrial,Hydro,3,2024,4080,No,Export,765
+Andhra Pradesh,West,Residential,Hydro,6,2023,2227,Yes,Import,62
+Madhya Pradesh,North,Industrial,Nuclear,12,2023,198,No,Import,271
+Delhi,Central,Transport,Natural Gas,12,2024,1545,No,Export,538
+Andhra Pradesh,South,Industrial,Wind,3,2024,4963,No,Export,311
+Tamil Nadu,West,Residential,Oil,2,2024,1794,Yes,Export,977
+West Bengal,East,Agriculture,Oil,8,2024,1696,No,Import,895
+Karnataka,North,Residential,Solar,1,2023,3045,Yes,Import,243
+Karnataka,South,Commercial,Coal,9,2024,1722,No,Export,82
+Gujarat,North,Commercial,Hydro,11,2023,1989,Yes,Export,366
+Uttar Pradesh,Central,Commercial,Nuclear,7,2023,707,No,Export,960
+Maharashtra,East,Commercial,Coal,12,2023,3717,No,Import,612
+Madhya Pradesh,North,Transport,Hydro,10,2024,1103,Yes,Import,493
+Gujarat,West,Agriculture,Solar,12,2023,4121,No,Import,15
+Uttar Pradesh,East,Agriculture,Oil,11,2024,626,No,Export,719
+Delhi,West,Residential,Wind,4,2023,3145,Yes,Export,886
+Rajasthan,North,Industrial,Nuclear,3,2024,3081,Yes,Export,717
+Rajasthan,East,Residential,Solar,6,2023,4868,Yes,Import,991
+Maharashtra,West,Residential,Oil,9,2023,4829,Yes,Export,817
+Andhra Pradesh,Central,Residential,Natural Gas,9,2024,4887,No,Import,868
+Tamil Nadu,Central,Residential,Hydro,4,2024,3022,No,Export,843
+Gujarat,North,Agriculture,Nuclear,10,2023,3998,Yes,Import,146
+Gujarat,East,Industrial,Coal,5,2023,2095,No,Export,788
+Madhya Pradesh,South,Residential,Natural Gas,11,2024,3986,No,Export,413
+Madhya Pradesh,East,Agriculture,Oil,9,2023,2998,Yes,Import,637
+Rajasthan,Central,Residential,Natural Gas,2,2024,1677,Yes,Export,564
+Rajasthan,West,Commercial,Biomass,2,2024,1538,Yes,Import,752
+West Bengal,South,Residential,Wind,5,2023,4195,No,Export,579
+West Bengal,North,Residential,Oil,1,2024,4248,No,Export,215
+Andhra Pradesh,South,Transport,Natural Gas,8,2023,4513,No,Export,419
+West Bengal,North,Commercial,Hydro,5,2024,985,Yes,Import,815
+Tamil Nadu,South,Industrial,Wind,12,2024,3613,No,Export,615
+Tamil Nadu,North,Residential,Nuclear,10,2023,3679,No,Import,45
+Gujarat,North,Industrial,Biomass,2,2024,1764,No,Export,239
+Karnataka,South,Commercial,Oil,12,2023,1852,No,Export,236
+Tamil Nadu,South,Residential,Solar,9,2024,1470,No,Import,704
+Uttar Pradesh,North,Transport,Wind,2,2024,3641,No,Export,271
+Rajasthan,Central,Agriculture,Coal,7,2024,3570,No,Export,140
+Madhya Pradesh,South,Transport,Hydro,8,2024,3361,Yes,Import,586
+West Bengal,East,Transport,Oil,6,2023,2355,No,Import,901
+Gujarat,West,Agriculture,Coal,11,2024,2045,No,Export,457
+Maharashtra,North,Agriculture,Wind,7,2024,2017,No,Import,195
+Madhya Pradesh,North,Agriculture,Oil,11,2024,3764,No,Import,638
+Uttar Pradesh,West,Residential,Biomass,1,2023,4085,No,Export,195
+West Bengal,Central,Industrial,Solar,4,2023,4535,Yes,Import,283
+Uttar Pradesh,West,Industrial,Solar,7,2023,4918,Yes,Import,672
+Rajasthan,South,Agriculture,Coal,1,2023,3508,No,Export,361
+Rajasthan,West,Transport,Nuclear,1,2024,443,Yes,Import,422
+Andhra Pradesh,North,Commercial,Nuclear,11,2024,4828,Yes,Import,160
+Gujarat,West,Agriculture,Biomass,6,2024,3780,No,Export,393
+Madhya Pradesh,East,Transport,Solar,4,2023,4415,No,Export,45
+Delhi,South,Transport,Coal,3,2023,4294,Yes,Import,335
+Delhi,West,Residential,Coal,12,2024,4956,Yes,Export,474
+Madhya Pradesh,North,Residential,Oil,5,2024,77,No,Import,475
+Maharashtra,South,Industrial,Oil,9,2024,3541,Yes,Import,104
+Gujarat,North,Industrial,Coal,10,2023,4311,No,Import,143
+Uttar Pradesh,Central,Commercial,Oil,10,2024,1223,Yes,Import,171
+Maharashtra,East,Commercial,Wind,12,2024,388,No,Export,565
+Karnataka,Central,Commercial,Oil,12,2023,1118,No,Export,309
+Madhya Pradesh,East,Commercial,Biomass,11,2023,891,No,Import,804
+Uttar Pradesh,West,Transport,Nuclear,10,2024,4334,Yes,Export,365
+Delhi,South,Transport,Nuclear,3,2023,4796,No,Import,249
+Tamil Nadu,West,Industrial,Wind,5,2024,343,No,Import,573
+Andhra Pradesh,East,Residential,Hydro,10,2024,1907,Yes,Export,947
+Delhi,East,Residential,Wind,5,2024,1372,No,Export,802
+Gujarat,East,Agriculture,Biomass,9,2024,1697,No,Import,595
+Rajasthan,North,Transport,Coal,11,2023,4948,No,Export,816
+Tamil Nadu,South,Commercial,Wind,12,2023,3670,Yes,Import,759
+Andhra Pradesh,West,Commercial,Coal,10,2023,4576,Yes,Export,176
+Andhra Pradesh,West,Agriculture,Biomass,11,2024,3144,No,Export,149
+Karnataka,Central,Residential,Natural Gas,4,2024,3541,No,Import,148
+Karnataka,East,Commercial,Biomass,1,2024,3545,No,Export,890
+West Bengal,East,Residential,Solar,10,2023,4632,No,Export,244
+Delhi,East,Agriculture,Coal,5,2023,3851,Yes,Import,12
+Delhi,West,Residential,Nuclear,1,2024,138,No,Import,265
+Delhi,Central,Residential,Wind,6,2023,4416,Yes,Import,380
+West Bengal,North,Residential,Natural Gas,12,2023,2006,No,Import,287
+Maharashtra,South,Commercial,Biomass,10,2023,949,No,Import,525
+Andhra Pradesh,North,Industrial,Coal,10,2023,3527,No,Import,913
+Tamil Nadu,West,Transport,Natural Gas,7,2024,1794,No,Export,791
+Gujarat,East,Residential,Hydro,1,2023,4423,Yes,Import,221
+Andhra Pradesh,South,Residential,Solar,10,2024,2303,No,Import,225
+Karnataka,West,Residential,Hydro,4,2023,3711,Yes,Import,279
+Uttar Pradesh,West,Industrial,Biomass,9,2024,3010,Yes,Export,485
+Rajasthan,West,Agriculture,Hydro,1,2024,1683,Yes,Import,537
+West Bengal,South,Commercial,Hydro,9,2023,911,No,Import,937
+Madhya Pradesh,South,Industrial,Solar,8,2024,4751,Yes,Export,73
+Uttar Pradesh,Central,Residential,Solar,5,2024,1063,No,Export,760
+Gujarat,Central,Industrial,Oil,6,2023,3349,No,Import,469
+Delhi,North,Industrial,Solar,7,2024,1556,No,Export,25
+Karnataka,South,Industrial,Natural Gas,4,2023,3255,Yes,Export,573
+Karnataka,South,Agriculture,Oil,6,2024,4853,Yes,Import,28
+Karnataka,South,Transport,Solar,7,2023,1027,No,Import,334
+Delhi,Central,Commercial,Hydro,11,2023,3511,No,Import,917
+Madhya Pradesh,West,Agriculture,Nuclear,6,2023,1867,Yes,Export,102
+West Bengal,East,Agriculture,Nuclear,11,2023,3734,No,Import,782
+Uttar Pradesh,Central,Transport,Oil,12,2023,4108,No,Export,819
+Delhi,South,Agriculture,Solar,6,2024,2684,No,Import,26
+Gujarat,Central,Industrial,Natural Gas,2,2024,4951,No,Export,632
+West Bengal,North,Industrial,Wind,5,2023,4865,No,Import,849
+Gujarat,South,Residential,Coal,3,2024,3716,No,Export,881
+West Bengal,North,Agriculture,Biomass,7,2024,998,Yes,Import,497
+Madhya Pradesh,South,Residential,Natural Gas,4,2024,523,No,Import,103
+Rajasthan,Central,Commercial,Wind,1,2023,617,No,Import,19
+Gujarat,West,Industrial,Biomass,12,2023,3482,Yes,Export,733
+Delhi,East,Commercial,Wind,12,2024,4073,No,Export,758
+West Bengal,North,Transport,Wind,6,2023,2308,Yes,Import,775
+Karnataka,Central,Industrial,Oil,6,2023,3194,Yes,Export,537
+Andhra Pradesh,West,Commercial,Nuclear,7,2024,4360,Yes,Import,498
+Karnataka,Central,Transport,Coal,11,2023,2032,No,Export,153
+Maharashtra,North,Commercial,Wind,8,2023,1146,No,Import,563
+Rajasthan,East,Transport,Solar,3,2023,3620,No,Export,524
+Rajasthan,Central,Transport,Biomass,6,2023,3440,No,Export,928
+Karnataka,South,Industrial,Natural Gas,10,2023,2722,Yes,Export,479
+Uttar Pradesh,West,Residential,Nuclear,2,2024,3696,No,Export,386
+Madhya Pradesh,Central,Transport,Biomass,9,2023,2469,No,Export,677
+Gujarat,West,Transport,Oil,2,2023,4329,No,Import,503
+Delhi,South,Industrial,Solar,3,2024,3398,No,Export,694
+Rajasthan,East,Residential,Solar,12,2024,723,Yes,Export,493
+Karnataka,East,Agriculture,Wind,10,2023,2852,No,Export,461
+Karnataka,South,Agriculture,Solar,12,2024,2419,No,Export,545
+Madhya Pradesh,West,Residential,Coal,12,2023,4580,Yes,Import,796
+Madhya Pradesh,Central,Commercial,Oil,2,2024,1116,No,Export,84
+Tamil Nadu,South,Industrial,Solar,9,2023,737,No,Export,49
+Tamil Nadu,North,Residential,Wind,1,2024,118,Yes,Import,311
+Uttar Pradesh,West,Agriculture,Biomass,5,2023,2153,No,Import,561
+Uttar Pradesh,East,Transport,Oil,1,2024,469,No,Export,71
+Maharashtra,South,Agriculture,Solar,5,2023,4048,No,Import,759
+Uttar Pradesh,East,Transport,Nuclear,8,2023,2647,Yes,Export,512
+West Bengal,West,Industrial,Oil,8,2023,4388,Yes,Export,254
+Madhya Pradesh,East,Transport,Oil,11,2024,2174,Yes,Import,27
+Delhi,South,Residential,Natural Gas,8,2024,3942,No,Export,661
+West Bengal,West,Transport,Nuclear,2,2023,489,No,Import,407
+Gujarat,North,Commercial,Nuclear,8,2023,1336,No,Import,603
+Karnataka,South,Residential,Biomass,12,2023,1258,Yes,Export,198
+Uttar Pradesh,Central,Industrial,Hydro,5,2023,1128,Yes,Export,629
+Karnataka,South,Residential,Natural Gas,1,2024,2613,No,Import,755
+Rajasthan,West,Commercial,Nuclear,7,2024,3673,No,Export,789
+Maharashtra,South,Industrial,Nuclear,6,2024,1303,No,Import,113
+Rajasthan,North,Agriculture,Hydro,5,2023,3407,No,Import,932
+Maharashtra,North,Commercial,Biomass,1,2023,3259,No,Import,655
+Tamil Nadu,Central,Industrial,Natural Gas,1,2024,3599,No,Import,353
+Karnataka,East,Transport,Nuclear,6,2024,664,No,Export,380
+Maharashtra,West,Residential,Wind,10,2024,3128,No,Export,42
+Andhra Pradesh,West,Industrial,Biomass,12,2024,2773,No,Export,758
+West Bengal,East,Residential,Natural Gas,7,2023,3540,No,Export,383
+Maharashtra,North,Transport,Nuclear,10,2023,3593,Yes,Export,857
+Maharashtra,North,Industrial,Nuclear,10,2023,4565,Yes,Export,187
+West Bengal,South,Agriculture,Hydro,1,2024,1950,Yes,Import,21
+Karnataka,Central,Commercial,Natural Gas,9,2023,4421,No,Export,872
+Karnataka,Central,Industrial,Wind,4,2024,1762,Yes,Import,962
+West Bengal,Central,Transport,Biomass,5,2024,2379,Yes,Import,750
+Rajasthan,South,Industrial,Solar,2,2024,3669,No,Import,830
+Andhra Pradesh,Central,Residential,Coal,12,2024,1244,Yes,Export,790
+Delhi,East,Industrial,Wind,10,2024,4956,No,Import,899
+Gujarat,South,Agriculture,Solar,8,2023,1428,No,Export,465
+Andhra Pradesh,East,Industrial,Wind,2,2023,1362,No,Import,879
+Karnataka,South,Commercial,Natural Gas,3,2023,2965,Yes,Export,652
+Delhi,Central,Industrial,Solar,12,2024,799,Yes,Export,258
+Tamil Nadu,East,Residential,Natural Gas,9,2023,350,No,Export,457
+Uttar Pradesh,East,Industrial,Solar,2,2024,4745,No,Export,989
+Maharashtra,East,Agriculture,Wind,6,2023,4032,No,Export,579
+West Bengal,South,Transport,Hydro,12,2024,4674,Yes,Import,13
+West Bengal,West,Industrial,Wind,4,2024,3887,No,Export,245
+Maharashtra,Central,Industrial,Natural Gas,7,2023,327,Yes,Export,182
+Uttar Pradesh,East,Commercial,Wind,6,2024,4808,No,Import,331
+Gujarat,West,Agriculture,Oil,10,2023,2608,No,Export,380
+Uttar Pradesh,Central,Transport,Oil,9,2023,3967,No,Export,557
+Delhi,Central,Residential,Solar,9,2023,2211,No,Export,800
+Uttar Pradesh,East,Industrial,Oil,10,2024,4725,No,Export,758
+Delhi,East,Transport,Coal,4,2024,1439,No,Export,796
+Uttar Pradesh,South,Residential,Solar,1,2024,740,No,Import,305
+Gujarat,West,Agriculture,Oil,2,2024,4782,No,Export,849
+Gujarat,West,Agriculture,Nuclear,8,2023,3518,No,Import,409
+Karnataka,East,Transport,Wind,10,2024,1898,No,Export,67
+Maharashtra,Central,Residential,Biomass,8,2023,4968,No,Import,884
+Gujarat,East,Agriculture,Wind,2,2023,3866,No,Import,539
+Delhi,Central,Transport,Oil,4,2024,989,No,Import,557
+Gujarat,Central,Agriculture,Hydro,1,2024,3232,Yes,Export,417
+Karnataka,East,Agriculture,Natural Gas,7,2023,3359,Yes,Export,650
+West Bengal,North,Agriculture,Biomass,4,2024,2100,Yes,Import,522
+Delhi,West,Commercial,Solar,11,2023,1796,No,Export,73
+Karnataka,Central,Residential,Hydro,8,2024,2501,No,Export,583
+Rajasthan,Central,Transport,Wind,9,2024,74,No,Import,887
+Rajasthan,North,Transport,Oil,12,2023,2606,No,Export,429
+Tamil Nadu,South,Residential,Solar,9,2023,110,No,Import,852
+Uttar Pradesh,North,Residential,Solar,3,2023,172,Yes,Export,155
+Maharashtra,North,Residential,Nuclear,5,2024,2152,No,Import,281
+Madhya Pradesh,Central,Residential,Nuclear,6,2024,1236,No,Export,26
+Andhra Pradesh,West,Industrial,Oil,6,2024,1780,No,Export,801
+Karnataka,North,Transport,Oil,10,2023,4691,Yes,Import,107
+West Bengal,South,Industrial,Coal,8,2023,4139,No,Import,461
+Andhra Pradesh,East,Agriculture,Nuclear,6,2024,2522,No,Export,748
+West Bengal,North,Agriculture,Natural Gas,6,2023,3015,No,Import,984
+Andhra Pradesh,North,Transport,Biomass,4,2024,2327,No,Import,907
+Karnataka,South,Agriculture,Solar,7,2023,4137,No,Import,252
+Madhya Pradesh,West,Residential,Nuclear,8,2024,3014,No,Import,488
+Andhra Pradesh,North,Industrial,Oil,3,2024,1360,No,Import,210
+Karnataka,North,Residential,Coal,7,2024,204,No,Export,915
+Gujarat,West,Agriculture,Oil,3,2023,2262,No,Import,958
+Madhya Pradesh,South,Industrial,Oil,8,2023,3303,Yes,Import,482
+Delhi,North,Residential,Oil,1,2024,1312,No,Import,188
+West Bengal,West,Transport,Wind,1,2024,1412,Yes,Import,517
+Rajasthan,North,Residential,Biomass,6,2024,987,Yes,Export,462
+Uttar Pradesh,East,Agriculture,Nuclear,10,2024,561,Yes,Import,279
+Rajasthan,Central,Industrial,Solar,9,2024,236,Yes,Export,243
+Madhya Pradesh,East,Transport,Wind,12,2024,1895,No,Export,633
+Delhi,North,Industrial,Oil,4,2023,1752,No,Import,495
+West Bengal,South,Transport,Natural Gas,6,2023,440,Yes,Import,587
+Delhi,Central,Industrial,Solar,12,2023,704,No,Export,347
+Andhra Pradesh,East,Agriculture,Wind,5,2023,4321,No,Export,870
+West Bengal,West,Transport,Natural Gas,12,2024,2871,No,Export,958
+Andhra Pradesh,South,Commercial,Natural Gas,1,2024,813,No,Import,766
+Karnataka,East,Industrial,Biomass,6,2024,3450,No,Export,766
+Madhya Pradesh,West,Industrial,Solar,9,2023,4856,Yes,Import,989
+Karnataka,North,Residential,Nuclear,12,2023,3317,Yes,Export,457
+Tamil Nadu,West,Transport,Nuclear,3,2024,1135,Yes,Export,593
+Delhi,East,Commercial,Coal,11,2023,1979,No,Import,366
+Andhra Pradesh,East,Agriculture,Wind,3,2023,4426,No,Import,58
+Gujarat,North,Residential,Coal,2,2024,2013,Yes,Export,505
+Karnataka,West,Commercial,Hydro,4,2024,1835,Yes,Import,355
+Tamil Nadu,West,Transport,Nuclear,10,2024,2324,Yes,Import,711
+Maharashtra,North,Commercial,Wind,3,2023,2736,No,Export,302
+Rajasthan,West,Industrial,Biomass,12,2024,3018,Yes,Import,698
+West Bengal,North,Industrial,Coal,2,2024,4622,No,Import,973
+Tamil Nadu,South,Residential,Biomass,1,2024,765,Yes,Export,682
+Madhya Pradesh,East,Transport,Biomass,3,2023,292,No,Export,159
+Karnataka,South,Transport,Oil,10,2023,3965,Yes,Import,591
+Madhya Pradesh,Central,Commercial,Oil,6,2024,1573,No,Import,554
+Rajasthan,Central,Residential,Biomass,9,2024,887,Yes,Import,805
+Gujarat,Central,Transport,Coal,11,2023,3373,No,Export,865
+Delhi,North,Industrial,Oil,5,2023,3003,No,Export,269
+Delhi,West,Commercial,Hydro,3,2024,1395,No,Import,331
+Madhya Pradesh,South,Agriculture,Natural Gas,5,2023,2473,No,Import,86
+Andhra Pradesh,South,Industrial,Natural Gas,5,2024,2078,Yes,Import,119
+Gujarat,South,Residential,Oil,5,2024,1482,Yes,Export,826
+Delhi,South,Transport,Coal,12,2023,289,No,Export,905
+Gujarat,Central,Industrial,Natural Gas,12,2024,188,No,Import,660
+Tamil Nadu,South,Agriculture,Solar,7,2024,3243,No,Import,556
+Gujarat,West,Agriculture,Natural Gas,5,2023,469,No,Import,432
+Uttar Pradesh,Central,Residential,Nuclear,7,2024,353,No,Import,403
+Rajasthan,South,Industrial,Coal,9,2023,2212,No,Export,244
+Delhi,North,Commercial,Oil,5,2024,2076,Yes,Import,339
+Gujarat,East,Industrial,Oil,2,2024,4152,No,Import,721
+Madhya Pradesh,East,Agriculture,Natural Gas,5,2023,2276,Yes,Export,334
+Maharashtra,East,Residential,Coal,8,2023,1218,No,Import,160
+Uttar Pradesh,Central,Residential,Hydro,12,2023,465,Yes,Import,555
+Uttar Pradesh,South,Commercial,Solar,4,2023,2763,Yes,Import,645
+Andhra Pradesh,Central,Residential,Oil,2,2023,199,No,Import,888
+Gujarat,West,Residential,Coal,10,2023,2494,No,Import,41
+Andhra Pradesh,North,Residential,Oil,3,2024,888,Yes,Import,281
+Andhra Pradesh,North,Residential,Oil,9,2023,1746,Yes,Export,845
+Maharashtra,East,Residential,Nuclear,9,2024,4389,No,Import,831
+Tamil Nadu,East,Agriculture,Natural Gas,8,2023,1960,No,Export,645
+Gujarat,East,Industrial,Nuclear,8,2024,1471,No,Export,933
+Karnataka,South,Transport,Natural Gas,8,2024,3051,No,Export,377
+Delhi,West,Residential,Oil,8,2023,1370,Yes,Export,501
+Andhra Pradesh,West,Transport,Coal,8,2024,4085,No,Import,325
+Rajasthan,West,Transport,Biomass,1,2024,1573,No,Import,599
+West Bengal,West,Agriculture,Natural Gas,6,2024,3928,No,Import,597
+Rajasthan,East,Residential,Biomass,12,2023,602,Yes,Import,581
+Maharashtra,North,Transport,Solar,9,2023,3806,No,Export,606
+Maharashtra,East,Residential,Nuclear,8,2024,3721,No,Export,377
+Madhya Pradesh,West,Commercial,Biomass,3,2023,531,No,Export,89
+Tamil Nadu,East,Commercial,Nuclear,11,2023,649,No,Import,895
+Delhi,West,Commercial,Natural Gas,1,2024,1214,No,Export,181
+Andhra Pradesh,Central,Transport,Natural Gas,2,2024,4728,No,Import,267
+Rajasthan,North,Commercial,Solar,11,2023,4282,Yes,Export,288
+West Bengal,Central,Agriculture,Natural Gas,2,2023,1053,No,Import,513
+Maharashtra,South,Agriculture,Oil,7,2023,2032,No,Export,742
+Maharashtra,East,Transport,Solar,12,2024,1684,No,Export,567
+Tamil Nadu,South,Residential,Biomass,6,2023,3047,Yes,Import,500
+West Bengal,East,Industrial,Natural Gas,11,2023,736,No,Export,594
+West Bengal,Central,Residential,Coal,2,2023,3464,Yes,Export,575
+Tamil Nadu,West,Residential,Wind,8,2024,1809,Yes,Import,848
+Maharashtra,West,Residential,Hydro,9,2024,4987,No,Export,742
+Delhi,East,Residential,Oil,7,2024,2530,No,Export,902
+Gujarat,West,Industrial,Wind,4,2023,1387,Yes,Export,346
+Gujarat,Central,Commercial,Wind,1,2023,164,No,Export,530
+Tamil Nadu,West,Residential,Nuclear,4,2024,4007,No,Import,335
+West Bengal,Central,Agriculture,Oil,4,2023,618,No,Import,181
+Andhra Pradesh,South,Transport,Oil,8,2023,1603,Yes,Export,93
+Tamil Nadu,Central,Transport,Solar,4,2023,2739,No,Import,851
+Delhi,North,Agriculture,Nuclear,4,2024,4640,No,Export,850
+Tamil Nadu,North,Residential,Biomass,2,2023,3390,Yes,Import,533
+Uttar Pradesh,North,Industrial,Hydro,12,2023,3038,No,Export,490
+Rajasthan,East,Commercial,Biomass,10,2024,3201,No,Export,553
+West Bengal,East,Transport,Coal,7,2023,3577,Yes,Import,427
+Madhya Pradesh,East,Commercial,Hydro,4,2024,3065,No,Export,348
+Madhya Pradesh,Central,Industrial,Nuclear,11,2023,871,No,Export,810
+West Bengal,East,Transport,Natural Gas,6,2024,3624,No,Export,329
+Delhi,South,Commercial,Natural Gas,3,2024,3837,No,Export,313
+Uttar Pradesh,North,Industrial,Nuclear,7,2023,1658,Yes,Import,281
+Uttar Pradesh,Central,Commercial,Biomass,6,2023,609,No,Import,699
+Maharashtra,North,Residential,Nuclear,3,2024,4113,Yes,Import,123
+Rajasthan,East,Industrial,Nuclear,4,2023,4485,No,Import,416
+Gujarat,Central,Commercial,Wind,10,2024,661,Yes,Export,35
+Karnataka,West,Residential,Coal,5,2023,2213,Yes,Export,246
+Delhi,South,Residential,Oil,9,2023,1931,No,Export,319
+Karnataka,East,Industrial,Natural Gas,6,2023,4219,Yes,Export,693
+Karnataka,East,Agriculture,Wind,4,2023,3913,No,Import,242
+West Bengal,South,Transport,Nuclear,11,2024,3758,No,Import,558
+Madhya Pradesh,South,Industrial,Solar,11,2024,1759,No,Import,274
+Madhya Pradesh,West,Residential,Wind,7,2023,1811,No,Export,999
+Gujarat,East,Residential,Nuclear,2,2023,1742,Yes,Export,22
+West Bengal,East,Industrial,Natural Gas,4,2023,1295,Yes,Export,505
+Karnataka,North,Agriculture,Oil,5,2023,175,No,Export,325
+Andhra Pradesh,Central,Transport,Nuclear,4,2023,4802,No,Import,627
+Madhya Pradesh,Central,Commercial,Coal,4,2024,1249,No,Import,647
+Delhi,North,Industrial,Biomass,11,2024,2761,Yes,Import,857
+Delhi,Central,Transport,Hydro,9,2023,3496,Yes,Export,393
+Maharashtra,South,Transport,Wind,11,2024,1040,Yes,Import,651
+Tamil Nadu,Central,Residential,Wind,2,2024,3115,Yes,Export,325
+Andhra Pradesh,Central,Commercial,Wind,6,2023,1571,Yes,Import,265
+Madhya Pradesh,North,Industrial,Nuclear,8,2024,4778,No,Import,450
+Uttar Pradesh,West,Residential,Oil,8,2024,2548,Yes,Export,124
+Madhya Pradesh,Central,Residential,Coal,11,2024,2615,No,Export,308
+Maharashtra,Central,Agriculture,Oil,7,2024,4840,No,Export,924
+Delhi,West,Transport,Nuclear,10,2023,2647,Yes,Import,133
+Karnataka,North,Industrial,Nuclear,11,2024,165,No,Import,265
+Uttar Pradesh,West,Industrial,Biomass,4,2024,1081,No,Import,660
+West Bengal,North,Industrial,Solar,7,2024,1291,No,Import,727
+Rajasthan,South,Residential,Coal,10,2023,1792,No,Export,56
+Karnataka,North,Agriculture,Wind,6,2024,3688,Yes,Import,738
+Rajasthan,South,Commercial,Hydro,11,2024,4449,No,Export,840
+Andhra Pradesh,South,Residential,Wind,6,2024,4140,No,Import,912
+Tamil Nadu,North,Commercial,Oil,2,2023,2025,No,Export,472
+Uttar Pradesh,East,Agriculture,Nuclear,8,2023,4233,No,Export,359
+Gujarat,North,Transport,Coal,8,2023,4453,No,Import,132
+Uttar Pradesh,Central,Industrial,Natural Gas,11,2023,4947,No,Import,40
+Madhya Pradesh,Central,Commercial,Coal,7,2023,213,No,Export,993
+Delhi,East,Residential,Coal,11,2024,3360,No,Import,64
+Madhya Pradesh,South,Commercial,Solar,9,2023,3438,No,Export,162
+Madhya Pradesh,East,Transport,Wind,8,2024,1045,Yes,Import,465
+Andhra Pradesh,Central,Industrial,Solar,9,2023,1927,Yes,Import,295
+Karnataka,East,Commercial,Natural Gas,9,2023,1873,No,Import,45
+Gujarat,North,Transport,Natural Gas,6,2023,4956,Yes,Import,827
+Gujarat,East,Residential,Biomass,2,2024,2345,Yes,Import,919
+Madhya Pradesh,South,Agriculture,Oil,12,2024,3314,No,Export,806
+Rajasthan,North,Residential,Hydro,7,2024,1398,Yes,Import,932
+Andhra Pradesh,West,Industrial,Biomass,3,2023,1853,Yes,Export,894
+Madhya Pradesh,Central,Residential,Nuclear,7,2023,2301,No,Export,265
+Tamil Nadu,Central,Residential,Solar,9,2023,2950,No,Export,187
+Delhi,East,Residential,Solar,10,2023,1643,No,Import,557
+Karnataka,North,Residential,Biomass,10,2023,482,No,Export,263
+West Bengal,West,Industrial,Nuclear,2,2023,3867,No,Export,517
+Tamil Nadu,North,Transport,Coal,6,2024,4967,No,Export,683
+Rajasthan,Central,Commercial,Nuclear,6,2024,1120,No,Export,30
+Uttar Pradesh,North,Agriculture,Wind,9,2023,4650,No,Export,815
+Uttar Pradesh,West,Commercial,Biomass,9,2024,164,No,Export,84
+Tamil Nadu,East,Commercial,Oil,5,2024,1489,No,Import,728
+Madhya Pradesh,South,Agriculture,Nuclear,5,2024,1840,Yes,Export,469
+West Bengal,North,Industrial,Coal,9,2023,1044,Yes,Export,993
+Maharashtra,South,Agriculture,Nuclear,8,2023,4368,No,Import,187
+Maharashtra,Central,Industrial,Solar,7,2023,4781,Yes,Export,391
+Rajasthan,East,Commercial,Hydro,8,2023,4817,No,Import,46
+Madhya Pradesh,East,Industrial,Solar,6,2024,1007,No,Import,980
+Gujarat,North,Transport,Oil,3,2023,145,No,Export,129
+Gujarat,East,Agriculture,Natural Gas,7,2023,2204,Yes,Export,924
+Karnataka,North,Transport,Hydro,8,2023,681,No,Import,639
+West Bengal,North,Commercial,Natural Gas,8,2024,3734,Yes,Import,10
+West Bengal,South,Agriculture,Nuclear,1,2024,1751,No,Import,730
+Uttar Pradesh,East,Commercial,Wind,7,2024,747,No,Import,945
+Andhra Pradesh,North,Transport,Oil,3,2024,81,Yes,Export,320
+Rajasthan,South,Commercial,Nuclear,2,2024,4924,No,Import,217
+Maharashtra,West,Agriculture,Coal,2,2023,598,Yes,Import,163
+Rajasthan,South,Agriculture,Nuclear,8,2024,2298,No,Import,771
+Gujarat,South,Commercial,Hydro,9,2024,1943,Yes,Export,692
+Gujarat,North,Agriculture,Solar,3,2023,2884,Yes,Import,324
+Tamil Nadu,Central,Agriculture,Wind,3,2023,1753,Yes,Import,316
+Karnataka,Central,Commercial,Natural Gas,6,2023,1206,Yes,Export,513
+West Bengal,Central,Transport,Nuclear,11,2024,393,No,Export,628
+Delhi,South,Agriculture,Nuclear,10,2023,4122,No,Import,664
+Rajasthan,North,Agriculture,Solar,1,2024,3512,No,Import,529
+Gujarat,East,Agriculture,Wind,6,2023,2298,Yes,Import,615
+Andhra Pradesh,South,Agriculture,Biomass,12,2024,994,No,Export,919
+Uttar Pradesh,South,Commercial,Natural Gas,3,2024,3930,No,Export,106
+Maharashtra,North,Transport,Nuclear,11,2024,2100,No,Import,499
+Karnataka,West,Transport,Nuclear,4,2024,3335,No,Import,16
+Andhra Pradesh,South,Industrial,Biomass,9,2023,2905,No,Import,795
+Karnataka,West,Agriculture,Natural Gas,3,2023,1380,Yes,Export,21
+Tamil Nadu,West,Agriculture,Hydro,1,2024,2053,No,Import,523
+Delhi,Central,Industrial,Hydro,3,2023,3665,No,Import,955
+Gujarat,North,Transport,Oil,7,2024,1837,No,Export,358
+Uttar Pradesh,West,Residential,Oil,7,2023,2296,Yes,Import,926
+Andhra Pradesh,North,Residential,Coal,11,2023,3722,Yes,Export,16
+Karnataka,Central,Transport,Solar,5,2024,2205,Yes,Export,509
+West Bengal,North,Agriculture,Wind,1,2024,3529,Yes,Import,484
+Tamil Nadu,South,Residential,Nuclear,11,2023,3070,Yes,Export,533
+West Bengal,West,Commercial,Natural Gas,8,2024,101,No,Export,861
+Uttar Pradesh,North,Commercial,Nuclear,10,2023,2209,No,Import,66
+Andhra Pradesh,East,Industrial,Oil,8,2023,4440,No,Export,599
+Tamil Nadu,North,Transport,Coal,10,2023,3701,Yes,Export,595
+Andhra Pradesh,West,Transport,Natural Gas,12,2024,3965,No,Import,242
+Gujarat,Central,Residential,Natural Gas,10,2024,2162,Yes,Import,800
+Madhya Pradesh,Central,Agriculture,Nuclear,10,2023,2671,No,Import,39
+Tamil Nadu,West,Transport,Solar,2,2024,4610,No,Import,376
+West Bengal,South,Residential,Coal,10,2024,4779,No,Import,835
+Uttar Pradesh,South,Residential,Solar,3,2023,1404,No,Export,616
+Delhi,Central,Transport,Coal,4,2024,3804,No,Export,829
+Gujarat,Central,Residential,Nuclear,1,2024,259,Yes,Export,65
+Madhya Pradesh,West,Industrial,Coal,4,2023,287,Yes,Export,19
+Delhi,South,Industrial,Hydro,5,2024,385,Yes,Export,924
+Maharashtra,Central,Transport,Natural Gas,3,2023,3888,Yes,Import,156
+Gujarat,South,Agriculture,Wind,11,2024,1626,No,Import,373
+Uttar Pradesh,Central,Industrial,Nuclear,10,2024,549,Yes,Import,608
+Karnataka,North,Industrial,Biomass,2,2023,1614,No,Import,262
+Tamil Nadu,East,Transport,Wind,6,2023,840,Yes,Export,708
+Andhra Pradesh,North,Commercial,Nuclear,8,2024,3590,No,Import,949
+Uttar Pradesh,Central,Residential,Wind,7,2023,3172,No,Import,754
+Tamil Nadu,East,Industrial,Hydro,11,2023,1185,Yes,Export,262
+Delhi,East,Commercial,Wind,1,2024,3994,No,Export,452
+Andhra Pradesh,Central,Agriculture,Coal,4,2023,2398,No,Import,745
+Rajasthan,Central,Commercial,Oil,3,2024,4374,Yes,Export,349
+West Bengal,South,Transport,Wind,6,2024,199,No,Export,525
+Maharashtra,Central,Agriculture,Nuclear,9,2023,3256,Yes,Import,362
+Gujarat,West,Agriculture,Biomass,9,2024,3578,No,Export,633
+Uttar Pradesh,Central,Commercial,Biomass,7,2023,1674,No,Import,714
+Maharashtra,West,Transport,Oil,12,2024,2624,No,Export,662
+Karnataka,Central,Industrial,Solar,9,2023,4478,No,Export,332
+Tamil Nadu,South,Commercial,Oil,8,2023,4319,Yes,Export,149
+Tamil Nadu,West,Industrial,Natural Gas,5,2024,3334,No,Export,870
+Uttar Pradesh,North,Commercial,Wind,9,2023,2158,No,Import,960
+Madhya Pradesh,West,Industrial,Biomass,7,2023,3997,No,Export,454
+Madhya Pradesh,South,Commercial,Oil,5,2023,4964,No,Import,104
+Rajasthan,West,Agriculture,Wind,8,2024,2313,No,Import,562
+West Bengal,Central,Residential,Natural Gas,7,2024,1662,No,Export,429
+Andhra Pradesh,Central,Agriculture,Biomass,9,2023,3865,Yes,Export,523
+Karnataka,South,Industrial,Natural Gas,10,2023,4769,No,Import,799
+Maharashtra,East,Transport,Wind,1,2024,627,Yes,Export,159
+Madhya Pradesh,Central,Agriculture,Nuclear,9,2024,472,No,Export,562
+Rajasthan,North,Residential,Wind,7,2024,2813,No,Import,360
+Rajasthan,South,Industrial,Oil,1,2023,1279,No,Export,125
+Uttar Pradesh,West,Agriculture,Natural Gas,1,2024,3226,Yes,Import,641
+Karnataka,West,Commercial,Nuclear,5,2023,803,No,Export,246
+Delhi,North,Transport,Nuclear,8,2024,4892,No,Export,279
+Andhra Pradesh,Central,Industrial,Solar,9,2023,737,No,Export,870
+West Bengal,South,Agriculture,Biomass,12,2024,772,Yes,Export,300
+Gujarat,North,Industrial,Coal,6,2023,796,No,Export,443
+Uttar Pradesh,Central,Commercial,Nuclear,12,2024,4387,Yes,Export,18
+Andhra Pradesh,South,Residential,Natural Gas,10,2024,2762,No,Import,760
+Gujarat,West,Agriculture,Biomass,12,2023,757,Yes,Import,639
+Gujarat,South,Industrial,Hydro,8,2024,484,Yes,Export,873
+Karnataka,East,Industrial,Wind,6,2024,4926,Yes,Export,836
+Karnataka,South,Industrial,Oil,11,2024,533,Yes,Import,833
+Maharashtra,East,Residential,Natural Gas,6,2024,3568,Yes,Import,484
+Rajasthan,South,Industrial,Hydro,4,2023,1583,No,Import,531
+Andhra Pradesh,East,Transport,Natural Gas,11,2023,219,No,Export,546
+Uttar Pradesh,West,Transport,Wind,5,2024,1070,Yes,Export,694
+Tamil Nadu,Central,Industrial,Solar,2,2023,897,No,Export,746
+Uttar Pradesh,East,Transport,Natural Gas,3,2023,745,No,Import,20
+Maharashtra,East,Agriculture,Nuclear,3,2023,3396,No,Import,622
+West Bengal,West,Transport,Coal,12,2023,4063,Yes,Export,786
+Rajasthan,East,Industrial,Nuclear,11,2023,81,Yes,Import,912
+Tamil Nadu,North,Commercial,Wind,5,2024,226,No,Export,336
+Madhya Pradesh,West,Agriculture,Natural Gas,5,2023,3014,Yes,Export,939
+West Bengal,North,Residential,Coal,6,2024,2162,Yes,Import,604
+Karnataka,West,Industrial,Nuclear,5,2023,3936,Yes,Export,285
+Gujarat,East,Residential,Coal,12,2024,1552,Yes,Import,379
+Madhya Pradesh,North,Commercial,Oil,6,2024,2365,No,Import,499
+Uttar Pradesh,East,Residential,Wind,8,2024,2694,Yes,Export,354
+Uttar Pradesh,West,Industrial,Solar,2,2023,115,No,Export,782
+Karnataka,East,Industrial,Solar,4,2023,4278,No,Import,377
+Maharashtra,North,Commercial,Natural Gas,6,2024,1978,No,Export,742
+Andhra Pradesh,North,Industrial,Nuclear,12,2024,634,Yes,Import,320
+Madhya Pradesh,East,Commercial,Hydro,5,2023,1798,Yes,Export,740
+Madhya Pradesh,South,Commercial,Wind,1,2023,2254,No,Import,610
+Delhi,West,Industrial,Nuclear,9,2024,3680,No,Import,494
+West Bengal,West,Transport,Nuclear,3,2023,1942,No,Export,24
+Rajasthan,East,Commercial,Solar,2,2023,2479,No,Export,767
+West Bengal,South,Industrial,Natural Gas,9,2023,3143,No,Import,697
+Andhra Pradesh,North,Transport,Coal,7,2023,1023,No,Import,13
+Uttar Pradesh,Central,Commercial,Wind,5,2023,4074,No,Import,855
+Uttar Pradesh,Central,Transport,Oil,12,2023,2692,No,Import,385
+Uttar Pradesh,East,Agriculture,Coal,6,2024,1492,Yes,Export,378
+Delhi,South,Agriculture,Biomass,12,2024,4379,Yes,Export,474
+Uttar Pradesh,South,Transport,Biomass,11,2024,1527,Yes,Export,542
+Andhra Pradesh,West,Commercial,Wind,4,2024,820,Yes,Import,729
+Karnataka,North,Industrial,Natural Gas,1,2024,355,No,Export,995
+Rajasthan,South,Residential,Hydro,4,2024,51,Yes,Import,146
+Andhra Pradesh,Central,Industrial,Biomass,9,2023,320,No,Import,843
+Rajasthan,North,Residential,Solar,1,2023,4566,No,Export,372
+Andhra Pradesh,North,Residential,Hydro,10,2024,3264,Yes,Export,984
+Uttar Pradesh,East,Commercial,Nuclear,3,2024,913,No,Import,940
+Karnataka,South,Transport,Biomass,5,2024,2789,Yes,Import,225
+Madhya Pradesh,East,Industrial,Solar,7,2023,2964,Yes,Export,377
+West Bengal,South,Transport,Nuclear,9,2023,156,No,Import,126
+Gujarat,West,Agriculture,Hydro,6,2023,3218,No,Export,188
+Karnataka,East,Commercial,Wind,3,2023,4694,Yes,Export,255
+Madhya Pradesh,East,Commercial,Nuclear,7,2024,2649,Yes,Import,137
+Maharashtra,Central,Agriculture,Coal,4,2024,2285,Yes,Import,367
+Andhra Pradesh,East,Industrial,Wind,3,2024,2849,Yes,Import,87
+Maharashtra,South,Agriculture,Wind,7,2024,1561,Yes,Import,750
+Madhya Pradesh,Central,Industrial,Hydro,11,2023,68,No,Import,302
+Karnataka,East,Residential,Hydro,11,2023,908,Yes,Export,783
+Andhra Pradesh,East,Commercial,Solar,7,2024,1466,No,Export,91
+Gujarat,West,Industrial,Solar,4,2023,3082,No,Export,351
+Uttar Pradesh,East,Transport,Coal,12,2023,4555,No,Export,347
+Andhra Pradesh,North,Transport,Wind,7,2023,1476,Yes,Import,828
+Andhra Pradesh,Central,Commercial,Oil,11,2023,2581,No,Export,587
+Karnataka,North,Agriculture,Natural Gas,2,2024,4769,Yes,Import,105
+Karnataka,Central,Agriculture,Coal,1,2023,4801,No,Import,154
+Madhya Pradesh,West,Industrial,Coal,12,2024,4913,Yes,Import,586
+Tamil Nadu,East,Agriculture,Natural Gas,2,2023,4088,No,Import,530
+Andhra Pradesh,East,Commercial,Natural Gas,4,2023,4163,Yes,Import,406
+West Bengal,East,Industrial,Natural Gas,8,2024,2281,Yes,Export,366
+Andhra Pradesh,Central,Residential,Hydro,3,2024,2502,Yes,Import,195
+Madhya Pradesh,East,Agriculture,Coal,10,2023,2896,Yes,Import,679
+Rajasthan,North,Agriculture,Coal,6,2023,3252,No,Export,552
+Maharashtra,East,Industrial,Nuclear,6,2024,1866,No,Export,160
+Uttar Pradesh,West,Transport,Natural Gas,9,2023,1830,Yes,Export,328
+Tamil Nadu,North,Agriculture,Natural Gas,9,2023,4153,No,Import,763
+Gujarat,East,Commercial,Solar,4,2024,754,No,Import,677
+Gujarat,East,Agriculture,Solar,9,2023,1391,No,Import,68
+Gujarat,South,Residential,Wind,6,2023,3512,Yes,Import,19
+Karnataka,Central,Agriculture,Solar,2,2023,3640,No,Export,866
+Gujarat,North,Transport,Biomass,10,2023,1209,Yes,Export,133
+Uttar Pradesh,South,Agriculture,Wind,11,2023,4676,No,Export,365
+Maharashtra,West,Industrial,Oil,6,2024,3772,No,Export,355
+Gujarat,Central,Agriculture,Natural Gas,2,2023,3488,No,Export,803
+Andhra Pradesh,North,Transport,Nuclear,8,2024,3610,No,Export,246
+Andhra Pradesh,East,Industrial,Solar,4,2024,3132,No,Import,342
+Karnataka,North,Commercial,Nuclear,5,2023,1765,Yes,Import,26
+Uttar Pradesh,East,Industrial,Solar,8,2024,2293,No,Export,433
+Maharashtra,Central,Residential,Solar,11,2023,1810,Yes,Export,333
+Tamil Nadu,East,Industrial,Nuclear,8,2024,4057,Yes,Export,32
+Madhya Pradesh,West,Commercial,Coal,12,2024,1846,No,Export,940
+Maharashtra,East,Agriculture,Coal,12,2024,2725,No,Import,468
+Madhya Pradesh,West,Industrial,Coal,6,2023,3286,No,Import,469
+Rajasthan,Central,Industrial,Biomass,4,2024,93,No,Import,530
+Madhya Pradesh,Central,Industrial,Coal,1,2024,538,No,Export,728
+West Bengal,North,Industrial,Solar,12,2024,4326,Yes,Export,566
+Andhra Pradesh,West,Commercial,Natural Gas,7,2023,3198,Yes,Export,430
+Uttar Pradesh,West,Transport,Hydro,8,2023,4773,No,Import,974
+Delhi,South,Transport,Nuclear,9,2024,1006,Yes,Import,412
+Karnataka,South,Industrial,Natural Gas,2,2024,2164,No,Import,340
+West Bengal,South,Commercial,Hydro,1,2024,1165,No,Export,466
+Madhya Pradesh,East,Commercial,Natural Gas,4,2024,1831,No,Import,492
+Gujarat,South,Industrial,Biomass,5,2023,2876,No,Import,507
+Uttar Pradesh,West,Residential,Hydro,10,2023,700,Yes,Export,36
+West Bengal,East,Industrial,Oil,12,2023,1926,No,Import,406
+Karnataka,Central,Residential,Wind,1,2024,390,Yes,Export,962
+Andhra Pradesh,North,Industrial,Coal,5,2023,3000,No,Export,197
+Uttar Pradesh,South,Residential,Oil,6,2024,3425,Yes,Export,149
+Karnataka,Central,Residential,Biomass,3,2024,2495,No,Import,530
+Rajasthan,West,Industrial,Natural Gas,12,2024,2800,No,Import,755
+Rajasthan,North,Residential,Solar,7,2023,2194,No,Export,101
+Karnataka,Central,Agriculture,Coal,6,2024,1404,No,Import,86
+West Bengal,North,Transport,Oil,4,2023,3326,No,Export,861
+Uttar Pradesh,South,Commercial,Coal,3,2024,498,No,Import,253
+West Bengal,West,Residential,Hydro,5,2023,4222,No,Export,854
+Tamil Nadu,North,Residential,Wind,3,2024,4694,No,Export,676
+Madhya Pradesh,Central,Commercial,Coal,10,2023,847,No,Import,739
+Tamil Nadu,South,Residential,Natural Gas,9,2024,3546,No,Export,968
+Rajasthan,South,Commercial,Natural Gas,9,2023,4960,No,Export,998
+Andhra Pradesh,Central,Industrial,Nuclear,6,2024,2232,Yes,Export,806
+Maharashtra,Central,Agriculture,Nuclear,11,2024,3376,No,Export,671
+Madhya Pradesh,North,Agriculture,Coal,6,2024,695,No,Export,850
+Rajasthan,East,Transport,Hydro,12,2023,769,No,Import,97
+West Bengal,South,Residential,Hydro,4,2024,1572,No,Import,627
+West Bengal,North,Transport,Solar,4,2024,1119,No,Export,924
+West Bengal,Central,Industrial,Biomass,2,2024,4793,No,Import,303
+Andhra Pradesh,North,Agriculture,Biomass,10,2023,4937,Yes,Export,104
+Tamil Nadu,Central,Industrial,Oil,4,2024,4724,No,Export,262
+Maharashtra,West,Industrial,Biomass,8,2024,3125,No,Export,560
+West Bengal,Central,Residential,Wind,10,2023,3857,No,Export,408
+Delhi,Central,Industrial,Hydro,2,2024,3411,No,Export,776
+Madhya Pradesh,Central,Agriculture,Solar,9,2023,2206,Yes,Import,63
+Uttar Pradesh,East,Transport,Nuclear,1,2024,4605,No,Import,937
+Delhi,Central,Agriculture,Natural Gas,2,2023,2363,No,Import,252
+Maharashtra,South,Residential,Biomass,2,2023,3555,Yes,Import,119
+Andhra Pradesh,South,Agriculture,Nuclear,11,2023,4189,No,Import,775
+Maharashtra,North,Commercial,Nuclear,6,2024,682,No,Import,633
+Uttar Pradesh,East,Transport,Coal,7,2024,2249,No,Export,695
+Madhya Pradesh,North,Commercial,Wind,3,2023,3113,No,Import,710
+Uttar Pradesh,South,Commercial,Solar,11,2024,2960,No,Export,230
+Karnataka,South,Residential,Wind,9,2024,672,No,Export,770
+Madhya Pradesh,West,Industrial,Coal,5,2023,410,No,Import,573
+Maharashtra,Central,Commercial,Solar,5,2023,2417,No,Import,171
+West Bengal,South,Agriculture,Solar,11,2023,259,No,Export,978
+Maharashtra,North,Industrial,Hydro,12,2023,3517,No,Export,44
+Maharashtra,North,Agriculture,Wind,4,2024,980,No,Export,975
+Madhya Pradesh,Central,Agriculture,Wind,9,2024,4634,Yes,Export,46
+Karnataka,Central,Industrial,Hydro,8,2024,3993,Yes,Export,855
+Maharashtra,West,Industrial,Oil,12,2024,4746,No,Import,838
+Delhi,East,Agriculture,Nuclear,4,2024,4919,No,Import,632
+Rajasthan,North,Residential,Coal,4,2024,927,Yes,Export,379
+Gujarat,Central,Transport,Wind,2,2023,4845,Yes,Export,186
+Gujarat,North,Transport,Hydro,9,2024,2549,Yes,Export,530
+Maharashtra,Central,Residential,Natural Gas,3,2024,2573,No,Export,284
+Delhi,South,Industrial,Oil,4,2024,4401,No,Export,992
+West Bengal,North,Agriculture,Solar,7,2023,441,No,Export,642
+Andhra Pradesh,South,Transport,Biomass,10,2023,3952,No,Export,114
+Andhra Pradesh,North,Agriculture,Natural Gas,8,2024,2371,No,Export,165
+Madhya Pradesh,East,Residential,Hydro,8,2023,4990,Yes,Import,345
+Gujarat,West,Agriculture,Biomass,4,2023,4031,No,Export,35
+Maharashtra,South,Residential,Nuclear,7,2024,188,No,Export,943
+Andhra Pradesh,Central,Industrial,Coal,10,2024,152,No,Import,305
+Maharashtra,East,Residential,Biomass,1,2024,533,No,Export,546
+Madhya Pradesh,North,Residential,Oil,6,2023,4369,No,Export,364
+Gujarat,South,Transport,Nuclear,6,2023,4123,No,Export,895
+Uttar Pradesh,North,Agriculture,Biomass,6,2024,1898,No,Export,78
+Rajasthan,North,Transport,Solar,12,2023,1934,No,Import,336
+Rajasthan,North,Commercial,Solar,2,2023,3255,No,Export,160
+Andhra Pradesh,West,Residential,Oil,8,2023,2211,Yes,Export,866
+Rajasthan,West,Commercial,Solar,5,2024,1514,No,Export,586
+Uttar Pradesh,Central,Transport,Solar,5,2024,693,No,Import,671
+Maharashtra,South,Agriculture,Hydro,2,2024,3486,Yes,Export,329
+Madhya Pradesh,East,Transport,Solar,4,2024,4603,Yes,Export,766
+Uttar Pradesh,East,Agriculture,Natural Gas,12,2024,660,Yes,Import,461
+Madhya Pradesh,East,Agriculture,Solar,9,2023,4352,No,Import,579
+Madhya Pradesh,North,Industrial,Natural Gas,9,2023,1593,No,Import,677
+Gujarat,West,Residential,Hydro,6,2023,3589,Yes,Import,121
+Maharashtra,South,Transport,Solar,11,2023,1516,Yes,Export,644
+Delhi,North,Agriculture,Oil,9,2023,966,No,Import,471
+Rajasthan,West,Transport,Nuclear,4,2023,1231,Yes,Import,874
+Delhi,West,Transport,Oil,11,2024,2196,Yes,Import,973
+Gujarat,South,Agriculture,Nuclear,1,2024,2322,No,Export,371
+Madhya Pradesh,South,Commercial,Wind,2,2023,901,No,Import,212
+Andhra Pradesh,South,Residential,Nuclear,1,2024,4586,Yes,Export,496
+Rajasthan,North,Residential,Coal,8,2023,769,No,Export,489
+Rajasthan,Central,Industrial,Coal,9,2023,4730,Yes,Import,13
+Maharashtra,South,Industrial,Coal,10,2024,2064,No,Export,138
+Karnataka,Central,Industrial,Hydro,12,2024,3522,Yes,Import,35
+Tamil Nadu,North,Residential,Oil,6,2023,3692,Yes,Import,810
+Tamil Nadu,Central,Commercial,Nuclear,2,2024,3920,No,Export,986
+Tamil Nadu,East,Residential,Oil,6,2023,113,No,Export,36
+Karnataka,Central,Residential,Natural Gas,9,2023,4913,Yes,Export,51
+Maharashtra,South,Residential,Coal,12,2023,609,Yes,Export,974
+Karnataka,North,Residential,Wind,3,2023,1783,No,Import,592
+Tamil Nadu,South,Commercial,Hydro,9,2023,719,No,Export,73
+Gujarat,East,Industrial,Wind,2,2024,3944,Yes,Export,34
+Uttar Pradesh,South,Transport,Nuclear,11,2023,1592,No,Export,81
+Madhya Pradesh,South,Industrial,Solar,5,2024,1321,Yes,Export,491
+Karnataka,South,Industrial,Wind,11,2023,2465,No,Import,882
+Maharashtra,West,Transport,Solar,2,2024,2841,Yes,Import,909
+Maharashtra,East,Residential,Hydro,7,2023,4763,Yes,Export,277
+Delhi,South,Commercial,Wind,11,2024,3104,Yes,Export,835
+Uttar Pradesh,South,Commercial,Wind,10,2023,2508,No,Import,104
+Andhra Pradesh,South,Industrial,Biomass,9,2023,3115,No,Import,404
+Rajasthan,North,Transport,Hydro,7,2024,1213,No,Import,878
+Tamil Nadu,West,Agriculture,Hydro,12,2024,4609,Yes,Import,373
+Andhra Pradesh,North,Residential,Coal,5,2024,2799,Yes,Export,324
+Delhi,West,Industrial,Nuclear,4,2024,1998,No,Export,126
+Tamil Nadu,South,Commercial,Wind,12,2024,109,Yes,Import,173
+Uttar Pradesh,East,Transport,Oil,4,2024,3152,No,Import,886
+Delhi,Central,Transport,Wind,10,2023,382,Yes,Export,799
+Tamil Nadu,Central,Industrial,Natural Gas,8,2023,4221,No,Export,586
+Uttar Pradesh,South,Agriculture,Hydro,10,2023,239,No,Import,315
+West Bengal,North,Commercial,Oil,10,2024,3610,No,Export,781
+Andhra Pradesh,East,Industrial,Hydro,10,2024,345,Yes,Import,749
+Andhra Pradesh,West,Agriculture,Nuclear,10,2024,2598,Yes,Export,209
+Rajasthan,South,Transport,Hydro,10,2023,226,No,Export,994
+Uttar Pradesh,East,Residential,Solar,1,2024,849,No,Import,741
+Karnataka,East,Commercial,Solar,5,2023,855,No,Export,189
+West Bengal,West,Commercial,Biomass,2,2024,1792,No,Import,367
+Gujarat,East,Agriculture,Solar,11,2024,264,No,Export,749
+Tamil Nadu,North,Industrial,Solar,9,2024,1929,No,Import,261
+West Bengal,North,Transport,Nuclear,7,2023,2750,No,Import,308
+Uttar Pradesh,North,Agriculture,Wind,10,2024,646,No,Import,882
+Madhya Pradesh,East,Residential,Solar,8,2023,1767,No,Export,439
+Tamil Nadu,North,Residential,Oil,6,2024,1405,No,Import,13
+Maharashtra,West,Residential,Biomass,9,2024,4273,No,Import,662
+Andhra Pradesh,East,Agriculture,Hydro,6,2024,1342,No,Export,687
+Uttar Pradesh,Central,Transport,Solar,7,2024,2648,No,Export,263
+Maharashtra,East,Commercial,Biomass,7,2023,3487,No,Import,950
+Rajasthan,West,Industrial,Nuclear,9,2024,4764,No,Import,674
+Delhi,Central,Commercial,Natural Gas,11,2023,191,Yes,Export,588
+Gujarat,East,Transport,Natural Gas,8,2024,3266,Yes,Export,576
+Gujarat,North,Commercial,Natural Gas,1,2024,2889,No,Export,105
+Maharashtra,South,Agriculture,Hydro,4,2024,4390,No,Import,176
+Andhra Pradesh,South,Residential,Biomass,7,2023,3563,Yes,Export,842
+Rajasthan,North,Transport,Solar,11,2024,2800,No,Import,340
